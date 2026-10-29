@@ -1,0 +1,6 @@
+{
+  "_status": "PLACEHOLDER: paste Brann's 33 steps here. Never invent or guess them.",
+  "_shape": {"id": "int 1..33", "title": "str", "category": "str", "depends_on": ["int"], "documents_needed": ["str"], "milestone_day": "30|60|90|180|365|null"},
+  "milestone_days": [30, 60, 90, 180, 365],
+  "steps": []
+}

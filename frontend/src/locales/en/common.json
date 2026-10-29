@@ -1,0 +1,7 @@
+{
+  "nav": { "home": "Home", "community": "Community", "reentry": "Reentry", "work": "Work", "support": "Support", "journey": "Journey", "wellbeing": "Wellbeing", "safety": "Safety", "learning": "Learn", "matching": "Match", "venue": "Venue", "family": "Family", "platform": "Settings" },
+  "home": { "title": "Welcome to {{app}}", "tagline": "One community for coming home and staying well." },
+  "crisis": { "button": "Need help now", "title": "You are not alone", "call988": "Call 988", "text988": "Text 988", "call911": "Emergency: call 911", "close": "Close" },
+  "area": { "comingSoon": "Coming soon. This area is a placeholder in the scaffold." },
+  "lang": { "label": "Language" }
+}
