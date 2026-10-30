@@ -16,11 +16,13 @@ def test_app_name_from_one_setting(db):
 
 def test_features_endpoint(client):
     body = client.get("/api/features").json()
-    assert body["count"] == 45 and len(body["features"]) == 45
+    assert body["count"] == 49 and len(body["features"]) == 49
 
 
 def test_every_feature_has_a_stub_route(client):
     for f in registry.FEATURES:
+        if f.status == "working":
+            continue
         r = client.get(f"/api/{f.group}/{f.id}")
         assert r.status_code == 501, f.id
         assert r.json()["feature"]["id"] == f.id

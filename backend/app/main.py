@@ -26,4 +26,5 @@ def create_app(settings: Settings | None = None, db=None) -> FastAPI:
     app.state.db = db
     for module in ROUTERS:
         app.include_router(module.router)
+    app.include_router(journey.public_router)
     return app

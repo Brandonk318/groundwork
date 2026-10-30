@@ -6,10 +6,11 @@ from fastapi.responses import JSONResponse
 from .. import registry
 
 
-def stub_router(group: str) -> APIRouter:
+def stub_router(group: str, exclude: set[str] | None = None) -> APIRouter:
+    exclude = exclude or set()
     router = APIRouter(prefix=f"/api/{group}", tags=[group])
     for f in registry.FEATURES:
-        if f.group != group:
+        if f.group != group or f.id in exclude:
             continue
 
         def make(feature=f):

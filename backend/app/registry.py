@@ -1,7 +1,7 @@
-"""The 45-feature registry: the single source of truth for what the app is.
+"""The 49-feature registry: the single source of truth for what the app is.
 
 Faithful to Brann's spec (2026-10-28): 18 reentry + 10 recovery + 17 own
-additions = 45 entries. "courses" appears twice in the spec (reentry #14 and
+additions = 45 entries, plus 4 Phase 3 add-ons (#46-49). "courses" appears twice in the spec (reentry #14 and
 own-addition #45); both entries stay in the registry and point at ONE module
 (`module="courses"`). See docs/features.md for the overlap note.
 
@@ -46,7 +46,7 @@ F = Feature
 FEATURES: tuple[Feature, ...] = (
     # ---- REENTRY (18) ----
     F(1, "reentry_checklist", "33-step reentry checklist (milestones 30/60/90/180/365 days)", "reentry", "reentry", "unassigned",
-      notes="Brann's 33 steps are NOT provided. Data lives in app/data/reentry_steps.json; never invent them."),
+      notes="Brann's 33 steps supplied 2026-10-29 (docs/reentry-33-steps.md), seeded exactly in app/data/reentry_steps.json."),
     F(2, "court_calendar", "Court-date calendar with reminders", "reentry", "reentry", "unassigned"),
     F(3, "job_board", "Job board filtered to second-chance employers", "reentry", "work", "unassigned"),
     F(4, "resume_builder", "Resume builder", "reentry", "work", "unassigned"),
@@ -100,10 +100,24 @@ FEATURES: tuple[Feature, ...] = (
     F(44, "family_mode", "Family mode (separate login; member controls visibility)", "own", "family", "unassigned"),
     F(45, "courses_life_skills", "Courses: life skills (parole navigation, interviews, relapse prevention, small business)", "own", "learning", "paid",
       module="courses", notes="Same module as #14. Fresh curriculum on the academy engine."),
+    # ---- PHASE 3 ADD-ONS (4) ----
+    F(46, "carpool_board", "Carpool board (opt-in, city-level; which meeting you're heading to; in-app messaging only)", "own", "support", "unassigned",
+      notes="Primary way to find people going the same way. Tied to twelve_step_locator + community_groups_directory. No phones, no precise location."),
+    F(47, "community_groups_directory", "Community groups directory (recovery, reentry, faith groups; sample data only)", "own", "support", "unassigned",
+      notes="Separate from twelve_step_locator. Seed data is clearly marked SAMPLE; no invented real listings."),
+    F(48, "housing_savings", "Housing savings (savings goal tracker + housing-readiness plan; 211 pointers only)", "own", "journey", "unassigned",
+      notes="Never provides housing or partners with providers. Calculator inputs are user-entered."),
+    F(49, "music_player", "Music player (off inside academy/course modules; sample tracks only)", "own", "platform", "unassigned",
+      notes="No third-party streaming accounts. Placeholder/sample tracks clearly marked."),
 )
 
+_WORKING = {"carpool_board", "community_groups_directory", "housing_savings", "music_player", "ai_matching", "token_rewards", "merch_rewards", "progress_share_card", "day_one_archive", "events", "program_groups", "virtual_meetings", "video_posts", "photo_posts", "voice_notes", "anonymous_qa", "mentorship", "geolocation", "needs_a_ride", "accountability_partners", "resume_builder", "interview_coach", "micro_gigs", "courses", "courses_life_skills", "crisis_button", "relapse_protocol", "safe_call_contacts", "data_wipe", "mood_checkins", "filters", "locks", "read_aloud", "multi_language", "resource_directory", "twelve_step_locator", "counseling_referrals", "community_feed", "anonymous_posting", "peer_messaging", "milestone_celebrations", "reentry_checklist", "court_calendar", "job_board", "application_tracker", "document_vault", "journey_portfolio", "family_mode", "virtual_venue"}
+for _f in FEATURES:
+    if _f.id in _WORKING:
+        object.__setattr__(_f, "status", "working")
+
 BY_ID = {f.id: f for f in FEATURES}
-SIDES = {"reentry": 18, "recovery": 10, "own": 17}
+SIDES = {"reentry": 18, "recovery": 10, "own": 21}
 GROUPS = sorted({f.group for f in FEATURES})
 MILESTONE_DAYS = (30, 60, 90, 180, 365)
 

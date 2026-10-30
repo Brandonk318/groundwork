@@ -31,7 +31,7 @@ describe("shell", () => {
   it("covers every feature id except the crisis button in an area page", () => {
     const ids = AREAS.flatMap((a) => a.features);
     expect(new Set(ids).size).toBe(ids.length);
-    expect(ids.length).toBe(44); // 45 registry entries minus crisis_button (on every screen)
+    expect(ids.length).toBe(48); // 49 registry entries minus crisis_button (on every screen)
   });
 });
 
