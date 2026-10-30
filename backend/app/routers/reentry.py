@@ -3,7 +3,7 @@ import uuid
 from datetime import date, datetime, timezone
 from fastapi import APIRouter, Depends, HTTPException, Request
 from pydantic import BaseModel, Field
-from .. import checklist as checklist_lib, moderation, registry, safety
+from .. import checklist as checklist_lib, moderation, outbox, registry, safety
 from ..deps import get_current_user
 from ._stub import stub_router
 
@@ -162,6 +162,14 @@ async def milestones(user=Depends(get_current_user)):
 async def add_court(body: CourtIn, request: Request, user=Depends(get_current_user)):
     doc = {"_id": uuid.uuid4().hex, "user_id": user["_id"], "on": body.on, "court": body.court, "notes": body.notes}
     await request.app.state.db.court_dates.insert_one(doc)
+    try:
+        send_at = datetime.fromisoformat(body.on)
+        if send_at.tzinfo is None:
+            send_at = send_at.replace(tzinfo=timezone.utc)
+    except Exception:
+        send_at = datetime.now(timezone.utc)
+    await outbox.enqueue(request.app.state.db, user["_id"], "inapp", "court_reminder",
+                         {"court_date_id": doc["_id"], "court": body.court, "on": body.on}, send_at)
     return {k: v for k, v in doc.items()}
 
 @router.get("/court_calendar")

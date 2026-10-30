@@ -1,9 +1,9 @@
 """Wellbeing: mood check-ins, filters, locks. Crisis never blocked."""
 import uuid
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from fastapi import APIRouter, Depends, HTTPException, Request
 from pydantic import BaseModel, Field
-from .. import locks as lock_policy
+from .. import locks as lock_policy, outbox
 from ..deps import get_current_user
 from ._stub import stub_router
 
@@ -77,6 +77,10 @@ async def add_lock(body: LockIn, request: Request, user=Depends(get_current_user
         raise HTTPException(422, str(e))
     doc = {"_id": uuid.uuid4().hex, "user_id": user["_id"], **lock, "start": lock["start"].isoformat(), "ends": lock["ends"].isoformat() if lock["ends"] else None}
     await request.app.state.db.locks.insert_one(doc)
+    if body.kind == "permanent":
+        await outbox.enqueue(request.app.state.db, user["_id"], "inapp", "permanent_lock_reminder",
+                             {"lock_id": doc["_id"], "target": body.target},
+                             lock["start"] + timedelta(days=lock_policy.PERMANENT_REMINDER_DAYS))
     return {k: v for k, v in doc.items()}
 
 @router.get("/locks")
