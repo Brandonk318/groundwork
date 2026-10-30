@@ -12,7 +12,7 @@ async def read_aloud():
 
 @router.get("/multi_language")
 async def langs():
-    return {"languages": LANGS_DATA, "count": len(LANGS_DATA), "fallback": "en", "rtl": ["ar"]}
+    return {"languages": LANGS_DATA, "count": len(LANGS_DATA), "fallback": "en", "rtl": ["ar", "ur", "fa"]}
 
 @router.get("/music_player/tracks")
 async def music_tracks():
