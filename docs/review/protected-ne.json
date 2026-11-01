@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "lang": "ne",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/ne/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": { "en": "Need help now", "draft": "मलाई अहिले मद्दत चाहिन्छ" },
+    "crisis.title": { "en": "You are not alone", "draft": "तपाईं एक्लो हुनुहुन्न" },
+    "crisis.call988": { "en": "Call 988", "draft": "988 मा कल गर्नुहोस्" },
+    "crisis.text988": { "en": "Text 988", "draft": "988 मा टेक्स्ट गर्नुहोस्" },
+    "crisis.call911": { "en": "Emergency: call 911", "draft": "आपतकाल: 911 मा कल गर्नुहोस्" },
+    "crisis.close": { "en": "Close", "draft": "बन्द गर्नुहोस्" },
+    "safety.relapseDraft": { "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.", "draft": "मस्यौदा — समीक्षाधीन। चिप्लिएपछिका पहिला २४ घण्टाका लागि शान्त रहने पहिला कदमहरू समीक्षापछि यहाँ देखिनेछन्। तपाईं एक्लो हुनुहुन्न।" },
+    "wellbeing.roughHelp": { "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.", "draft": "तपाईं एक्लो हुनुहुन्न। माथिको सङ्कट बटन सधैं यहीं छ — 988 मा कल वा टेक्स्ट गर्नुहोस्, वा आपतकालमा 911 मा कल गर्नुहोस्।" },
+    "reentry.steps.step11": { "en": "Save 988 and 911 in your phone", "draft": "आफ्नो फोनमा 988 र 911 सेभ गर्नुहोस्" },
+    "reentry.call211": { "en": "Call 211 for local resources", "draft": "स्थानीय स्रोतहरूका लागि 211 मा कल गर्नुहोस्" },
+    "phase3.call211": { "en": "Call 211", "draft": "211 मा कल गर्नुहोस्" },
+    "reentry.steps.step7": { "en": "Find a safe place to stay (call 211 or local housing resources)", "draft": "बस्नका लागि सुरक्षित ठाउँ खोज्नुहोस् (211 वा स्थानीय आवास स्रोतमा कल गर्नुहोस्)" },
+    "reentry.steps.step8": { "en": "Find food for this week (call 211 or a local food pantry)", "draft": "यो हप्ताका लागि खाना खोज्नुहोस् (211 वा स्थानीय फुड प्यान्ट्रीमा कल गर्नुहोस्)" },
+    "reentry.steps.step19": { "en": "Enroll in Medicaid, and SNAP if you need it", "draft": "Medicaid मा भर्ना हुनुहोस्, र आवश्यक भए SNAP मा पनि" },
+    "support.resourcesNote": { "en": "Legal aid, treatment and transit. This directory does not cover food or housing.", "draft": "कानुनी सहायता, उपचार र यातायात। यो निर्देशिकामा खाना वा आवास समावेश छैन।" },
+    "safety.vaultHelp": { "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.", "draft": "तपाईंका कागजातहरू इन्क्रिप्ट गरिएका छन्। यो भुक्तानी योजनाको सुविधा हो; अझै कुनै मूल्य तोकिएको छैन।" },
+    "phase3.paidNote": { "en": "Paid plan. No price has been set yet.", "draft": "भुक्तानी योजना। अझै कुनै मूल्य तोकिएको छैन।" },
+    "phase3.tokensHelp": { "en": "Tokens have no cash value.", "draft": "टोकनहरूको कुनै नगद मूल्य छैन।" },
+    "phase3.video": { "en": "Video post (paid)", "draft": "भिडियो पोस्ट (भुक्तानी)" },
+    "work.paroleNote": { "en": "Check your parole or probation conditions with your officer before applying.", "draft": "आवेदन गर्नुअघि आफ्नो अधिकारीसँग प्यारोल वा प्रोबेसनका सर्तहरू जाँच गर्नुहोस्।" },
+    "phase3.gigsHelp": { "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.", "draft": "छोटो स्थानीय कामहरू। आफ्नो अधिकारीसँग प्यारोलका सर्तहरू जाँच गर्नुहोस्। फोन नम्बरहरू कहिल्यै देखाइँदैनन्।" },
+    "reentry.steps.step14": { "en": "Put every court date and check-in on a calendar", "draft": "अदालतको हरेक मिति र हरेक चेक-इन क्यालेन्डरमा लेख्नुहोस्" },
+    "reentry.steps.step17": { "en": "Check your fines, fees and restitution", "draft": "आफ्ना जरिवाना, शुल्क र क्षतिपूर्ति जाँच गर्नुहोस्" },
+    "phase3.parole": { "en": "Parole navigation", "draft": "प्यारोल मार्गदर्शन" },
+    "phase3.housingHelp": { "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.", "draft": "बचत लक्ष्य र आवास-तयारी योजना। Groundwork ले आवास दिँदैन र प्रदायकहरूसँग साझेदारी गर्दैन। स्थानीय सहयोगका लागि 211 मा कल गर्नुहोस्।" }
+  }
+}
