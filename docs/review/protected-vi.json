@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "lang": "vi",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/vi/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": { "en": "Need help now", "draft": "Tôi cần giúp ngay" },
+    "crisis.title": { "en": "You are not alone", "draft": "Bạn không đơn độc" },
+    "crisis.call988": { "en": "Call 988", "draft": "Gọi 988" },
+    "crisis.text988": { "en": "Text 988", "draft": "Nhắn tin tới 988" },
+    "crisis.call911": { "en": "Emergency: call 911", "draft": "Khẩn cấp: gọi 911" },
+    "crisis.close": { "en": "Close", "draft": "Đóng" },
+    "safety.relapseDraft": { "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.", "draft": "Bản nháp — chờ xem xét. Các bước đầu tiên để giữ bình tĩnh trong 24 giờ đầu sau khi tái nghiện sẽ xuất hiện tại đây sau khi được xem xét. Bạn không đơn độc." },
+    "wellbeing.roughHelp": { "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.", "draft": "Bạn không đơn độc. Nút khủng hoảng ở trên luôn ở đây — gọi hoặc nhắn tin tới 988, hoặc gọi 911 trong trường hợp khẩn cấp." },
+    "reentry.steps.step11": { "en": "Save 988 and 911 in your phone", "draft": "Lưu 988 và 911 vào điện thoại của bạn" },
+    "reentry.call211": { "en": "Call 211 for local resources", "draft": "Gọi 211 để biết các nguồn lực địa phương" },
+    "phase3.call211": { "en": "Call 211", "draft": "Gọi 211" },
+    "reentry.steps.step7": { "en": "Find a safe place to stay (call 211 or local housing resources)", "draft": "Tìm một nơi an toàn để ở (gọi 211 hoặc các nguồn nhà ở địa phương)" },
+    "reentry.steps.step8": { "en": "Find food for this week (call 211 or a local food pantry)", "draft": "Tìm thức ăn cho tuần này (gọi 211 hoặc kho thực phẩm địa phương)" },
+    "reentry.steps.step19": { "en": "Enroll in Medicaid, and SNAP if you need it", "draft": "Đăng ký Medicaid, và SNAP nếu bạn cần" },
+    "support.resourcesNote": { "en": "Legal aid, treatment and transit. This directory does not cover food or housing.", "draft": "Trợ giúp pháp lý, điều trị và đi lại. Danh bạ này không bao gồm thực phẩm hay nhà ở." },
+    "safety.vaultHelp": { "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.", "draft": "Tài liệu của bạn được mã hóa. Tính năng của gói trả phí; chưa có giá nào được ấn định." },
+    "phase3.paidNote": { "en": "Paid plan. No price has been set yet.", "draft": "Gói trả phí. Chưa có giá nào được ấn định." },
+    "phase3.tokensHelp": { "en": "Tokens have no cash value.", "draft": "Token không có giá trị tiền mặt." },
+    "phase3.video": { "en": "Video post (paid)", "draft": "Bài đăng video (trả phí)" },
+    "work.paroleNote": { "en": "Check your parole or probation conditions with your officer before applying.", "draft": "Kiểm tra các điều kiện tạm tha hoặc quản chế với cán bộ của bạn trước khi nộp đơn." },
+    "phase3.gigsHelp": { "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.", "draft": "Việc làm ngắn hạn tại địa phương. Kiểm tra các điều kiện tạm tha với cán bộ của bạn. Số điện thoại không bao giờ được hiển thị." },
+    "reentry.steps.step14": { "en": "Put every court date and check-in on a calendar", "draft": "Ghi mọi ngày ra tòa và buổi trình diện vào lịch" },
+    "reentry.steps.step17": { "en": "Check your fines, fees and restitution", "draft": "Kiểm tra các khoản phạt, lệ phí và bồi thường của bạn" },
+    "phase3.parole": { "en": "Parole navigation", "draft": "Hướng dẫn về tạm tha" },
+    "phase3.housingHelp": { "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.", "draft": "Mục tiêu tiết kiệm cùng kế hoạch sẵn sàng về nhà ở. Groundwork không cung cấp nhà ở và không hợp tác với nhà cung cấp. Để được giúp tại địa phương, gọi 211." }
+  }
+}
