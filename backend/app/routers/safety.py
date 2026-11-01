@@ -27,6 +27,18 @@ async def crisis(request: Request):
 async def crisis_button(request: Request):
     return safety.crisis_payload(request.app.state.settings.app_name)
 
+@router.get("/private_inbox", name="safety:private_inbox")
+async def private_inbox(request: Request, user=Depends(get_current_user)):
+    """Author-only crisis resource messages. Filtered by the caller's own id; no role can read another's."""
+    items = await request.app.state.db.private_inbox.find({"user_id": user["_id"]}).to_list(100)
+    return {"messages": [{"id": d["_id"], "kind": d["kind"], "message": d["message"], "read": d["read"], "created_at": d["created_at"]} for d in items]}
+
+@router.post("/private_inbox/{mid}/read", name="safety:private_inbox_read")
+async def private_inbox_read(mid: str, request: Request, user=Depends(get_current_user)):
+    r = await request.app.state.db.private_inbox.update_one({"_id": mid, "user_id": user["_id"]}, {"$set": {"read": True}})
+    if not r.matched_count: raise HTTPException(404, "not found")
+    return {"ok": True}
+
 @router.get("/relapse_protocol/content", name="safety:relapse_content")
 async def relapse_content():
     return json.loads((DATA / "relapse_protocol.json").read_text())

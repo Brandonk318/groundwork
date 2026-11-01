@@ -2,12 +2,14 @@ import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { api } from "../api";
 import ReadAloud from "../components/ReadAloud";
+import CrisisNotice from "../components/CrisisNotice";
 export default function CommunityPage() {
   const { t } = useTranslation();
   const [posts, setPosts] = useState([]);
   const [body, setBody] = useState("");
   const [anon, setAnon] = useState(false);
   const [msg, setMsg] = useState("");
+  const [notice, setNotice] = useState(null);
   const [recipient, setRecipient] = useState("");
   const [dm, setDm] = useState("");
   const [eventTitle, setEventTitle] = useState("");
@@ -16,11 +18,11 @@ export default function CommunityPage() {
   const [questions, setQuestions] = useState([]);
   async function load() { try { setPosts((await api("/api/community/community_feed/posts")).posts || []); } catch {} }
   useEffect(() => { load(); api("/api/community/anonymous_qa/questions").then((d) => setQuestions(d.questions || [])).catch(() => {}); }, []);
-  async function post() { try { await api("/api/community/community_feed/posts", { method: "POST", body: { body, anonymous: anon } }); setBody(""); load(); } catch (e) { setMsg(e.message); } }
+  async function post() { try { const r = await api("/api/community/community_feed/posts", { method: "POST", body: { body, anonymous: anon } }); setNotice(r.private_notice || null); setBody(""); load(); } catch (e) { setMsg(e.message); } }
   async function sendDm() { try { const r = await api("/api/community/peer_messaging/messages", { method: "POST", body: { recipient_id: recipient, body: dm } }); setMsg(t("community.dmSent")); if (r.recipient?.phone) setMsg("phone exposed"); } catch (e) { setMsg(e.message); } }
   async function postEvent() { try { await api("/api/community/events", { method: "POST", body: { title: eventTitle } }); setEventTitle(""); setMsg("✓"); } catch (e) { setMsg(e.message); } }
   async function postGroup() { try { await api("/api/community/program_groups", { method: "POST", body: { name: groupName } }); setGroupName(""); setMsg("✓"); } catch (e) { setMsg(e.message); } }
-  async function askQa() { try { await api("/api/community/anonymous_qa/questions", { method: "POST", body: { body: qa } }); setQa(""); setMsg("✓"); } catch (e) { setMsg(e.message); } }
+  async function askQa() { try { const r = await api("/api/community/anonymous_qa/questions", { method: "POST", body: { body: qa } }); setNotice(r.private_notice || null); setQa(""); setMsg("✓"); } catch (e) { setMsg(e.message); } }
   async function upload(kind, fid, file) {
     if (!file) return;
     const buf = await file.arrayBuffer();
@@ -36,6 +38,7 @@ export default function CommunityPage() {
       <label>{t("community.postBody")} <textarea value={body} onChange={(e) => setBody(e.target.value)} /></label>
       <label><input type="checkbox" checked={anon} onChange={(e) => setAnon(e.target.checked)} /> {t("community.anonymous")}</label>
       <button type="button" onClick={post}>{t("community.post")}</button>
+      <CrisisNotice notice={notice} />
       <ul>{posts.map((p, i) => <li key={p._id || i}>{p.body} — {typeof p.author === "object" ? p.author.display : p.author_handle || ""}</li>)}</ul>
       <h2>{t("community.dmTitle")}</h2>
       <p>{t("community.noPhone")}</p>

@@ -349,5 +349,12 @@
     "cancel": "Cancel",
     "suggestTitle": "Suggested by your milestones",
     "suggestHelp": "Suggestions only — nothing is published until you add it."
+  },
+  "crisisReply": {
+    "onlyYou": "Only you can see this message.",
+    "inboxTitle": "Private messages for you",
+    "inboxEmpty": "Nothing here.",
+    "openCrisis": "Open the crisis button and safe contacts",
+    "markRead": "Mark read"
   }
 }

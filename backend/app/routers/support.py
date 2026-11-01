@@ -3,7 +3,7 @@ import uuid
 from datetime import datetime, timedelta, timezone
 from fastapi import APIRouter, Depends, HTTPException, Request
 from pydantic import BaseModel, Field
-from .. import moderation, safety
+from .. import crisis_reply, moderation, safety
 from ..deps import get_current_user
 from ..seed_data import COMMUNITY_GROUPS, MEETINGS, RESOURCES
 from ._stub import stub_router
@@ -91,7 +91,8 @@ async def mentors(request: Request, user=Depends(get_current_user)):
     return {"mentors": out}
 @router.post("/mentorship/requests", status_code=201)
 async def mentor_req(body: MentorReqIn, request: Request, user=Depends(get_current_user)):
-    mod = moderation.moderate(body.message)
+    mod = moderation.moderate_public(body.message)
+    _crisis = await crisis_reply.deliver(request.app.state.db, user["_id"], body.message)
     if mod["decision"] == "remove": raise HTTPException(422, mod["reply"])
     mentor = await request.app.state.db.mentors.find_one({"handle": body.mentor_handle, "role": "mentor"})
     if not mentor: raise HTTPException(404, "mentor not found")
@@ -125,9 +126,10 @@ async def clear_location(request: Request, user=Depends(get_current_user)):
 
 @router.post("/needs_a_ride/requests", status_code=201)
 async def ride_req(body: RideIn, request: Request, user=Depends(get_current_user)):
-    mod = moderation.moderate(body.notes)
+    mod = moderation.moderate_public(body.notes)
+    _crisis = await crisis_reply.deliver(request.app.state.db, user["_id"], body.notes)
     if mod["decision"] == "remove": raise HTTPException(422, mod["reply"])
-    status = "held" if mod["decision"] in ("hold", "crisis") else "published"
+    status = "held" if mod["decision"] == "hold" else "published"
     doc = {"_id": uuid.uuid4().hex, "user_id": user["_id"], **body.model_dump(), "status": status, "moderation": mod, "created_at": datetime.now(timezone.utc).isoformat()}
     await request.app.state.db.ride_requests.insert_one(doc)
     return {**{k: v for k, v in doc.items() if k != "user_id"}, "requester": safety.public_member(user)}
@@ -140,7 +142,8 @@ async def ride_list(request: Request, user=Depends(get_current_user)):
 async def ride_offer(body: RideOfferIn, request: Request, user=Depends(get_current_user)):
     req = await request.app.state.db.ride_requests.find_one({"_id": body.request_id, "status": "published"})
     if not req: raise HTTPException(404, "request not found")
-    mod = moderation.moderate(body.message)
+    mod = moderation.moderate_public(body.message)
+    _crisis = await crisis_reply.deliver(request.app.state.db, user["_id"], body.message)
     if mod["decision"] == "remove": raise HTTPException(422, mod["reply"])
     doc = {"_id": uuid.uuid4().hex, "user_id": user["_id"], "request_id": body.request_id, "message": body.message, "moderation": mod}
     await request.app.state.db.ride_offers.insert_one(doc)
@@ -175,10 +178,11 @@ async def carpool_add(body: CarpoolIn, request: Request, user=Depends(get_curren
     if not body.opt_in:
         await request.app.state.db.carpool_entries.delete_one({"user_id": user["_id"], "meeting_source": body.meeting_source, "meeting_id": body.meeting_id})
         return {"opt_in": False}
-    mod = moderation.moderate(body.note)
+    mod = moderation.moderate_public(body.note)
+    _crisis = await crisis_reply.deliver(request.app.state.db, user["_id"], body.note)
     if mod["decision"] == "remove":
         raise HTTPException(422, mod["reply"])
-    status = "held" if mod["decision"] in ("hold", "crisis") else "published"
+    status = "held" if mod["decision"] == "hold" else "published"
     # City-level only: no lat/lng accepted or stored.
     doc = {"_id": uuid.uuid4().hex, "user_id": user["_id"], "city": body.city, "precision": "city",
            "meeting_source": body.meeting_source, "meeting_id": body.meeting_id, "note": body.note,

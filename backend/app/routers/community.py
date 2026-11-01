@@ -3,7 +3,7 @@ import uuid
 from datetime import datetime, timezone
 from fastapi import APIRouter, Depends, HTTPException, Request
 from pydantic import BaseModel, Field
-from .. import moderation, safety
+from .. import crisis_reply, moderation, safety
 from ..deps import get_current_user
 from ._stub import stub_router
 
@@ -40,13 +40,16 @@ async def mod_check(body: ModIn, user=Depends(get_current_user)):
 async def create_post(body: PostIn, request: Request, user=Depends(get_current_user)):
     if await _locked(request, user, "community_feed"):
         raise HTTPException(423, "community_feed is locked")
-    mod = moderation.moderate(body.body)
+    mod = moderation.moderate_public(body.body)
+    _crisis = await crisis_reply.deliver(request.app.state.db, user["_id"], body.body)
     if mod["decision"] == "remove":
         raise HTTPException(422, mod["reply"])
-    status = "held" if mod["decision"] in ("hold", "crisis") else "published"
+    status = "held" if mod["decision"] == "hold" else "published"
     doc = {"_id": uuid.uuid4().hex, "author_id": user["_id"], "author_handle": user.get("handle"), "body": body.body, "anonymous": body.anonymous, "group": body.group, "status": status, "moderation": mod, "created_at": datetime.now(timezone.utc).isoformat()}
     await request.app.state.db.posts.insert_one(doc)
-    return safety.public_post(doc)
+    out = safety.public_post(doc)
+    if _crisis: out["private_notice"] = _crisis  # author's own response only; never stored on the post
+    return out
 
 @router.get("/community_feed/posts")
 async def list_posts(request: Request, user=Depends(get_current_user)):
@@ -71,7 +74,8 @@ async def send_msg(body: MsgIn, request: Request, user=Depends(get_current_user)
     if not recip:
         raise HTTPException(404, "recipient not found")
     body_recipient_id = recip["_id"]
-    mod = moderation.moderate(body.body)
+    mod = moderation.moderate_public(body.body)
+    _crisis = await crisis_reply.deliver(request.app.state.db, user["_id"], body.body)
     if mod["decision"] == "remove":
         raise HTTPException(422, mod["reply"])
     doc = {"_id": uuid.uuid4().hex, "sender_id": user["_id"], "recipient_id": body_recipient_id, "body": body.body, "moderation": mod, "created_at": datetime.now(timezone.utc).isoformat()}
@@ -123,13 +127,14 @@ class QaAIn(BaseModel):
     body: str = Field(min_length=1, max_length=2000)
 
 def _mod_or_422(text):
-    mod = moderation.moderate(text)
+    mod = moderation.moderate_public(text)
     if mod["decision"] == "remove": raise HTTPException(422, mod["reply"])
-    return mod, ("held" if mod["decision"] in ("hold", "crisis") else "published")
+    return mod, ("held" if mod["decision"] == "hold" else "published")
 
 @router.post("/events", status_code=201)
 async def create_event(body: EventIn, request: Request, user=Depends(get_current_user)):
     mod, status = _mod_or_422(body.title + " " + body.description)
+    _crisis = await crisis_reply.deliver(request.app.state.db, user["_id"], body.title + " " + body.description)
     doc = {"_id": uuid.uuid4().hex, "user_id": user["_id"], **body.model_dump(), "status": status, "moderation": mod}
     await request.app.state.db.events.insert_one(doc)
     return {k: v for k, v in doc.items()}
@@ -186,6 +191,7 @@ async def _upload(kind, fid, body: UploadIn, request, user):
     except ValueError as e:
         raise HTTPException(422, str(e))
     mod, status = _mod_or_422(body.caption or "media")
+    _crisis = await crisis_reply.deliver(request.app.state.db, user["_id"], body.caption or "media")
     doc = {"_id": uuid.uuid4().hex, "user_id": user["_id"], "kind": kind, "feature": fid, "caption": body.caption, **meta, "status": status, "moderation": mod, "created_at": datetime.now(timezone.utc).isoformat()}
     # never persist raw base64 in DB
     await request.app.state.db.media_posts.insert_one(doc)
@@ -206,9 +212,11 @@ async def my_media(request: Request, user=Depends(get_current_user), kind: str |
 @router.post("/anonymous_qa/questions", status_code=201)
 async def qa_q(body: QaQIn, request: Request, user=Depends(get_current_user)):
     mod, status = _mod_or_422(body.body)
+    _crisis = await crisis_reply.deliver(request.app.state.db, user["_id"], body.body)
     doc = {"_id": uuid.uuid4().hex, "author_id": user["_id"], "author_handle": user.get("handle"), "body": body.body, "anonymous": True, "status": status, "moderation": mod, "created_at": datetime.now(timezone.utc).isoformat()}
     await request.app.state.db.qa_questions.insert_one(doc)
     out = safety.public_post(doc); out["status"] = status; out["id"] = doc["_id"]
+    if _crisis: out["private_notice"] = _crisis
     return out
 @router.get("/anonymous_qa/questions")
 async def qa_list(request: Request, user=Depends(get_current_user)):
@@ -225,7 +233,9 @@ async def qa_a(qid: str, body: QaAIn, request: Request, user=Depends(get_current
     q = await request.app.state.db.qa_questions.find_one({"_id": qid, "status": "published"})
     if not q: raise HTTPException(404, "question not found")
     mod, status = _mod_or_422(body.body)
+    _crisis = await crisis_reply.deliver(request.app.state.db, user["_id"], body.body)
     doc = {"_id": uuid.uuid4().hex, "author_id": user["_id"], "author_handle": user.get("handle"), "question_id": qid, "body": body.body, "anonymous": True, "status": status, "moderation": mod, "created_at": datetime.now(timezone.utc).isoformat()}
     await request.app.state.db.qa_answers.insert_one(doc)
     out = safety.public_post(doc); out["status"] = status; out["id"] = doc["_id"]
+    if _crisis: out["private_notice"] = _crisis
     return out

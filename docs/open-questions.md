@@ -8,12 +8,14 @@
    - `community_feed`, `photo_posts`, `voice_notes`, `events`, `virtual_meetings`, `mentorship`, the work tools, `family_mode`, `merch_rewards`.
    - The paid price, and whether there's more than one paid plan. Nothing is priced in code.
 3. **Anonymity vs. safety.** Anonymous posts hide the author from members. Can moderators or staff see who wrote an anonymous post when it signals a crisis or a threat? Is there a policy for law-enforcement requests? This decides whether author ids are stored at all and who can read them.
+   - **Decided by Brann, 2026-10-31 (crisis part):** staff see nothing. Crisis phrasing in any post, comment, tip, Q&A or message triggers a private crisis auto-reply (988 call/text, 911, Crisis Text Line HOME to 741741, link to the crisis button and safe contacts) delivered only to the author, in the post response and in their private inbox (`/api/safety/private_inbox`). The post is not held, flagged or altered for crisis; there's no moderation-queue entry, admin endpoint, or log line, and the inbox entry holds no post id or text. Threats and law-enforcement policy are still open.
 4. **Feature count.** The spec's own-additions list reads as 20 items if filters (2) and locks (3) are split out. The scaffold groups them so the total stays 45. Confirm, or the registry becomes 48.
 5. **"Video hosting" = video posts?** Can short clips stay free, with paid covering storage or length? Do the day-one archive videos and portfolio videos count as video hosting?
 6. **AI dating safety.** What are the minimum days in recovery before dating is unlocked (the "13th-stepping" risk)? What age verification? What are the hard exclusions (no-contact or protective orders, registry status, sponsor/sponsee pairs)? Does matching ever use criminal-history data? (Recommended: no.)
 7. **One-tap wipe vs. retention.** Is there a legal hold or required audit retention? Backups need a purge window (for example 30 days), and that has to be stated on the wipe screen.
 8. **Family mode.** Which appointments can be shared, and can court dates ever be visible? What happens when a member revokes a family member's access mid-session? Is family mode free?
 9. **Crisis copy translations.** Who reviews non-English crisis text? Machine translation alone isn't acceptable for safety copy. 988 offers Spanish; what's the plan for the other languages?
+   - The crisis auto-reply copy (`backend/app/crisis_reply.py`) is English only, mentions 988's Spanish option, and is marked `needs_translation_review`. Its UI labels (`crisisReply.*`) are English in every locale until a human reviews them.
 10. **Final name.** Groundwork or Commissary Club. Rename means changing `backend/app/config.py` DEFAULT_APP_NAME and `frontend/src/brand.js`.
 11. **Merch.** Fulfillment vendor, and whether drops are earned only or can also be bought.
 12. **Micro-gigs and payments.** Who pays whom, platform fees, 1099s, and how parole self-employment limits are handled.

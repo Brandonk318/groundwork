@@ -15,3 +15,13 @@ def moderate(text: str) -> dict:
     if any(w in low for w in SOFTEN_WORDS):
         return {"decision":"soften","rule":"soften_personal_info","needs_human":False,"urgency":"low","reply":"Consider removing personal details like names, addresses, or case numbers to protect your privacy."}
     return {"decision":"allow","rule":"allow","needs_human":False,"urgency":"none","reply":""}
+
+
+def moderate_public(text: str) -> dict:
+    """Moderation for stored content. Crisis phrasing is NOT a staff flag (Brann 2026-10-31):
+    the author is answered privately by crisis_reply, and the post is judged on the other rules only."""
+    from . import crisis_reply
+    low = crisis_reply._RX.sub(" ", (text or "").lower())
+    for w in CRISIS_WORDS:
+        low = low.replace(w, " ")
+    return moderate(low)

@@ -33,7 +33,7 @@ Source of truth: `backend/app/registry.py` (tests pin count, sides, tiers, build
 | 17 | `read_aloud` | Read-aloud | reentry | free | stock | working | Web Speech API speechSynthesis; Piper TTS (MIT) fallback |
 | 18 | `multi_language` | Multi-language (en, es, fr, hi, vi, ar, tl, ht) | reentry | free | stock | working | i18next + react-i18next (in place) |
 | 19 | `mood_checkins` | Mood check-ins | recovery | free | stock | working | Plain model; charts via Recharts (MIT) |
-| 20 | `crisis_button` | Crisis button (988 + 911) (always free, lock-exempt) | recovery | free | stock | working | tel:/sms: links to 988 and 911 (in place) |
+| 20 | `crisis_button` | Crisis button (988 + 911) (always free, lock-exempt) | recovery | free | stock | working | tel:/sms: links to 988 and 911 (in place). Plus private crisis auto-reply (2026-10-31): crisis phrasing in any post/comment sends the author only a resource message (988, 911, text HOME to 741741); staff see nothing (`crisis_reply.py`, `/api/safety/private_inbox`) |
 | 21 | `geolocation` | Geolocation (opt-in) | recovery | unassigned | stock | working | Browser Geolocation API (opt-in); Leaflet + OpenStreetMap; coarse rounding |
 | 22 | `anonymous_posting` | Anonymous posting | recovery | free | stock | working | Flag on feed posts + server-side author stripping (in place: safety.public_post) |
 | 23 | `program_groups` | Program-specific groups | recovery | unassigned | stock | working | Plain groups model |

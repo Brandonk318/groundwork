@@ -23,6 +23,7 @@ USER_COLLECTIONS = {
     "safe_contacts": "user_id",
     "family_links": "member_id",
     "outbox": "user_id",
+    "private_inbox": "user_id",
     "milestones": "user_id",
     "checklist_custom_steps": "user_id",
     "checklist_tips": "author_id",

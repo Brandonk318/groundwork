@@ -3,7 +3,7 @@ import uuid
 from datetime import datetime, timezone
 from fastapi import APIRouter, Depends, HTTPException, Request
 from pydantic import BaseModel, Field
-from .. import moderation, safety
+from .. import crisis_reply, moderation, safety
 from ..deps import get_current_user
 from ..providers import INTERVIEW_QUESTIONS, InterviewCoachProvider
 from ..seed_data import JOBS
@@ -101,9 +101,10 @@ async def sessions(request: Request, user=Depends(get_current_user)):
 
 @router.post("/micro_gigs", status_code=201)
 async def create_gig(body: GigIn, request: Request, user=Depends(get_current_user)):
-    mod = moderation.moderate(body.title + " " + body.description)
+    mod = moderation.moderate_public(body.title + " " + body.description)
+    _crisis = await crisis_reply.deliver(request.app.state.db, user["_id"], body.title + " " + body.description)
     if mod["decision"] == "remove": raise HTTPException(422, mod["reply"])
-    status = "held" if mod["decision"] in ("hold", "crisis") else "published"
+    status = "held" if mod["decision"] == "hold" else "published"
     doc = {"_id": uuid.uuid4().hex, "user_id": user["_id"], "author_handle": user.get("handle"), **body.model_dump(), "status": status, "moderation": mod, "created_at": datetime.now(timezone.utc).isoformat()}
     await request.app.state.db.micro_gigs.insert_one(doc)
     out = {k: v for k, v in doc.items() if k not in ("user_id",)}
@@ -122,7 +123,8 @@ async def list_gigs(request: Request, user=Depends(get_current_user)):
 async def apply_gig(gid: str, body: GigApplyIn, request: Request, user=Depends(get_current_user)):
     gig = await request.app.state.db.micro_gigs.find_one({"_id": gid, "status": "published"})
     if not gig: raise HTTPException(404, "gig not found")
-    mod = moderation.moderate(body.message)
+    mod = moderation.moderate_public(body.message)
+    _crisis = await crisis_reply.deliver(request.app.state.db, user["_id"], body.message)
     if mod["decision"] == "remove": raise HTTPException(422, mod["reply"])
     doc = {"_id": uuid.uuid4().hex, "user_id": user["_id"], "gig_id": gid, "message": body.message, "moderation": mod}
     await request.app.state.db.gig_applications.insert_one(doc)

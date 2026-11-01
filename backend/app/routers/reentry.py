@@ -3,7 +3,7 @@ import uuid
 from datetime import date, datetime, timezone
 from fastapi import APIRouter, Depends, HTTPException, Request
 from pydantic import BaseModel, Field
-from .. import checklist as checklist_lib, moderation, outbox, registry, safety
+from .. import checklist as checklist_lib, crisis_reply, moderation, outbox, registry, safety
 from ..deps import get_current_user
 from ._stub import stub_router
 
@@ -144,14 +144,16 @@ async def add_tip(step_id: int, body: TipIn, request: Request, user=Depends(get_
     data = _data()
     if step_id not in {s["id"] for s in data["steps"]}:
         raise HTTPException(404, "unknown step")
-    mod = moderation.moderate(body.body)
+    mod = moderation.moderate_public(body.body)
+    _crisis = await crisis_reply.deliver(request.app.state.db, user["_id"], body.body)
     if mod["decision"] == "remove":
         raise HTTPException(422, mod["reply"])
-    status = "held" if mod["decision"] in ("hold", "crisis") else "published"
+    status = "held" if mod["decision"] == "hold" else "published"
     doc = {"_id": uuid.uuid4().hex, "author_id": user["_id"], "author_handle": user.get("handle"), "step_id": step_id, "body": body.body, "anonymous": True, "status": status, "moderation": mod, "created_at": datetime.now(timezone.utc).isoformat()}
     await request.app.state.db.checklist_tips.insert_one(doc)
     out = safety.public_post(doc)
     out["status"] = status
+    if _crisis: out["private_notice"] = _crisis
     return out
 
 @router.get("/reentry_checklist/milestones")

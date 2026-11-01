@@ -100,12 +100,13 @@ def test_tips_anonymous_moderated_no_phone(client):
     assert lst and lst[0]["author"] == {"display": "Anonymous"}
     blob = json.dumps(lst)
     assert "817-555" not in blob and "tip_a" not in blob
-    # moderation: remove blocked, crisis held (not published, carries human flag)
+    # moderation: remove blocked; crisis is NOT held or flagged (Brann 2026-10-31) - author gets a private notice
     assert client.post("/api/reentry/reentry_checklist/steps/1/tips", json={"body": "sell drugs here"}, headers=auth(a["token"])).status_code == 422
     held = client.post("/api/reentry/reentry_checklist/steps/1/tips", json={"body": "I want to kill myself"}, headers=auth(a["token"]))
-    assert held.status_code == 201 and held.json()["status"] == "held" and held.json()["moderation"]["needs_human"] is True
+    assert held.status_code == 201 and held.json()["status"] == "published" and held.json()["moderation"]["needs_human"] is False
+    assert held.json()["private_notice"]["resources"][0]["id"] == "988"
     lst2 = client.get("/api/reentry/reentry_checklist/steps/1/tips", headers=auth(b["token"])).json()["tips"]
-    assert len(lst2) == 1
+    assert len(lst2) == 2 and "private_notice" not in json.dumps(lst2) and "crisis" not in json.dumps(lst2)
     assert client.get("/api/reentry/reentry_checklist/steps/99/tips", headers=auth(a["token"])).status_code == 404
     assert client.post("/api/reentry/reentry_checklist/steps/99/tips", json={"body": "hi"}, headers=auth(a["token"])).status_code == 404
 
