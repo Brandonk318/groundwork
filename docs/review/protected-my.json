@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "lang": "my",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/my/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": { "en": "Need help now", "draft": "အခု အကူအညီ လိုအပ်ပါတယ်" },
+    "crisis.title": { "en": "You are not alone", "draft": "သင် တစ်ယောက်တည်း မဟုတ်ပါ" },
+    "crisis.call988": { "en": "Call 988", "draft": "988 ကို ခေါ်ဆိုပါ" },
+    "crisis.text988": { "en": "Text 988", "draft": "988 သို့ စာပို့ပါ" },
+    "crisis.call911": { "en": "Emergency: call 911", "draft": "အရေးပေါ်: 911 ကို ခေါ်ဆိုပါ" },
+    "crisis.close": { "en": "Close", "draft": "ပိတ်ပါ" },
+    "safety.relapseDraft": { "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.", "draft": "မူကြမ်း — ပြန်လည်သုံးသပ်နေဆဲ။ ပြန်လည်ချော်လဲပြီးနောက် ပထမ ၂၄ နာရီအတွင်း စိတ်တည်ငြိမ်စွာ လုပ်ဆောင်ရမည့် ပထမခြေလှမ်းများ ပြန်လည်သုံးသပ်ပြီးနောက် ဤနေရာတွင် ပေါ်လာပါမည်။ သင် တစ်ယောက်တည်း မဟုတ်ပါ။" },
+    "wellbeing.roughHelp": { "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.", "draft": "သင် တစ်ယောက်တည်း မဟုတ်ပါ။ အထက်က အရေးပေါ်ခလုတ် အမြဲဒီမှာရှိပါတယ် — 988 ကို ခေါ်ဆို သို့မဟုတ် စာပို့ပါ၊ အရေးပေါ်အခြေအနေတွင် 911 ကို ခေါ်ဆိုပါ။" },
+    "reentry.steps.step11": { "en": "Save 988 and 911 in your phone", "draft": "သင့်ဖုန်းတွင် 988 နှင့် 911 ကို သိမ်းထားပါ" },
+    "reentry.call211": { "en": "Call 211 for local resources", "draft": "ဒေသဆိုင်ရာ အရင်းအမြစ်များအတွက် 211 ကို ခေါ်ဆိုပါ" },
+    "phase3.call211": { "en": "Call 211", "draft": "211 ကို ခေါ်ဆိုပါ" },
+    "reentry.steps.step7": { "en": "Find a safe place to stay (call 211 or local housing resources)", "draft": "နေထိုင်ရန် ဘေးကင်းသောနေရာ ရှာပါ (211 သို့မဟုတ် ဒေသအိမ်ရာအရင်းအမြစ်များကို ခေါ်ဆိုပါ)" },
+    "reentry.steps.step8": { "en": "Find food for this week (call 211 or a local food pantry)", "draft": "ဒီအပတ်အတွက် အစားအစာ ရှာပါ (211 သို့မဟုတ် ဒေသအစားအစာဘဏ်ကို ခေါ်ဆိုပါ)" },
+    "reentry.steps.step19": { "en": "Enroll in Medicaid, and SNAP if you need it", "draft": "Medicaid တွင် စာရင်းသွင်းပါ၊ လိုအပ်ပါက SNAP တွင်လည်း" },
+    "support.resourcesNote": { "en": "Legal aid, treatment and transit. This directory does not cover food or housing.", "draft": "ဥပဒေအကူအညီ၊ ကုသမှုနှင့် သယ်ယူပို့ဆောင်ရေး။ ဤလမ်းညွှန်တွင် အစားအစာ သို့မဟုတ် အိမ်ရာ မပါဝင်ပါ။" },
+    "safety.vaultHelp": { "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.", "draft": "သင့်စာရွက်စာတမ်းများ ကုဒ်ဝှက်ထားပြီးဖြစ်သည်။ ဤသည်မှာ အခကြေးငွေပေးရသောအစီအစဉ်၏ လုပ်ဆောင်ချက်ဖြစ်သည်။ ဈေးနှုန်း မသတ်မှတ်ရသေးပါ။" },
+    "phase3.paidNote": { "en": "Paid plan. No price has been set yet.", "draft": "အခကြေးငွေပေးရသောအစီအစဉ်။ ဈေးနှုန်း မသတ်မှတ်ရသေးပါ။" },
+    "phase3.tokensHelp": { "en": "Tokens have no cash value.", "draft": "တိုကင်များတွင် ငွေသားတန်ဖိုး မရှိပါ။" },
+    "phase3.video": { "en": "Video post (paid)", "draft": "ဗီဒီယိုပို့စ် (အခကြေးငွေပေး)" },
+    "work.paroleNote": { "en": "Check your parole or probation conditions with your officer before applying.", "draft": "လျှောက်ထားခြင်းမပြုမီ သင့်အရာရှိနှင့် ပါရိုး သို့မဟုတ် စမ်းသပ်ကာလစည်းကမ်းများကို စစ်ဆေးပါ။" },
+    "phase3.gigsHelp": { "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.", "draft": "ကာလတိုဒေသအလုပ်များ။ သင့်အရာရှိနှင့် ပါရိုးစည်းကမ်းများကို စစ်ဆေးပါ။ ဖုန်းနံပါတ်များ ဘယ်တော့မှ ပြသမည်မဟုတ်ပါ။" },
+    "reentry.steps.step14": { "en": "Put every court date and check-in on a calendar", "draft": "တရားရုံးရက်တိုင်းနှင့် အစီရင်ခံရက်တိုင်းကို ပြက္ခဒိန်တွင် ရေးမှတ်ပါ" },
+    "reentry.steps.step17": { "en": "Check your fines, fees and restitution", "draft": "သင့်ဒဏ်ကြေး၊ အခကြေးငွေ နှင့် လျော်ကြေးများကို စစ်ဆေးပါ" },
+    "phase3.parole": { "en": "Parole navigation", "draft": "ပါရိုးလမ်းညွှန်" },
+    "phase3.housingHelp": { "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.", "draft": "စုဆောင်းမှုပန်းတိုင်များနှင့် အိမ်ရာအဆင်သင့်အစီအစဉ်။ Groundwork သည် အိမ်ရာ မပေးပါ၊ ဝန်ဆောင်မှုပေးသူများနှင့် ပူးပေါင်းခြင်းလည်း မရှိပါ။ ဒေသအကူအညီအတွက် 211 ကို ခေါ်ဆိုပါ။" }
+  }
+}
