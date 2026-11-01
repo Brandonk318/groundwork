@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "lang": "bn",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/bn/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": { "en": "Need help now", "draft": "আমার এখনই সাহায্য দরকার" },
+    "crisis.title": { "en": "You are not alone", "draft": "আপনি একা নন" },
+    "crisis.call988": { "en": "Call 988", "draft": "988 নম্বরে কল করুন" },
+    "crisis.text988": { "en": "Text 988", "draft": "988 নম্বরে টেক্সট করুন" },
+    "crisis.call911": { "en": "Emergency: call 911", "draft": "জরুরি অবস্থা: 911 নম্বরে কল করুন" },
+    "crisis.close": { "en": "Close", "draft": "বন্ধ করুন" },
+    "safety.relapseDraft": { "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.", "draft": "খসড়া — পর্যালোচনাধীন। পিছলে যাওয়ার পর প্রথম ২৪ ঘণ্টায় শান্ত থাকার প্রথম পদক্ষেপগুলো পর্যালোচনার পর এখানে দেখা যাবে। আপনি একা নন।" },
+    "wellbeing.roughHelp": { "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.", "draft": "আপনি একা নন। উপরের সংকট বোতাম সবসময় এখানে আছে — 988 নম্বরে কল বা টেক্সট করুন, অথবা জরুরি অবস্থায় 911 নম্বরে কল করুন।" },
+    "reentry.steps.step11": { "en": "Save 988 and 911 in your phone", "draft": "আপনার ফোনে 988 ও 911 সেভ করুন" },
+    "reentry.call211": { "en": "Call 211 for local resources", "draft": "স্থানীয় সম্পদের জন্য 211 নম্বরে কল করুন" },
+    "phase3.call211": { "en": "Call 211", "draft": "211 নম্বরে কল করুন" },
+    "reentry.steps.step7": { "en": "Find a safe place to stay (call 211 or local housing resources)", "draft": "থাকার জন্য নিরাপদ জায়গা খুঁজুন (211 বা স্থানীয় আবাসন সম্পদে কল করুন)" },
+    "reentry.steps.step8": { "en": "Find food for this week (call 211 or a local food pantry)", "draft": "এই সপ্তাহের খাবার জোগাড় করুন (211 বা স্থানীয় ফুড প্যান্ট্রিতে কল করুন)" },
+    "reentry.steps.step19": { "en": "Enroll in Medicaid, and SNAP if you need it", "draft": "Medicaid-এ নাম লেখান, প্রয়োজনে SNAP-এও" },
+    "support.resourcesNote": { "en": "Legal aid, treatment and transit. This directory does not cover food or housing.", "draft": "আইনি সহায়তা, চিকিৎসা ও পরিবহন। এই নির্দেশিকায় খাবার বা আবাসন অন্তর্ভুক্ত নয়।" },
+    "safety.vaultHelp": { "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.", "draft": "আপনার নথিগুলো এনক্রিপ্ট করা আছে। এটি পেইড প্ল্যানের সুবিধা; এখনো কোনো মূল্য নির্ধারণ হয়নি।" },
+    "phase3.paidNote": { "en": "Paid plan. No price has been set yet.", "draft": "পেইড প্ল্যান। এখনো কোনো মূল্য নির্ধারণ হয়নি।" },
+    "phase3.tokensHelp": { "en": "Tokens have no cash value.", "draft": "টোকেনের কোনো নগদ মূল্য নেই।" },
+    "phase3.video": { "en": "Video post (paid)", "draft": "ভিডিও পোস্ট (পেইড)" },
+    "work.paroleNote": { "en": "Check your parole or probation conditions with your officer before applying.", "draft": "আবেদনের আগে আপনার অফিসারের সঙ্গে প্যারোল বা প্রবেশনের শর্তগুলো যাচাই করুন।" },
+    "phase3.gigsHelp": { "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.", "draft": "ছোট স্থানীয় কাজ। আপনার অফিসারের সঙ্গে প্যারোলের শর্ত যাচাই করুন। ফোন নম্বর কখনো দেখানো হয় না।" },
+    "reentry.steps.step14": { "en": "Put every court date and check-in on a calendar", "draft": "আদালতের প্রতিটি তারিখ ও প্রতিটি চেক-ইন ক্যালেন্ডারে লিখুন" },
+    "reentry.steps.step17": { "en": "Check your fines, fees and restitution", "draft": "আপনার জরিমানা, ফি ও ক্ষতিপূরণ যাচাই করুন" },
+    "phase3.parole": { "en": "Parole navigation", "draft": "প্যারোল নির্দেশিকা" },
+    "phase3.housingHelp": { "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.", "draft": "সঞ্চয় লক্ষ্য ও আবাসন-প্রস্তুতি পরিকল্পনা। Groundwork আবাসন দেয় না এবং প্রদানকারীদের সঙ্গে অংশীদারিত্ব করে না। স্থানীয় সাহায্যের জন্য 211 নম্বরে কল করুন।" }
+  }
+}
