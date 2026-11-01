@@ -356,5 +356,8 @@
     "inboxEmpty": "Nada aquí.",
     "openCrisis": "Abre el botón de crisis y los contactos seguros",
     "markRead": "Marcar como leído"
+  },
+  "translationCheck": {
+    "notice": "Verifique la traducción para asegurarse de que coincida con la versión en inglés."
   }
 }

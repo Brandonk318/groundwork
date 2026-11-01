@@ -356,5 +356,8 @@
     "inboxEmpty": "空空如也。",
     "openCrisis": "打开危机按钮和安全联系人",
     "markRead": "标为已读"
+  },
+  "translationCheck": {
+    "notice": "请仔细核对译文，确保与英文版本一致。"
   }
 }

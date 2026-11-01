@@ -356,5 +356,8 @@
     "inboxEmpty": "Không có gì.",
     "openCrisis": "Mở nút khủng hoảng và liên hệ an toàn",
     "markRead": "Đánh dấu đã đọc"
+  },
+  "translationCheck": {
+    "notice": "Vui lòng kiểm tra lại bản dịch để đảm bảo khớp với bản tiếng Anh."
   }
 }

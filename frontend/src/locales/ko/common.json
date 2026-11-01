@@ -356,5 +356,8 @@
     "inboxEmpty": "없습니다.",
     "openCrisis": "위기 버튼과 안전 연락처 열기",
     "markRead": "읽음으로 표시"
+  },
+  "translationCheck": {
+    "notice": "번역이 영어 원문과 일치하는지 다시 확인해 주세요."
   }
 }

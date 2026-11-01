@@ -356,5 +356,8 @@
     "inboxEmpty": "Hakuna chochote hapa.",
     "openCrisis": "Fungua kitufe cha dharura na mawasiliano salama",
     "markRead": "Weka alama imesomwa"
+  },
+  "translationCheck": {
+    "notice": "Tafadhali hakiki tafsiri ili kuhakikisha inalingana na toleo la Kiingereza."
   }
 }

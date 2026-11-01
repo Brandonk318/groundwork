@@ -356,5 +356,8 @@
     "inboxEmpty": "Wala dito.",
     "openCrisis": "Buksan ang crisis button at mga ligtas na contact",
     "markRead": "Markahang nabasa na"
+  },
+  "translationCheck": {
+    "notice": "Pakisuring muli ang salin upang matiyak na tugma ito sa bersyong Ingles."
   }
 }

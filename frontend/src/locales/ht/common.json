@@ -356,5 +356,8 @@
     "inboxEmpty": "Anyen isit la.",
     "openCrisis": "Louvri bouton kriz ak kontak san danje yo",
     "markRead": "Make kòm li"
+  },
+  "translationCheck": {
+    "notice": "Tanpri verifye tradiksyon an pou asire li menm jan ak vèsyon anglè a."
   }
 }

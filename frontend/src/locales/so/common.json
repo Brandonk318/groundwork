@@ -356,5 +356,8 @@
     "inboxEmpty": "Halkan waxba ma jiraan.",
     "openCrisis": "Fur badhanka dhibaatada iyo xiriirada ammaanka ah",
     "markRead": "Calaamadee la akhriyay"
+  },
+  "translationCheck": {
+    "notice": "Fadlan dib u hubi turjumaadda si aad u xaqiijiso inay la mid tahay nuqulka Ingiriisiga."
   }
 }
