@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { api } from "../api";
 import ReadAloud from "../components/ReadAloud";
+import TranslationCheck from "../components/TranslationCheck";
 export default function SupportPage() {
   const { t } = useTranslation();
   const [resources, setResources] = useState([]);
@@ -38,6 +39,7 @@ export default function SupportPage() {
       <h1>{t("nav.support")}</h1>
       <h2>{t("support.resourcesTitle")}</h2>
       <p>{t("support.resourcesNote")}</p>
+      <TranslationCheck keys="support.resourcesNote" />
       <ul>{resources.map((r) => <li key={r.id}>{r.name} ({r.category}) <ReadAloud text={r.name} /></li>)}</ul>
       <h2>{t("support.meetingsTitle")}</h2>
       <ul>{meetings.map((m) => <li key={m.id}>{m.name} — {m.program}, {m.day} {m.time}, {m.city}</li>)}</ul>

@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
+import TranslationCheck from "./TranslationCheck";
 
 // Always rendered by Shell, on every screen, for every plan. Never gated by plan, locks or filters.
 export default function CrisisButton() {
@@ -17,6 +18,7 @@ export default function CrisisButton() {
           <a href="sms:988">{t("crisis.text988")}</a>
           <a href="tel:911">{t("crisis.call911")}</a>
           <button type="button" onClick={() => setOpen(false)}>{t("crisis.close")}</button>
+          <TranslationCheck keys={["crisis.title", "crisis.call988", "crisis.text988", "crisis.call911"]} />
         </div>
       )}
     </div>

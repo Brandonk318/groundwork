@@ -3,6 +3,7 @@ import { useTranslation } from "react-i18next";
 import { api } from "../api";
 import ReadAloud from "../components/ReadAloud";
 import { INTERVIEW_QUESTIONS, scoreInterview } from "../data/phase3";
+import TranslationCheck from "../components/TranslationCheck";
 export default function WorkPage() {
   const { t } = useTranslation();
   const [jobs, setJobs] = useState([]);
@@ -29,6 +30,7 @@ export default function WorkPage() {
       <h1>{t("nav.work")}</h1>
       <h2>{t("work.jobsTitle")}</h2>
       <p>{t("work.paroleNote")}</p>
+      <TranslationCheck keys="work.paroleNote" />
       <ul>{jobs.map((j) => <li key={j.id}>{j.title} — {j.company}, {j.location}</li>)}</ul>
       <div data-testid="resume-section"><h2>{t("phase3.resumeTitle")}</h2><p>{t("phase3.resumeHelp")}</p><ReadAloud text={t("phase3.resumeHelp")} />
         <label>{t("phase3.fullName")} <input value={name} onChange={(e) => setName(e.target.value)} /></label>
@@ -39,7 +41,7 @@ export default function WorkPage() {
         <label>{t("phase3.answer")} <textarea value={answer} onChange={(e) => setAnswer(e.target.value)} /></label>
         <button type="button" onClick={grade}>{t("phase3.score")}</button>
         {score && <p role="status">{score.score}</p>}</div>
-      <div data-testid="gigs-section"><h2>{t("phase3.gigsTitle")}</h2><p>{t("phase3.gigsHelp")}</p><ReadAloud text={t("phase3.gigsHelp")} />
+      <div data-testid="gigs-section"><h2>{t("phase3.gigsTitle")}</h2><p>{t("phase3.gigsHelp")}</p><TranslationCheck keys="phase3.gigsHelp" /><ReadAloud text={t("phase3.gigsHelp")} />
         <label>{t("phase3.gigTitle")} <input value={gig} onChange={(e) => setGig(e.target.value)} /></label>
         <button type="button" onClick={postGig}>{t("phase3.postGig")}</button>
         {msg && <p role="status">{msg}</p>}</div>

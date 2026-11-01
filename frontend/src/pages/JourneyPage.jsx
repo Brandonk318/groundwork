@@ -3,6 +3,7 @@ import { useTranslation } from "react-i18next";
 import { api } from "../api";
 import ReadAloud from "../components/ReadAloud";
 import { MILESTONE_DAYS } from "../lib/mood";
+import TranslationCheck from "../components/TranslationCheck";
 export default function JourneyPage() {
   const { t } = useTranslation();
   const [start, setStart] = useState("2024-01-01");
@@ -120,13 +121,13 @@ export default function JourneyPage() {
         <button type="button" onClick={() => { setSharing(null); setShareUrl(""); }}>{t("phase3.cancel")}</button>
       </div>)}
       </div>
-      <div data-testid="tokens-section"><h2>{t("phase3.tokensTitle")}</h2><p>{t("phase3.tokensHelp")}</p><ReadAloud text={t("phase3.tokensHelp")} />
+      <div data-testid="tokens-section"><h2>{t("phase3.tokensTitle")}</h2><p>{t("phase3.tokensHelp")}</p><TranslationCheck keys="phase3.tokensHelp" /><ReadAloud text={t("phase3.tokensHelp")} />
         <p>{t("phase3.balance")}: {balance}</p><button type="button" onClick={earn}>{t("phase3.earn")}</button></div>
       <div data-testid="merch-section"><h2>{t("phase3.merchTitle")}</h2><p>{t("phase3.merchHelp")}</p><ReadAloud text={t("phase3.merchHelp")} />
         <ul>{merch.map((m) => <li key={m.id}>{m.name} — {m.code}</li>)}</ul></div>
       <div data-testid="share-section"><h2>{t("phase3.shareTitle")}</h2><p>{t("phase3.shareHelp")}</p><ReadAloud text={t("phase3.shareHelp")} /></div>
       <div data-testid="archive-section"><h2>{t("phase3.archiveTitle")}</h2><p>{t("phase3.archiveHelp")}</p><ReadAloud text={t("phase3.archiveHelp")} /></div>
-      <div data-testid="housing-section"><h2>{t("phase3.housingTitle")}</h2><p>{t("phase3.housingHelp")}</p><ReadAloud text={t("phase3.housingHelp")} />
+      <div data-testid="housing-section"><h2>{t("phase3.housingTitle")}</h2><p>{t("phase3.housingHelp")}</p><TranslationCheck keys="phase3.housingHelp" /><ReadAloud text={t("phase3.housingHelp")} />
         <h3>{t("phase3.calcTitle")}</h3>
         <label>{t("phase3.goalTarget")} <input value={target} onChange={(e) => setTarget(e.target.value)} inputMode="decimal" /></label>
         <label>{t("phase3.calcMonthly")} <input value={monthly} onChange={(e) => setMonthly(e.target.value)} inputMode="decimal" /></label>
@@ -138,7 +139,7 @@ export default function JourneyPage() {
         <ul>{goals.map((g) => <li key={g._id}>{g.name}</li>)}</ul>
         <h3>{t("phase3.planTitle")}</h3>
         <ul>{plan.map((s) => <li key={s.id}><label><input type="checkbox" checked={!!s.done} onChange={() => checkStep(s.id, s.done)} /> {s.title}</label></li>)}</ul>
-        <p><a href="tel:211">{t("phase3.call211")}</a></p></div>
+        <p><a href="tel:211">{t("phase3.call211")}</a></p><TranslationCheck keys="phase3.call211" /></div>
       {msg && <p role="status">{msg}</p>}
     </section>
   );

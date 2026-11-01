@@ -3,6 +3,7 @@ import { useTranslation } from "react-i18next";
 import { api } from "../api";
 import { isRough, suggestFilters } from "../lib/mood";
 import ReadAloud from "../components/ReadAloud";
+import TranslationCheck from "../components/TranslationCheck";
 const MOODS = ["good", "okay", "rough", "struggling", "craving"];
 export default function WellbeingPage() {
   const { t } = useTranslation();
@@ -23,7 +24,7 @@ export default function WellbeingPage() {
       <h2>{t("wellbeing.checkinTitle")}</h2>
       <div role="radiogroup" aria-label={t("wellbeing.checkinTitle")}>{MOODS.map((m) => <label key={m}><input type="radio" name="mood" checked={mood === m} onChange={() => setMood(m)} /> {t(`wellbeing.mood.${m}`)}</label>)}</div>
       <button type="button" onClick={submit}>{t("wellbeing.save")}</button>
-      {isRough(mood) && <div data-testid="filter-suggestion"><p>{t("wellbeing.suggestFilters")}: {suggested.join(", ")}</p><p>{t("wellbeing.roughHelp")}</p></div>}
+      {isRough(mood) && <div data-testid="filter-suggestion"><p>{t("wellbeing.suggestFilters")}: {suggested.join(", ")}</p><p>{t("wellbeing.roughHelp")}</p><TranslationCheck keys="wellbeing.roughHelp" /></div>}
       <ReadAloud text={t("wellbeing.checkinTitle")} />
       <h2>{t("wellbeing.locksTitle")}</h2>
       <p>{t("wellbeing.locksHelp")}</p>
