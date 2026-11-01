@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "lang": "pt",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/pt/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": { "en": "Need help now", "draft": "Preciso de ajuda agora" },
+    "crisis.title": { "en": "You are not alone", "draft": "Você não está sozinho" },
+    "crisis.call988": { "en": "Call 988", "draft": "Ligue para 988" },
+    "crisis.text988": { "en": "Text 988", "draft": "Envie mensagem para 988" },
+    "crisis.call911": { "en": "Emergency: call 911", "draft": "Emergência: ligue para 911" },
+    "crisis.close": { "en": "Close", "draft": "Fechar" },
+    "safety.relapseDraft": { "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.", "draft": "Rascunho — em revisão. Os primeiros passos para manter a calma nas primeiras 24 horas após uma recaída aparecerão aqui após a revisão. Você não está sozinho." },
+    "wellbeing.roughHelp": { "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.", "draft": "Você não está sozinho. O botão de crise acima está sempre aqui — ligue ou envie mensagem para 988, ou para 911 em emergência." },
+    "reentry.steps.step11": { "en": "Save 988 and 911 in your phone", "draft": "Salve 988 e 911 no seu telefone" },
+    "reentry.call211": { "en": "Call 211 for local resources", "draft": "Ligue para 211 para recursos locais" },
+    "phase3.call211": { "en": "Call 211", "draft": "Ligue para 211" },
+    "reentry.steps.step7": { "en": "Find a safe place to stay (call 211 or local housing resources)", "draft": "Encontre um lugar seguro para ficar (ligue para 211 ou recursos locais de moradia)" },
+    "reentry.steps.step8": { "en": "Find food for this week (call 211 or a local food pantry)", "draft": "Encontre comida para esta semana (ligue para 211 ou um banco de alimentos local)" },
+    "reentry.steps.step19": { "en": "Enroll in Medicaid, and SNAP if you need it", "draft": "Inscreva-se no Medicaid e no SNAP se precisar" },
+    "support.resourcesNote": { "en": "Legal aid, treatment and transit. This directory does not cover food or housing.", "draft": "Assistência jurídica, tratamento e transporte. Este diretório não cobre comida nem moradia." },
+    "safety.vaultHelp": { "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.", "draft": "Seus documentos estão criptografados. Recurso do plano pago; nenhum preço foi definido ainda." },
+    "phase3.paidNote": { "en": "Paid plan. No price has been set yet.", "draft": "Plano pago. Nenhum preço foi definido ainda." },
+    "phase3.tokensHelp": { "en": "Tokens have no cash value.", "draft": "Os tokens não têm valor monetário." },
+    "phase3.video": { "en": "Video post (paid)", "draft": "Publicação em vídeo (paga)" },
+    "work.paroleNote": { "en": "Check your parole or probation conditions with your officer before applying.", "draft": "Verifique suas condições de liberdade condicional com seu agente antes de se candidatar." },
+    "phase3.gigsHelp": { "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.", "draft": "Trabalhos locais curtos. Verifique as condições da condicional com seu agente. Números de telefone nunca são exibidos." },
+    "reentry.steps.step14": { "en": "Put every court date and check-in on a calendar", "draft": "Anote cada data de audiência e cada comparecimento no calendário" },
+    "reentry.steps.step17": { "en": "Check your fines, fees and restitution", "draft": "Verifique suas multas, taxas e restituição" },
+    "phase3.parole": { "en": "Parole navigation", "draft": "Como lidar com a condicional" },
+    "phase3.housingHelp": { "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.", "draft": "Metas de economia e plano de prontidão para moradia. A Groundwork não fornece moradia nem tem parceria com provedores. Para ajuda local, ligue para 211." }
+  }
+}
