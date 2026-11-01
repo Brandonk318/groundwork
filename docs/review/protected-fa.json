@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "lang": "fa",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/fa/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed. RTL locale.",
+    "dir": "rtl"
+  },
+  "strings": {
+    "crisis.button": { "en": "Need help now", "draft": "الان به کمک نیاز دارم" },
+    "crisis.title": { "en": "You are not alone", "draft": "شما تنها نیستید" },
+    "crisis.call988": { "en": "Call 988", "draft": "با 988 تماس بگیرید" },
+    "crisis.text988": { "en": "Text 988", "draft": "به 988 پیامک بفرستید" },
+    "crisis.call911": { "en": "Emergency: call 911", "draft": "اضطراری: با 911 تماس بگیرید" },
+    "crisis.close": { "en": "Close", "draft": "بستن" },
+    "safety.relapseDraft": { "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.", "draft": "پیش‌نویس — در حال بررسی. قدم‌های اول آرامش‌بخش برای ۲۴ ساعت نخست پس از لغزش، پس از بررسی اینجا نمایش داده می‌شود. شما تنها نیستید." },
+    "wellbeing.roughHelp": { "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.", "draft": "شما تنها نیستید. دکمه بحران بالا همیشه اینجاست — با 988 تماس بگیرید یا پیامک بفرستید، و در شرایط اضطراری با 911 تماس بگیرید." },
+    "reentry.steps.step11": { "en": "Save 988 and 911 in your phone", "draft": "988 و 911 را در تلفن خود ذخیره کنید" },
+    "reentry.call211": { "en": "Call 211 for local resources", "draft": "برای منابع محلی با 211 تماس بگیرید" },
+    "phase3.call211": { "en": "Call 211", "draft": "با 211 تماس بگیرید" },
+    "reentry.steps.step7": { "en": "Find a safe place to stay (call 211 or local housing resources)", "draft": "جای امنی برای ماندن پیدا کنید (با 211 یا منابع مسکن محلی تماس بگیرید)" },
+    "reentry.steps.step8": { "en": "Find food for this week (call 211 or a local food pantry)", "draft": "برای این هفته غذا پیدا کنید (با 211 یا بانک غذای محلی تماس بگیرید)" },
+    "reentry.steps.step19": { "en": "Enroll in Medicaid, and SNAP if you need it", "draft": "در Medicaid ثبت‌نام کنید، و اگر نیاز دارید در SNAP هم" },
+    "support.resourcesNote": { "en": "Legal aid, treatment and transit. This directory does not cover food or housing.", "draft": "کمک حقوقی، درمان و حمل‌ونقل. این فهرست شامل غذا یا مسکن نمی‌شود." },
+    "safety.vaultHelp": { "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.", "draft": "اسناد شما رمزنگاری شده‌اند. این قابلیت طرح پولی است؛ هنوز قیمتی تعیین نشده است." },
+    "phase3.paidNote": { "en": "Paid plan. No price has been set yet.", "draft": "طرح پولی. هنوز قیمتی تعیین نشده است." },
+    "phase3.tokensHelp": { "en": "Tokens have no cash value.", "draft": "توکن‌ها هیچ ارزش نقدی ندارند." },
+    "phase3.video": { "en": "Video post (paid)", "draft": "پست ویدیویی (پولی)" },
+    "work.paroleNote": { "en": "Check your parole or probation conditions with your officer before applying.", "draft": "پیش از درخواست، شرایط آزادی مشروط یا تعلیقی خود را با مأمور خود بررسی کنید." },
+    "phase3.gigsHelp": { "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.", "draft": "کارهای کوتاه محلی. شرایط آزادی مشروط را با مأمور خود بررسی کنید. شماره تلفن‌ها هرگز نمایش داده نمی‌شوند." },
+    "reentry.steps.step14": { "en": "Put every court date and check-in on a calendar", "draft": "هر تاریخ دادگاه و هر مراجعه را در تقویم بنویسید" },
+    "reentry.steps.step17": { "en": "Check your fines, fees and restitution", "draft": "جریمه‌ها، هزینه‌ها و غرامت خود را بررسی کنید" },
+    "phase3.parole": { "en": "Parole navigation", "draft": "راهنمای آزادی مشروط" },
+    "phase3.housingHelp": { "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.", "draft": "اهداف پس‌انداز به‌علاوه طرح آمادگی مسکن. Groundwork مسکن ارائه نمی‌دهد و با ارائه‌دهندگان همکاری نمی‌کند. برای کمک محلی با 211 تماس بگیرید." }
+  }
+}
