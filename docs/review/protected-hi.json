@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "lang": "hi",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/hi/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": { "en": "Need help now", "draft": "मुझे अभी मदद चाहिए" },
+    "crisis.title": { "en": "You are not alone", "draft": "आप अकेले नहीं हैं" },
+    "crisis.call988": { "en": "Call 988", "draft": "988 पर कॉल करें" },
+    "crisis.text988": { "en": "Text 988", "draft": "988 पर टेक्स्ट करें" },
+    "crisis.call911": { "en": "Emergency: call 911", "draft": "आपातकाल: 911 पर कॉल करें" },
+    "crisis.close": { "en": "Close", "draft": "बंद करें" },
+    "safety.relapseDraft": { "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.", "draft": "मसौदा — समीक्षाधीन। फिसलने के बाद पहले 24 घंटों के लिए शांत रहने वाले पहले कदम समीक्षा के बाद यहाँ दिखेंगे। आप अकेले नहीं हैं।" },
+    "wellbeing.roughHelp": { "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.", "draft": "आप अकेले नहीं हैं। ऊपर दिया संकट बटन हमेशा यहाँ है — 988 पर कॉल या टेक्स्ट करें, या आपातकाल में 911 पर कॉल करें।" },
+    "reentry.steps.step11": { "en": "Save 988 and 911 in your phone", "draft": "अपने फ़ोन में 988 और 911 सेव करें" },
+    "reentry.call211": { "en": "Call 211 for local resources", "draft": "स्थानीय संसाधनों के लिए 211 पर कॉल करें" },
+    "phase3.call211": { "en": "Call 211", "draft": "211 पर कॉल करें" },
+    "reentry.steps.step7": { "en": "Find a safe place to stay (call 211 or local housing resources)", "draft": "रहने के लिए सुरक्षित जगह खोजें (211 या स्थानीय आवास संसाधनों पर कॉल करें)" },
+    "reentry.steps.step8": { "en": "Find food for this week (call 211 or a local food pantry)", "draft": "इस सप्ताह के लिए भोजन खोजें (211 या स्थानीय फ़ूड पेंट्री पर कॉल करें)" },
+    "reentry.steps.step19": { "en": "Enroll in Medicaid, and SNAP if you need it", "draft": "Medicaid में नामांकन करें, और ज़रूरत हो तो SNAP में भी" },
+    "support.resourcesNote": { "en": "Legal aid, treatment and transit. This directory does not cover food or housing.", "draft": "कानूनी सहायता, उपचार और परिवहन। इस निर्देशिका में भोजन या आवास शामिल नहीं है।" },
+    "safety.vaultHelp": { "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.", "draft": "आपके दस्तावेज़ एन्क्रिप्टेड हैं। यह भुगतान योजना की सुविधा है; अभी कोई कीमत तय नहीं हुई है।" },
+    "phase3.paidNote": { "en": "Paid plan. No price has been set yet.", "draft": "भुगतान योजना। अभी कोई कीमत तय नहीं हुई है।" },
+    "phase3.tokensHelp": { "en": "Tokens have no cash value.", "draft": "टोकन का कोई नकद मूल्य नहीं है।" },
+    "phase3.video": { "en": "Video post (paid)", "draft": "वीडियो पोस्ट (भुगतान)" },
+    "work.paroleNote": { "en": "Check your parole or probation conditions with your officer before applying.", "draft": "आवेदन करने से पहले अपने अधिकारी से पैरोल या परिवीक्षा की शर्तें जाँच लें।" },
+    "phase3.gigsHelp": { "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.", "draft": "छोटे स्थानीय काम। अपने अधिकारी से पैरोल की शर्तें जाँच लें। फ़ोन नंबर कभी नहीं दिखाए जाते।" },
+    "reentry.steps.step14": { "en": "Put every court date and check-in on a calendar", "draft": "अदालत की हर तारीख और हर चेक-इन को कैलेंडर में लिखें" },
+    "reentry.steps.step17": { "en": "Check your fines, fees and restitution", "draft": "अपने जुर्माने, शुल्क और हर्जाने की जाँच करें" },
+    "phase3.parole": { "en": "Parole navigation", "draft": "पैरोल मार्गदर्शन" },
+    "phase3.housingHelp": { "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.", "draft": "बचत लक्ष्य और आवास-तैयारी योजना। Groundwork आवास नहीं देता और न ही प्रदाताओं से साझेदारी करता है। स्थानीय मदद के लिए 211 पर कॉल करें।" }
+  }
+}
