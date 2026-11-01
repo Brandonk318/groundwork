@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "lang": "sw",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/sw/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": { "en": "Need help now", "draft": "Nahitaji msaada sasa" },
+    "crisis.title": { "en": "You are not alone", "draft": "Huko peke yako" },
+    "crisis.call988": { "en": "Call 988", "draft": "Piga 988" },
+    "crisis.text988": { "en": "Text 988", "draft": "Tuma ujumbe mfupi kwa 988" },
+    "crisis.call911": { "en": "Emergency: call 911", "draft": "Dharura: piga 911" },
+    "crisis.close": { "en": "Close", "draft": "Funga" },
+    "safety.relapseDraft": { "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.", "draft": "Rasimu — inapitiwa. Hatua za kwanza za utulivu kwa saa 24 za kwanza baada ya kurudia zitaonekana hapa baada ya kupitishwa. Huko peke yako." },
+    "wellbeing.roughHelp": { "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.", "draft": "Huko peke yako. Kitufe cha dharura hapo juu kiko hapa kila wakati — piga simu au tuma ujumbe kwa 988, au 911 ukiwa dharurani." },
+    "reentry.steps.step11": { "en": "Save 988 and 911 in your phone", "draft": "Hifadhi 988 na 911 kwenye simu yako" },
+    "reentry.call211": { "en": "Call 211 for local resources", "draft": "Piga 211 kwa rasilimali za mitaa" },
+    "phase3.call211": { "en": "Call 211", "draft": "Piga 211" },
+    "reentry.steps.step7": { "en": "Find a safe place to stay (call 211 or local housing resources)", "draft": "Tafuta mahali salama pa kukaa (piga 211 au rasilimali za makazi za mitaa)" },
+    "reentry.steps.step8": { "en": "Find food for this week (call 211 or a local food pantry)", "draft": "Tafuta chakula cha wiki hii (piga 211 au ghala la chakula la mitaa)" },
+    "reentry.steps.step19": { "en": "Enroll in Medicaid, and SNAP if you need it", "draft": "Jiandikishe Medicaid, na SNAP ukihitaji" },
+    "support.resourcesNote": { "en": "Legal aid, treatment and transit. This directory does not cover food or housing.", "draft": "Msaada wa kisheria, matibabu na usafiri. Saraka hii haihusishi chakula wala makazi." },
+    "safety.vaultHelp": { "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.", "draft": "Hati zako zimesimbwa. Hiki ni kipengele cha mpango wa kulipia; hakuna bei iliyowekwa bado." },
+    "phase3.paidNote": { "en": "Paid plan. No price has been set yet.", "draft": "Mpango wa kulipia. Hakuna bei iliyowekwa bado." },
+    "phase3.tokensHelp": { "en": "Tokens have no cash value.", "draft": "Tokeni hazina thamani ya pesa." },
+    "phase3.video": { "en": "Video post (paid)", "draft": "Chapisho la video (la kulipia)" },
+    "work.paroleNote": { "en": "Check your parole or probation conditions with your officer before applying.", "draft": "Angalia masharti ya msamaha wako wa masharti na afisa wako kabla ya kuomba." },
+    "phase3.gigsHelp": { "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.", "draft": "Kazi fupi za mitaa. Angalia masharti ya msamaha na afisa wako. Nambari za simu hazionyeshwi kamwe." },
+    "reentry.steps.step14": { "en": "Put every court date and check-in on a calendar", "draft": "Weka kila tarehe ya mahakama na kila ripoti kwenye kalenda" },
+    "reentry.steps.step17": { "en": "Check your fines, fees and restitution", "draft": "Angalia faini, ada na fidia zako" },
+    "phase3.parole": { "en": "Parole navigation", "draft": "Mwongozo wa msamaha wa masharti" },
+    "phase3.housingHelp": { "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.", "draft": "Malengo ya akiba na mpango wa maandalizi ya makazi. Groundwork haitoi makazi wala haishirikiani na watoa huduma. Kwa msaada wa mitaa, piga 211." }
+  }
+}
