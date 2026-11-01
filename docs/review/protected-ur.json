@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "lang": "ur",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/ur/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed. RTL locale.",
+    "dir": "rtl"
+  },
+  "strings": {
+    "crisis.button": { "en": "Need help now", "draft": "مجھے ابھی مدد چاہیے" },
+    "crisis.title": { "en": "You are not alone", "draft": "آپ اکیلے نہیں ہیں" },
+    "crisis.call988": { "en": "Call 988", "draft": "988 پر کال کریں" },
+    "crisis.text988": { "en": "Text 988", "draft": "988 پر ٹیکسٹ کریں" },
+    "crisis.call911": { "en": "Emergency: call 911", "draft": "ایمرجنسی: 911 پر کال کریں" },
+    "crisis.close": { "en": "Close", "draft": "بند کریں" },
+    "safety.relapseDraft": { "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.", "draft": "مسودہ — نظرثانی کے تحت۔ پھسلنے کے بعد پہلے 24 گھنٹوں میں پرسکون رہنے کے پہلے اقدامات نظرثانی کے بعد یہاں نظر آئیں گے۔ آپ اکیلے نہیں ہیں۔" },
+    "wellbeing.roughHelp": { "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.", "draft": "آپ اکیلے نہیں ہیں۔ اوپر دیا گیا بحران کا بٹن ہمیشہ یہیں ہے — 988 پر کال یا ٹیکسٹ کریں، یا ایمرجنسی میں 911 پر کال کریں۔" },
+    "reentry.steps.step11": { "en": "Save 988 and 911 in your phone", "draft": "اپنے فون میں 988 اور 911 محفوظ کریں" },
+    "reentry.call211": { "en": "Call 211 for local resources", "draft": "مقامی وسائل کے لیے 211 پر کال کریں" },
+    "phase3.call211": { "en": "Call 211", "draft": "211 پر کال کریں" },
+    "reentry.steps.step7": { "en": "Find a safe place to stay (call 211 or local housing resources)", "draft": "رہنے کے لیے محفوظ جگہ تلاش کریں (211 یا مقامی رہائشی وسائل پر کال کریں)" },
+    "reentry.steps.step8": { "en": "Find food for this week (call 211 or a local food pantry)", "draft": "اس ہفتے کے لیے کھانا تلاش کریں (211 یا مقامی فوڈ پینٹری پر کال کریں)" },
+    "reentry.steps.step19": { "en": "Enroll in Medicaid, and SNAP if you need it", "draft": "Medicaid میں داخلہ لیں، اور ضرورت ہو تو SNAP میں بھی" },
+    "support.resourcesNote": { "en": "Legal aid, treatment and transit. This directory does not cover food or housing.", "draft": "قانونی امداد، علاج اور نقل و حمل۔ اس ڈائریکٹری میں کھانا یا رہائش شامل نہیں ہے۔" },
+    "safety.vaultHelp": { "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.", "draft": "آپ کے دستاویزات خفیہ کردہ ہیں۔ یہ معاوضہ پلان کی سہولت ہے؛ ابھی کوئی قیمت مقرر نہیں ہوئی۔" },
+    "phase3.paidNote": { "en": "Paid plan. No price has been set yet.", "draft": "معاوضہ پلان۔ ابھی کوئی قیمت مقرر نہیں ہوئی۔" },
+    "phase3.tokensHelp": { "en": "Tokens have no cash value.", "draft": "ٹوکن کی کوئی نقد قیمت نہیں ہے۔" },
+    "phase3.video": { "en": "Video post (paid)", "draft": "ویڈیو پوسٹ (معاوضہ)" },
+    "work.paroleNote": { "en": "Check your parole or probation conditions with your officer before applying.", "draft": "درخواست دینے سے پہلے اپنے افسر سے پیرول یا پروبیشن کی شرائط کی تصدیق کریں۔" },
+    "phase3.gigsHelp": { "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.", "draft": "چھوٹے مقامی کام۔ اپنے افسر سے پیرول کی شرائط کی تصدیق کریں۔ فون نمبر کبھی ظاہر نہیں کیے جاتے۔" },
+    "reentry.steps.step14": { "en": "Put every court date and check-in on a calendar", "draft": "عدالت کی ہر تاریخ اور ہر چیک اِن کیلنڈر میں لکھیں" },
+    "reentry.steps.step17": { "en": "Check your fines, fees and restitution", "draft": "اپنے جرمانے، فیس اور ہرجانے کی جانچ کریں" },
+    "phase3.parole": { "en": "Parole navigation", "draft": "پیرول رہنمائی" },
+    "phase3.housingHelp": { "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.", "draft": "بچت کے اہداف اور رہائش کی تیاری کا منصوبہ۔ Groundwork رہائش فراہم نہیں کرتا اور نہ ہی فراہم کنندگان سے شراکت کرتا ہے۔ مقامی مدد کے لیے 211 پر کال کریں۔" }
+  }
+}
