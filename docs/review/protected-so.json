@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "lang": "so",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/so/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": { "en": "Need help now", "draft": "Caawimaad ayaan hadda u baahanahay" },
+    "crisis.title": { "en": "You are not alone", "draft": "Keligaa ma tihid" },
+    "crisis.call988": { "en": "Call 988", "draft": "Wac 988" },
+    "crisis.text988": { "en": "Text 988", "draft": "Farriin u dir 988" },
+    "crisis.call911": { "en": "Emergency: call 911", "draft": "Degdeg: wac 911" },
+    "crisis.close": { "en": "Close", "draft": "Xir" },
+    "safety.relapseDraft": { "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.", "draft": "Qabyo — dib u eegis socota. Tallaabooyinka ugu horreeya ee deganaanshaha ee 24-kii saacadood ee ugu horreeyay dib-u-dhac kadib waxay halkan ka muuqan doonaan marka dib loo eego. Keligaa ma tihid." },
+    "wellbeing.roughHelp": { "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.", "draft": "Keligaa ma tihid. Badhanka dhibaatada ee kor ku xusan mar walba halkan ayuu yaalaa — wac ama farriin u dir 988, ama 911 xaalad degdeg ah." },
+    "reentry.steps.step11": { "en": "Save 988 and 911 in your phone", "draft": "Kaydso 988 iyo 911 taleefankaaga" },
+    "reentry.call211": { "en": "Call 211 for local resources", "draft": "Wac 211 khayraadka deegaanka" },
+    "phase3.call211": { "en": "Call 211", "draft": "Wac 211" },
+    "reentry.steps.step7": { "en": "Find a safe place to stay (call 211 or local housing resources)", "draft": "Hel meel ammaan ah oo aad joogto (wac 211 ama khayraadka guriyeynta deegaanka)" },
+    "reentry.steps.step8": { "en": "Find food for this week (call 211 or a local food pantry)", "draft": "Hel cunto toddobaadkan (wac 211 ama bakhaarka cuntada deegaanka)" },
+    "reentry.steps.step19": { "en": "Enroll in Medicaid, and SNAP if you need it", "draft": "Isdiiwaangeli Medicaid, iyo SNAP haddii aad u baahan tahay" },
+    "support.resourcesNote": { "en": "Legal aid, treatment and transit. This directory does not cover food or housing.", "draft": "Gargaar sharci, daaweyn iyo gaadiid. Hagahan kuma jiraan cunto iyo guri." },
+    "safety.vaultHelp": { "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.", "draft": "Dukumentiyadaadu waa sir ah. Waa astaan qorshaha lacagta; qiimo wali lama dejin." },
+    "phase3.paidNote": { "en": "Paid plan. No price has been set yet.", "draft": "Qorshe lacag ah. Qiimo wali lama dejin." },
+    "phase3.tokensHelp": { "en": "Tokens have no cash value.", "draft": "Calaamaduhu qiimo lacageed ma leh." },
+    "phase3.video": { "en": "Video post (paid)", "draft": "Boostada muuqaalka (lacag)" },
+    "work.paroleNote": { "en": "Check your parole or probation conditions with your officer before applying.", "draft": "Hubi shuruudaha parole ama probation sarkaalkaaga intaadan codsan." },
+    "phase3.gigsHelp": { "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.", "draft": "Shaqooyin gaagaaban oo deegaan. Hubi shuruudaha parole sarkaalkaaga. Lambarrada telefoonka weligood lama tuso." },
+    "reentry.steps.step14": { "en": "Put every court date and check-in on a calendar", "draft": "Qor taariikh kasta oo maxkamad iyo check-in kasta jadwal" },
+    "reentry.steps.step17": { "en": "Check your fines, fees and restitution", "draft": "Hubi ganaaxyadaada, kharashyada iyo magdhowga" },
+    "phase3.parole": { "en": "Parole navigation", "draft": "Hagaha parole" },
+    "phase3.housingHelp": { "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.", "draft": "Yoolalka keydka iyo qorshaha diyaargarowga guriyeynta. Groundwork guri ma bixiso lamana shaqeyso bixiyeyaal. Caawimaad deegaan, wac 211." }
+  }
+}
