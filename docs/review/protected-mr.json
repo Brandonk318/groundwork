@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "mr",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/mr/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "आता मदत हवी आहे"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "आणीबाणी: कॉल 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "कॉल 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "बंद करा"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "मजकूर 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "तुम्ही एकटे नाही"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "कॉल 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "अल्पकालीन स्थानिक नोकर्या. आपल्या अधिकाऱ्याशी मुदतवाढ अटी तपासा. फोन नंबर कधीच दाखवले जात नाहीत."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "बचत ध्येय आणि गृहनिर्माण सज्जता योजना. Groundwork गृहनिर्माण पुरवत नाही आणि पुरवठादारांशी भागीदारी करत नाही. स्थानिक मदतीसाठी 211 वर कॉल करा."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "पेड प्लॅन. अजून किंमत ठरलेली नाही."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "पॅरोल नेव्हिगेशन"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "टोकनचे पैशाचे मूल्य नसते."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "व्हिडिओ पोस्ट (पेड)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "स्थानिक संसाधनांसाठी कॉल 211"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "आता हे क्रमांक जतन करा. आपण कोणत्याही स्क्रीनच्या शीर्षस्थानी आता मदतीची आवश्यकता आहे यावर टॅप करू शकता."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "आपल्या फोनमध्ये 988 आणि 911 जतन करा"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "प्रत्येक न्यायालयाची तारीख आणि चेक-इन कॅलेंडरवर ठेवा"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "दंड, शुल्क आणि परतफेड तपासा"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Medicaid मध्ये नोंदणी करा, आणि गरज पडल्यास SNAP"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "राहण्यासाठी सुरक्षित ठिकाण शोधा (211 किंवा स्थानिक गृहनिर्माण संसाधनांना कॉल करा)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "या आठवड्यासाठी अन्न शोधा (कॉल 211 किंवा स्थानिक अन्न कपाट)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "मसुदा  ⁇  पुनरावलोकनासाठी. स्लिप झाल्यानंतर पहिल्या 24 तासांत शांत प्रथम पावले येथे दिसतील एकदा पुनरावलोकन केले. आपण एकटे नाही."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "तुमची कागदपत्रे कूटबद्ध आहेत. पेड प्लॅन वैशिष्ट्य; अद्याप किंमत निश्चित केलेली नाही."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "कायदेशीर मदत, उपचार आणि ट्रान्झिट या निर्देशिकेमध्ये अन्न आणि निवास व्यवस्था समाविष्ट नाही."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "तुम्ही एकटे नाही. वरील संकट बटण नेहमी येथे आहे  ⁇  कॉल करा किंवा आपत्कालीन परिस्थितीत 988 किंवा 911 वर मजकूर पाठवा."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "अर्ज करण्यापूर्वी आपल्या अधिकाऱ्याशी आपल्या सवलतीच्या किंवा चाचणीच्या अटी तपासा."
+    }
+  }
+}
