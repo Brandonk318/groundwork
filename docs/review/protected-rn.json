@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "rn",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/rn/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Ndakeneye imfashanyo ubu nyene"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Mu bihe vy'ingorane: nimuhamagare 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "Guhamagara 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Kwegera"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Umwandiko 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Si wewe wenyene"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Guhamagara 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Akazi k'igihe gito k'aho iwanyu, nurabe n'umukozi wawe ibijanye n'ibijanye no kurekurwa."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Imigambi yo kuziganya hamwe n'umugambi wo kwitegurira uburaro. Groundwork ntitanga uburaro kandi nta bucuti ifitaniye n'abatanga. Ku bw'imfashanyo yo mu karere, hamagara 211."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Ingengo y'imari ntiharashirwaho igiciro."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Iterambere mu bijanye no kurekurwa"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Utwo dupapuro ntitugira agaciro k'amahera."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Isanamu y'amashusho (y'amahera)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "Hamagara 211 ku bikoresho vyo mu karere"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Urashobora kandi gufyonda \"Urakeneye imfashanyo ubu\" hejuru y'imashini iyo ari yo yose."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "Gumiza 988 na 911 muri telefone yawe"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Nushire ku kirangamisi itariki yose y'urubanza n'aho umuntu yokwinjira"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Nusuzume ibihano vyawe n'amahera utegerezwa kuriha"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Niwiyandikishe kuri Medicaid, kandi niwakenera imfashanyo y'ubwisungane mu kwivuza"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Rondera ahantu hatekanye ho kuba (hamagara 211 canke abafasha mu bijanye n'uburaro)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Rondera ibifungurwa vyo muri iyi ndwi (hamagara 211 canke ikigega c'imfungurwa co mu karere iwanyu)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Umushinga  ⁇  wo gusuzumwa. Intambwe za mbere zitekanye mu masaha 24 ya mbere inyuma y'ugutemba uzoboneka ngaha umaze gusuzumwa."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Ivyandikano vyawe vyanditswe mu buryo bwanditse. Umugambi w'amahera; ntiharashirwaho igiciro."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Imfashanyo y'amategeko, ubuvuzi n'uruja n'uruza."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Si wewe wenyene. Aka kamenyetso k'ingorane kari aho haruguru kaguma aha  ⁇  hamagara canke wandike ubutumwa kuri 988, canke 911 mu bihe vy'ingorane."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Nubaze umukozi wawe ibijanye n'ibijanye n'ukurekurwa ku munyororo imbere y'uko usaba uruhusha."
+    }
+  }
+}
