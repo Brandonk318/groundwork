@@ -85,4 +85,5 @@ LANGS_DATA = [
  {"code":"ff","label":"Fulfulde","dir":"ltr"},
  {"code":"mg","label":"Malagasy","dir":"ltr"},
  {"code":"yi","label":"ייִדיש","dir":"rtl"},
+ {"code":"bho","label":"भोजपुरी","dir":"ltr"},
 ]
