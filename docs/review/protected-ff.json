@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "ff",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/ff/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Mi yiɗi ballal jonta"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Saɗtinol: noddu 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "Haɓɓugo 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Maɓɓitugo"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Nate gabbiiɗe 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "A walaa e hoore maaɗa"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Haɓɓugo 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Kuuɗe nokkuure seɗɗa, laar haalaji kujewol bee ardiiɗo ma. Limle telefoŋ'en ɓe hollaayi."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Jaɓɓorgo Kewuuji jaɓɓorgo plus taskaram jaɓɓorgo wuro. Groundwork hokkata jaɓɓorgo wuro be hawtaaki be jaɓɓortooɓe. Ngam wallugo ha nder lesdi, nodde 211."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Njaayol jaayngol, walaa ceede je ɗon tabiti."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Navigatewol parole"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Tokens walaa daraja ceede."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Video post (ɓeydaama)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "Haɓɓugo 211 ngam kujeji lesdi"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "On mbaawi bo tappugo Needi ballal jonta ha fuɗɗam kuje fuu."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "Wurtin 988 e 911 nder telefoonka ma"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Wurtin nyalnde kiita fuu be jaɓɓitol ha nder kalandar"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Laar ceede, ceede e ceede je on hokkata"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Wondugo nder Medicaid, e SNAP to a yiɗi"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Wurtin nokkuure jam ngam jooɗugo (wurtin 211 mala kujeji jooɗorde ha nokkuure man)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Wurtinugo nyamndu ngam asaweere ndu (wurtinugo 211 mala suudu nyaamdu ha nokkuure man)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Jaɓɓorgo Ganndal  ⁇  ngam lartol. Ɗaɓɓol arandewol ngam wakkatiiji 24 arandejum ɓaawo jaɓɓol wurtoto ɗo to on jaɓɓake."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Dookimenji ma ɗon winda. Furniture je ɓe yoɓata; walaa ceede je ɓe tabitini."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Wurtinol dookaaji, hurguki be jaahangal."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Naa' a go'oto. Haɓɓugo mala windi do 988, mala 911 ha nder nyau."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Lartine haalaji je on wurtinaama mala je on wurtinaama e ardiiɗo on hiddeko on wurtina."
+    }
+  }
+}
