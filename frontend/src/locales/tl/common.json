@@ -94,7 +94,7 @@
     "dueDate": "Takdang petsa",
     "priority": "Priyoridad",
     "priorityLow": "Mababa",
-    "priorityNormal": "Normal",
+    "priorityNormal": "Karaniwan",
     "priorityHigh": "Mataas",
     "notes": "Mga nota",
     "save": "I-save",
@@ -183,7 +183,7 @@
   "settings": {
     "accountTitle": "Account",
     "handle": "Username",
-    "password": "Password",
+    "password": "Sekretong salita",
     "register": "Gumawa ng account",
     "login": "Mag-log in",
     "loggedIn": "Naka-log in ka na."

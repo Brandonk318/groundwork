@@ -183,7 +183,7 @@
   "settings": {
     "accountTitle": "Akaw",
     "handle": "Nsa no",
-    "password": "Password",
+    "password": "Ahintasɛm",
     "register": "Hyehyɛ account",
     "login": "Hyɛ mu",
     "loggedIn": "Woahyɛn ha."
@@ -274,7 +274,7 @@
     "rematch": "Nkyekyɛm a edi kan",
     "datingOff": "Yɛremfa yɛn ho nnhyɛ nnipa a yɛne wɔn di nkitaho no mu kosi sɛ wɔbɛhyɛ mmara a ɛfa nna kakraa bi a ɛsɛ sɛ yɛde di nkitaho ho.",
     "notAvailable": "Wonni bi",
-    "carpoolTitle": "Carpool board",
+    "carpoolTitle": "Carpool bɔɔd",
     "carpoolHelp": "Baabi a edi kan a wobɛhwɛ no. Wopɛ sɛ wokɔ kurow no mu nkutoo: hwɛ sɛ hena na ɔrekɔ wo nhyiam no ase na fa nkra a ɛwɔ app no mu ka ho. Telefon nɔma biara nni hɔ, baabi pɔtee biara nni hɔ.",
     "carpoolCity": "Me kurom",
     "carpoolMeeting": "Nhyiam",
@@ -338,7 +338,7 @@
     "visLink": "(Wontumi nsesa, wontumi nsesa)",
     "shareDialog": "Share asɛm yi",
     "shareWho": "Saa bere yi: wo nko ara. Sɛ wotintim asɛm bi a, obiara a ɔwɔ asɛm no betumi akenkan.",
-    "mintLink": "Mint link",
+    "mintLink": "Yɛ link",
     "revokeLink": "Twe link no mu",
     "copyLink": "Copy link no",
     "portfolioEdit": "Siesie",

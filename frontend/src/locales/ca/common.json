@@ -183,7 +183,7 @@
   "settings": {
     "accountTitle": "Compte",
     "handle": "Manillar",
-    "password": "Password",
+    "password": "Contrasenya",
     "register": "Crear compte",
     "login": "Inicia sessió",
     "loggedIn": "Estàs connectat."
@@ -211,7 +211,7 @@
     "postGig": "Post-gig",
     "coursesTitle": "Cursos",
     "coursesDraft": "DRAFT — per a revisió",
-    "quiz": "Quiz",
+    "quiz": "Qüestionari",
     "checkAnswer": "Verifica la resposta",
     "parole": "Parole navigation",
     "interviews": "Entrevistes de treball",
@@ -274,7 +274,7 @@
     "rematch": "Repetició",
     "datingOff": "Les cites estan suspendudes fins que s'estableixi una regla de dies mínims.",
     "notAvailable": "No està disponible",
-    "carpoolTitle": "Carpool board",
+    "carpoolTitle": "Tauler de viatges compartits",
     "carpoolHelp": "El primer lloc on mirar. Opt-in, només a nivell de ciutat: veure qui s'està dirigint a la teva reunió i connectar-se a través de missatges dins de l'aplicació. Sense números de telèfon, sense ubicació precisa.",
     "carpoolCity": "La meva ciutat",
     "carpoolMeeting": "Reunió",
