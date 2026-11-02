@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "tw",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/tw/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Mehia mmoa seesei ara"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Ahohiahia: frɛ 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "frɛ 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Bɛn no"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Nkyekyɛm 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Ɛnyɛ wo nko ara na wowɔ hɔ"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "frɛ 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Adwuma nketenkete a wɔyɛ wɔ mpɔtam hɔ no. Hwɛ nsɛm a ɛfa bere a wobegyae adwuma no ho wɔ wo sraani no nkyɛn. Wɔmfa telefon nɔma nkyerɛ."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": ""
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Wɔabɔ ka, nanso wonnya mmaa ho kwan."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Parole akwantu"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Sika ho mfaso biara nni token no so."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Video (a wotua ho ka)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "Nhyiamu 211 a ɛfa amantam mmoa ho"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Afei nso wobɛtumi aka Hwehwɛ mmoa seesei wɔ mfoni biara atifi hɔ."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "Twe 988 ne 911 to wo fon so"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Kyerɛw bere a wobedi asɛm no nyinaa wɔ kalenda so"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Hwehwɛ asotwe, ho aka, ne sika a wobetua"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Fa wo ho hyɛ Medicaid mu, na sɛ ehia wo a, bɔ ho mmɔden"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Hwehwɛ baabi a ɛhɔ yɛ hu a wubetumi akɔtena (frɛ 211 anaa baabi a wobɛtumi akɔtena)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Hwehwɛ aduan a ɛbɛso wo nnawɔtwe yi (frɛ 211 anaa baabi a wɔtɔn aduan wɔ wo mpɔtam hɔ)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Nhyehyɛe  ⁇  a ɛsɛ sɛ wohwɛ no yiye. Sɛ wohwɛ no yiye a, wubehu nea wobɛyɛ wɔ nnɔnhwerew 24 a edi kan no mu. Ɛnyɛ wo nko ara na woayɛ saa."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Wɔakyerɛw wo nkrataa no mu nsɛm wɔ kratafa bi so."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Mmoa a wɔde ma wɔ mmara mu, ayaresa ne akwantu."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Ɛnyɛ wo nko ara na wowɔ saa haw no mu. Ɛhɔ na bere nyinaa wuhu  ⁇  frɛ anaa kyerɛw asɛm no 988, anaa 911 wɔ ahohia bere mu."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Di kan ne wo polisifo no nsusuw nsɛm a ɛfa w'asotwe ho no ho ansa na woasrɛ."
+    }
+  }
+}
