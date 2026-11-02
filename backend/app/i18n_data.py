@@ -79,4 +79,5 @@ LANGS_DATA = [
  {"code":"kk","label":"Қазақ","dir":"ltr"},
  {"code":"uz","label":"Oʻzbek","dir":"ltr"},
  {"code":"si","label":"සිංහල","dir":"ltr"},
+ {"code":"ln","label":"Lingála","dir":"ltr"},
 ]

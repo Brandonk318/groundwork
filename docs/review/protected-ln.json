@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "ln",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/ln/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Nazali na mposa ya lisalisi sikawa"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Likambo ya mbalakaka: bengá 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "Bengá 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Kútu"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Makomi 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Ozali yo moko te"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Bengá 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Mosala ya mwa ntango moke na mboka wana, talá na mokonzi na yo mpo na koyeba soki azali na ndingisa ya kobima na bolɔkɔ."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Mikano ya kobomba mbongo mpe plan ya komibongisa mpo na ndako. Groundwork epesaka ndako te mpe esalaka na boyokani te na bato oyo bapesaka yango. Mpo na lisalisi ya mboka, bengá 211."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Motuya ezali naino te."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Navigation ya parole"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Ba-token ezalaka na motuya ya mbongo te."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Video (ezali ya kofuta)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "Libyangi 211 mpo na biloko ya mboka"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Kobomba mitángo oyo sikawa. Okoki mpe kobɛta Esengeli lisalisi sikawa na likoló ya écran nyonso."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "Kobomba 988 mpe 911 na telefone na yo"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Tyá dati nyonso ya tribinale na kalandriye"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Talelá bafaktire na yo, bafaktire na yo mpe mbongo oyo ozongisaki"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Komá nkombo na lisungi ya monganga, mpe soki ozali na mposa na yango, salelá yango mbala moko"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Luká esika ya malamu ya kolala (bengá 211 to na bisika mosusu)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Luká bilei mpo na pɔsɔ oyo (bengá 211 to esika batɛkaka bilei)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Na boumeli ya ngonga 24 ya liboso nsima ya kozonga na mboka na yo, salá makambo na kimya."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Mikanda na yo ekomami na cryptographie, ezali na programɛ ya kofuta mbongo; ntalo eyebani naino te."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Lisungi ya mibeko, lisalisi ya monganga mpe kokatisa mboka."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Ozali yo moko te. Butoni ya mpasi oyo ezali na likoló ezali ntango nyonso awa  ⁇  bengá to tinda 988, to 911 na ntango ya likama."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Liboso ya kosɛnga ndingisa, sololá na mokonzi ya bapolisi mpo na koyeba soki ozali na bolɔkɔ to te."
+    }
+  }
+}
