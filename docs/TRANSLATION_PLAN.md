@@ -21,6 +21,6 @@ Correction 2026-11-01 (Brann): Russian was NOT cut from Groundwork. It stays in 
 ## Russian vs. Russia (update 2026-11-01, per Brann)
 - Russian (ru) stays a **translation target**, because there are many Russian speakers outside Russia. Do not remove Russian from the language list.
 - Russia itself is **not a marketing or prospecting target** because of US sanctions.
-- Russian is translated by Brann himself. Never machine-translate it and never mark it done.
+- Russian is translated by Grok Bot or Muse like the other languages. Never mark it done without counting strings that still match English.
 - Iran and Myanmar keep their do-not-target flags, unchanged.
 - This replaces the 2026-10-30 note that dropped Russian from the target list.
