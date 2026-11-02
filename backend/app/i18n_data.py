@@ -75,4 +75,5 @@ LANGS_DATA = [
  {"code":"sq","label":"Shqip","dir":"ltr"},
  {"code":"mk","label":"Македонски","dir":"ltr"},
  {"code":"ka","label":"ქართული","dir":"ltr"},
+ {"code":"az","label":"Azərbaycanca","dir":"ltr"},
 ]
