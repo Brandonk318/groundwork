@@ -81,4 +81,5 @@ LANGS_DATA = [
  {"code":"si","label":"සිංහල","dir":"ltr"},
  {"code":"ln","label":"Lingála","dir":"ltr"},
  {"code":"rn","label":"Ikirundi","dir":"ltr"},
+ {"code":"wo","label":"Wolof","dir":"ltr"},
 ]
