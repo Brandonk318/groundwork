@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "ceb",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/ceb/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Nagkinahanglan ug tabang karon"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Emerhensya: tawag 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "Tawag 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Hapit na"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Text 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Dili ka mag-inusara"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Tawag 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Mubo nga lokal nga mga trabaho. Susiha ang mga kondisyon sa parole uban sa imong opisyal. Ang mga numero sa telepono dili ipakita."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Mga tumong sa pagtipig dugang sa usa ka plano sa pag-andam sa pabalay. Ang Groundwork wala magtagana ug pabalay ug dili magpakigtambayayong sa mga tighatag. Alang sa lokal nga tabang, tawga ang 211."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Bayad nga plano. Walay presyo nga gitakda pa."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Pag-navigate sa parole"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Ang mga token walay bili sa salapi."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Video post (gibayad)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "Tawag 211 alang sa lokal nga mga kapanguhaan"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "I-save kini nga mga numero karon. Mahimo usab nimong i-tap ang Need Help now sa ibabaw sa bisan unsang screen."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "I-save ang 988 ug 911 sa imong telepono"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Ibutang ang matag petsa sa korte ug check-in sa kalendaryo"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Susiha ang imong mga multa, bayad ug bayad"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Magpalista sa Medicaid, ug SNAP kon kinahanglan nimo kini"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Pagpangita ug luwas nga puy-anan (tawga ang 211 o ang lokal nga mga kahinguhaan sa pabalay)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Pangitaa ang pagkaon alang niining semanaha (tawag sa 211 o sa lokal nga pantry sa pagkaon)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Ang una nga mga lakang alang sa unang 24 oras human sa usa ka slip makita dinhi sa dihang kini gisusi."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Ang imong mga dokumento gi-encrypt. Bayad nga plano nga bahin; walay presyo nga gitakda pa."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Legal nga tabang, pagtambal ug pagbiyahe."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Dili ikaw ang nag-inusara. Ang button sa krisis sa ibabaw kanunay dinhi  ⁇  tawag o text 988, o 911 sa emerhensiya."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Susiha ang imong mga kondisyon sa parole o probation uban sa imong opisyal sa dili pa mag-aplay."
+    }
+  }
+}

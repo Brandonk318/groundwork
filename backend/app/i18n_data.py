@@ -53,4 +53,5 @@ LANGS_DATA = [
  {"code":"zu","label":"isiZulu","dir":"ltr"},
  {"code":"lo","label":"ລາວ","dir":"ltr"},
  {"code":"ilo","label":"Ilokano","dir":"ltr"},
+ {"code":"ceb","label":"Cebuano","dir":"ltr"},
 ]
