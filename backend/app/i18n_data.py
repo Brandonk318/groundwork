@@ -28,4 +28,5 @@ LANGS_DATA = [
  {"code":"yue","label":"粵語","dir":"ltr"},
  {"code":"id","label":"Bahasa Indonesia","dir":"ltr"},
  {"code":"tr","label":"Türkçe","dir":"ltr"},
+ {"code":"it","label":"Italiano","dir":"ltr"},
 ]

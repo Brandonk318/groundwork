@@ -30,15 +30,16 @@ import ta from "../locales/ta/common.json";
 import yue from "../locales/yue/common.json";
 import id from "../locales/id/common.json";
 import tr from "../locales/tr/common.json";
+import it from "../locales/it/common.json";
 
 // English is the source copy. Other locales carry English values until translated
 // by a human (crisis/safety copy especially must be reviewed, not machine-only —
 // see docs/open-questions.md item 9).
-export const LANGS = ["en", "es", "fr", "hi", "vi", "ar", "tl", "ht", "zh", "ko", "pt", "ru", "so", "ur", "bn", "pa", "fa", "am", "my", "ne", "sw", "te", "ja", "de", "gu", "ta", "yue", "id", "tr"];
+export const LANGS = ["en", "es", "fr", "hi", "vi", "ar", "tl", "ht", "zh", "ko", "pt", "ru", "so", "ur", "bn", "pa", "fa", "am", "my", "ne", "sw", "te", "ja", "de", "gu", "ta", "yue", "id", "tr", "it"];
 export const RTL_LANGS = ["ar", "ur", "fa"];
-export const LANGUAGE_LABELS = { en: "English", es: "Español", fr: "Français", hi: "हिन्दी", vi: "Tiếng Việt", ar: "العربية", tl: "Tagalog", ht: "Kreyòl ayisyen", zh: "简体中文", ko: "한국어", pt: "Português", ru: "Русский", so: "Soomaali", ur: "اردو", bn: "বাংলা", pa: "ਪੰਜਾਬੀ", fa: "فارسی", am: "አማርኛ", my: "မြန်မာ", ne: "नेपाली", sw: "Kiswahili", "te": "తెలుగు", "ja": "日本語", "de": "Deutsch", "gu": "ગુજરાતી", "ta": "தமிழ்", "yue": "粵語", "id": "Bahasa Indonesia", "tr": "Türkçe" };
+export const LANGUAGE_LABELS = { en: "English", es: "Español", fr: "Français", hi: "हिन्दी", vi: "Tiếng Việt", ar: "العربية", tl: "Tagalog", ht: "Kreyòl ayisyen", zh: "简体中文", ko: "한국어", pt: "Português", ru: "Русский", so: "Soomaali", ur: "اردو", bn: "বাংলা", pa: "ਪੰਜਾਬੀ", fa: "فارسی", am: "አማርኛ", my: "မြန်မာ", ne: "नेपाली", sw: "Kiswahili", "te": "తెలుగు", "ja": "日本語", "de": "Deutsch", "gu": "ગુજરાતી", "ta": "தமிழ்", "yue": "粵語", "id": "Bahasa Indonesia", "tr": "Türkçe", "it": "Italiano" };
 
-const ALL = { en, es, fr, hi, vi, ar, tl, ht, zh, ko, pt, ru, so, ur, bn, pa, fa, am, my, ne, sw, te, ja, de, gu, ta, yue, id, tr };
+const ALL = { en, es, fr, hi, vi, ar, tl, ht, zh, ko, pt, ru, so, ur, bn, pa, fa, am, my, ne, sw, te, ja, de, gu, ta, yue, id, tr, it };
 
 export function dirFor(lng) {
   return RTL_LANGS.includes(lng) ? "rtl" : "ltr";
