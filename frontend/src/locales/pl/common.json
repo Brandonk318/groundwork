@@ -111,7 +111,7 @@
     "celebrationFirst": "Pierwszy krok zrobiony. Witaj w domu.",
     "celebrationSection": "Sekcja zakończona",
     "celebrationAll": "Wszystkie 33 kroki wykonane.",
-    "crisisStep": "Zapisz te numery teraz. Możesz też dotknąć Potrzebuję pomocy na górze każdego ekranu.",
+    "crisisStep": "Zapisz te numery teraz. Możesz też dotknąć \"Need help now\" na górze każdego ekranu.",
     "call211": "Call 211 for local resources",
     "resourceOnly": "Wskaźnik zasobów tylko — Groundwork nie zapewnia tego lub współpracuje z dostawcami.",
     "sections": {
@@ -211,7 +211,7 @@
     "postGig": "Po występie",
     "coursesTitle": "Kursy",
     "coursesDraft": "PROJEKT — do przeglądu",
-    "quiz": "Test",
+    "quiz": "Quiz",
     "checkAnswer": "Sprawdź odpowiedź",
     "parole": "Parole navigation",
     "interviews": "Rozmowy kwalifikacyjne",

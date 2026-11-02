@@ -111,7 +111,7 @@
     "celebrationFirst": "Det første skridt er taget. Velkommen hjem.",
     "celebrationSection": "Afsnit færdig",
     "celebrationAll": "Alle 33 trin er færdige.",
-    "crisisStep": "Gem disse numre nu. Du kan også trykke på Jeg har brug for hjælp nu øverst på hver skærm.",
+    "crisisStep": "Gem disse numre nu. Du kan også trykke på \"Need help now\" øverst på hver skærm.",
     "call211": "Call 211 for local resources",
     "resourceOnly": "Ressource pointer only — Groundwork giver ikke dette eller samarbejder med udbydere.",
     "sections": {
@@ -211,7 +211,7 @@
     "postGig": "Slå gig op",
     "coursesTitle": "Kurser",
     "coursesDraft": "Forslag — til revision",
-    "quiz": "Test",
+    "quiz": "Quiz",
     "checkAnswer": "Tjek svar",
     "parole": "Parole navigation",
     "interviews": "Jobsamtaler",

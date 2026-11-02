@@ -111,7 +111,7 @@
     "celebrationFirst": "Eerste stap gedaan. Welkom thuis.",
     "celebrationSection": "Afdeling voltooid",
     "celebrationAll": "Alle 33 stappen voltooid.",
-    "crisisStep": "Sla deze nummers nu op. Je kunt bovenaan elk scherm ook op Ik heb nu hulp nodig tikken.",
+    "crisisStep": "Sla deze nummers nu op. Je kunt bovenaan elk scherm ook op \"Need help now\" tikken.",
     "call211": "Call 211 for local resources",
     "resourceOnly": "Resource pointer only — Groundwork biedt dit niet of werkt samen met aanbieders.",
     "sections": {
@@ -211,7 +211,7 @@
     "postGig": "Post optreden",
     "coursesTitle": "Cursussen",
     "coursesDraft": "Ontwerp — voor herziening",
-    "quiz": "Test",
+    "quiz": "Quiz",
     "checkAnswer": "Controleer antwoord",
     "parole": "Parole navigation",
     "interviews": "Werkgesprekken",

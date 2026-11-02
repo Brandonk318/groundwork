@@ -111,7 +111,7 @@
     "celebrationFirst": "Första steget är gjort. Välkommen hem.",
     "celebrationSection": "Avsnitt färdigt",
     "celebrationAll": "Alla 33 steg är klara.",
-    "crisisStep": "Spara de här numren nu. Du kan också trycka på Jag behöver hjälp nu högst upp på varje skärm.",
+    "crisisStep": "Spara de här numren nu. Du kan också trycka på \"Need help now\" högst upp på varje skärm.",
     "call211": "Call 211 for local resources",
     "resourceOnly": "Endast resurspekaren — Groundwork tillhandahåller inte detta eller samarbetar med leverantörer.",
     "sections": {
@@ -211,7 +211,7 @@
     "postGig": "Post uppträdande",
     "coursesTitle": "Kurser",
     "coursesDraft": "Förslag — för översyn",
-    "quiz": "Test",
+    "quiz": "Quiz",
     "checkAnswer": "Kontrollera svaret",
     "parole": "Parole navigation",
     "interviews": "Jobbintervjuer",

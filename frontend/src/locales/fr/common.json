@@ -60,7 +60,7 @@
     "dmTitle": "Messages entre pairs",
     "noPhone": "Les numéros de téléphone ne sont jamais affichés dans la messagerie entre pairs.",
     "recipient": "Pseudo du membre",
-    "message": "Texte",
+    "message": "Message",
     "send": "Envoyer",
     "dmSent": "Message envoyé."
   },
@@ -111,7 +111,7 @@
     "celebrationFirst": "Première étape faite — bienvenue à la maison.",
     "celebrationSection": "Section terminée",
     "celebrationAll": "Les 33 étapes sont faites. Fête ton progrès.",
-    "crisisStep": "Enregistre ces numéros maintenant. Tu peux aussi toucher Besoin d'aide en haut de chaque écran.",
+    "crisisStep": "Enregistre ces numéros maintenant. Tu peux aussi toucher \"Need help now\" en haut de chaque écran.",
     "call211": "Call 211 for local resources",
     "resourceOnly": "Simple indication de ressource — Groundwork ne fournit pas ceci ni ne travaille avec des prestataires.",
     "sections": {
@@ -211,7 +211,7 @@
     "postGig": "Publier le boulot",
     "coursesTitle": "Cours",
     "coursesDraft": "BROUILLON — en révision",
-    "quiz": "Test",
+    "quiz": "Quiz",
     "checkAnswer": "Vérifier la réponse",
     "parole": "Parole navigation",
     "interviews": "Entretiens d'embauche",

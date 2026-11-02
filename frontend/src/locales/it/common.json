@@ -111,7 +111,7 @@
     "celebrationFirst": "Primo passo fatto — benvenuto a casa.",
     "celebrationSection": "Sezione completata",
     "celebrationAll": "Tutti i 33 passi fatti, festeggia i tuoi progressi.",
-    "crisisStep": "Salva questi numeri adesso. Puoi anche toccare Ho bisogno di aiuto ora in cima a ogni schermata.",
+    "crisisStep": "Salva questi numeri adesso. Puoi anche toccare \"Need help now\" in cima a ogni schermata.",
     "call211": "Call 211 for local resources",
     "resourceOnly": "Il puntatore di risorsa solo — Groundwork non fornisce questo o collabora con i fornitori.",
     "sections": {
@@ -183,7 +183,7 @@
   "settings": {
     "accountTitle": "Conto",
     "handle": "Maniglia",
-    "password": "Password di accesso",
+    "password": "Password",
     "register": "Creare account",
     "login": "Accedi",
     "loggedIn": "Sei connesso."
@@ -211,7 +211,7 @@
     "postGig": "Pubblica il lavoretto",
     "coursesTitle": "Corsi",
     "coursesDraft": "PROGETTO — per revisione",
-    "quiz": "Test",
+    "quiz": "Quiz",
     "checkAnswer": "Controlla la risposta",
     "parole": "Parole navigation",
     "interviews": "Interviste di lavoro",
