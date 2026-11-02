@@ -44,4 +44,5 @@ LANGS_DATA = [
  {"code":"nl","label":"Nederlands","dir":"ltr"},
  {"code":"ro","label":"Română","dir":"ltr"},
  {"code":"ms","label":"Bahasa Melayu","dir":"ltr"},
+ {"code":"sr","label":"Српски","dir":"ltr"},
 ]
