@@ -86,4 +86,5 @@ LANGS_DATA = [
  {"code":"mg","label":"Malagasy","dir":"ltr"},
  {"code":"yi","label":"ייִדיש","dir":"rtl"},
  {"code":"bho","label":"भोजपुरी","dir":"ltr"},
+ {"code":"ca","label":"Català","dir":"ltr"},
 ]

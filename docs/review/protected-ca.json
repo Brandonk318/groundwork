@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "ca",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/ca/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Necessito ajuda ara mateix"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Emergència: truc 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "Calla 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Aproximació"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Text 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "No estàs sola"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Calla 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Els números de telèfon no es mostren mai."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Els objectius d'estalvi més un pla de preparació per a l'habitatge. Groundwork no proporciona habitatge ni col·labora amb proveïdors. Per a ajuda local, truqui a 211."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Plan pagat, encara no s'ha fixat cap preu."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Navegació de llibertat condicional"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Les fiches no tenen valor en efectiu."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Video post (pagat)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "Demana 211 per als recursos locals"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "També pots tocar Necessites ajuda ara a la part superior de qualsevol pantalla."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "Guardeu 988 i 911 al vostre telèfon"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Posa cada data de judici i check-in en un calendari"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Verifiqueu les multes, honoraris i restitució"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Inscriu-te en Medicaid, i SNAP si ho necessites"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Trobar un lloc segur on allotjar-se (call 211 o recursos d'habitatge locals)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Trobar menjar per a aquesta setmana (call 211 o una despensa de menjar local)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Els primers passos calmes durant les primeres 24 hores després d'un desliz apareixerà aquí una vegada revisat."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Els teus documents estan encriptats."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "L'assistència jurídica, el tractament i el trànsit."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "No estàs sol. El botó d'emergència de dalt està sempre aquí  ⁇  truqueu o escriviu 988, o 911 en cas d'emergència."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Verifiqueu les condicions de la condicional o de la condicional amb el vostre oficial abans de sol·licitar."
+    }
+  }
+}
