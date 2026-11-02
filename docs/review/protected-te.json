@@ -92,7 +92,7 @@
     },
     "safety.relapseDraft": {
       "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
-      "draft": "ముసాయిదా  ⁇  సమీక్ష కోసం. స్లిప్ తర్వాత మొదటి 24 గంటల్లో ప్రశాంతమైన మొదటి దశలు సమీక్షించిన తర్వాత ఇక్కడ కనిపిస్తాయి. మీరు ఒంటరిగా లేరు."
+      "draft": "ముసాయిదా  —  సమీక్ష కోసం. స్లిప్ తర్వాత మొదటి 24 గంటల్లో ప్రశాంతమైన మొదటి దశలు సమీక్షించిన తర్వాత ఇక్కడ కనిపిస్తాయి. మీరు ఒంటరిగా లేరు."
     },
     "safety.vaultHelp": {
       "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
@@ -104,7 +104,7 @@
     },
     "wellbeing.roughHelp": {
       "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
-      "draft": "మీరు ఒంటరిగా లేరు. పైన ఉన్న సంక్షోభ బటన్ ఎల్లప్పుడూ ఇక్కడ ఉంది  ⁇  కాల్ లేదా టెక్స్ట్ 988, లేదా అత్యవసర పరిస్థితిలో 911."
+      "draft": "మీరు ఒంటరిగా లేరు. పైన ఉన్న సంక్షోభ బటన్ ఎల్లప్పుడూ ఇక్కడ ఉంది  —  కాల్ లేదా టెక్స్ట్ 988, లేదా అత్యవసర పరిస్థితిలో 911."
     },
     "work.paroleNote": {
       "en": "Check your parole or probation conditions with your officer before applying.",

@@ -92,7 +92,7 @@
     },
     "safety.relapseDraft": {
       "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
-      "draft": "ಡ್ರಾಫ್ಟ್  ⁇  ಪರಿಶೀಲನೆಗಾಗಿ. ಸ್ಲಿಪ್ ನಂತರ ಮೊದಲ 24 ಗಂಟೆಗಳ ಕಾಲ ಶಾಂತ ಮೊದಲ ಹಂತಗಳು ಪರಿಶೀಲಿಸಿದ ನಂತರ ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತದೆ. ನೀವು ಒಬ್ಬಂಟಿಯಾಗಿಲ್ಲ."
+      "draft": "ಡ್ರಾಫ್ಟ್  —  ಪರಿಶೀಲನೆಗಾಗಿ. ಸ್ಲಿಪ್ ನಂತರ ಮೊದಲ 24 ಗಂಟೆಗಳ ಕಾಲ ಶಾಂತ ಮೊದಲ ಹಂತಗಳು ಪರಿಶೀಲಿಸಿದ ನಂತರ ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತದೆ. ನೀವು ಒಬ್ಬಂಟಿಯಾಗಿಲ್ಲ."
     },
     "safety.vaultHelp": {
       "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
@@ -104,7 +104,7 @@
     },
     "wellbeing.roughHelp": {
       "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
-      "draft": "ನೀವು ಒಬ್ಬರೇ ಅಲ್ಲ. ಮೇಲಿನ ಬಿಕ್ಕಟ್ಟಿನ ಬಟನ್ ಯಾವಾಗಲೂ ಇಲ್ಲಿದೆ  ⁇  ಕರೆ ಮಾಡಿ ಅಥವಾ ತುರ್ತುಸ್ಥಿತಿಯಲ್ಲಿ 988 ಅಥವಾ 911 ಅನ್ನು ಸಂದೇಶ ಮಾಡಿ."
+      "draft": "ನೀವು ಒಬ್ಬರೇ ಅಲ್ಲ. ಮೇಲಿನ ಬಿಕ್ಕಟ್ಟಿನ ಬಟನ್ ಯಾವಾಗಲೂ ಇಲ್ಲಿದೆ  —  ಕರೆ ಮಾಡಿ ಅಥವಾ ತುರ್ತುಸ್ಥಿತಿಯಲ್ಲಿ 988 ಅಥವಾ 911 ಅನ್ನು ಸಂದೇಶ ಮಾಡಿ."
     },
     "work.paroleNote": {
       "en": "Check your parole or probation conditions with your officer before applying.",

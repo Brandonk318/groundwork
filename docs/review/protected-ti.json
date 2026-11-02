@@ -92,7 +92,7 @@
     },
     "safety.relapseDraft": {
       "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
-      "draft": "ንድፊ  ⁇  ንምግምጋም። ድሕሪ ምግምጋም ኣብ ውሽጢ 24 ሰዓታት ቀሊል ቀዳሞት ስጉምቲታት ኣብዚ ክርአ እዩ። በይንኻ ኣይኮንካን።"
+      "draft": "ንድፊ  —  ንምግምጋም። ድሕሪ ምግምጋም ኣብ ውሽጢ 24 ሰዓታት ቀሊል ቀዳሞት ስጉምቲታት ኣብዚ ክርአ እዩ። በይንኻ ኣይኮንካን።"
     },
     "safety.vaultHelp": {
       "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
@@ -104,7 +104,7 @@
     },
     "wellbeing.roughHelp": {
       "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
-      "draft": "ንስኻ በይንኻ ኣይኮንካን። እቲ ኣብ ላዕሊ ዘሎ ናይ ቅልውላው ቁልፊ ኩሉ ግዜ ኣብዚ ኣሎ  ⁇  ኣብ ህጹጽ እዋን 988 ጸውዕ ወይ መልእኽቲ ጽሓፍ፡ ወይ 911."
+      "draft": "ንስኻ በይንኻ ኣይኮንካን። እቲ ኣብ ላዕሊ ዘሎ ናይ ቅልውላው ቁልፊ ኩሉ ግዜ ኣብዚ ኣሎ  —  ኣብ ህጹጽ እዋን 988 ጸውዕ ወይ መልእኽቲ ጽሓፍ፡ ወይ 911."
     },
     "work.paroleNote": {
       "en": "Check your parole or probation conditions with your officer before applying.",

@@ -92,7 +92,7 @@
     },
     "safety.relapseDraft": {
       "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
-      "draft": "รูปฉบับ  ⁇  สําหรับการทบทวน ก้าวแรกที่สงบสําหรับ 24 ชั่วโมงแรกหลังจากที่กระโดดจะปรากฏที่นี่เมื่อการทบทวน คุณไม่ได้เป็นคนเดียว"
+      "draft": "รูปฉบับ  —  สําหรับการทบทวน ก้าวแรกที่สงบสําหรับ 24 ชั่วโมงแรกหลังจากที่กระโดดจะปรากฏที่นี่เมื่อการทบทวน คุณไม่ได้เป็นคนเดียว"
     },
     "safety.vaultHelp": {
       "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
@@ -104,7 +104,7 @@
     },
     "wellbeing.roughHelp": {
       "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
-      "draft": "คุณไม่ได้เป็นคนเดียว ปุ่มวิกฤตด้านบนอยู่เสมอ  ⁇  โทรหรือข้อความ 988 หรือ 911 ในกรณีฉุกเฉิน"
+      "draft": "คุณไม่ได้เป็นคนเดียว ปุ่มวิกฤตด้านบนอยู่เสมอ  —  โทรหรือข้อความ 988 หรือ 911 ในกรณีฉุกเฉิน"
     },
     "work.paroleNote": {
       "en": "Check your parole or probation conditions with your officer before applying.",

@@ -92,7 +92,7 @@
     },
     "safety.relapseDraft": {
       "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
-      "draft": "Àkọlé ìwé  ⁇  fún àtúnyẹ̀wò. Àwọn ìgbésẹ̀ àkọ́kọ́ tó yẹ kó o gbé fún wákàtí mẹ́rìnlélógún àkọ́kọ́ lẹ́yìn tó o bá ti ṣe àtúnyẹ̀wò."
+      "draft": "Àkọlé ìwé  —  fún àtúnyẹ̀wò. Àwọn ìgbésẹ̀ àkọ́kọ́ tó yẹ kó o gbé fún wákàtí mẹ́rìnlélógún àkọ́kọ́ lẹ́yìn tó o bá ti ṣe àtúnyẹ̀wò."
     },
     "safety.vaultHelp": {
       "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
@@ -104,7 +104,7 @@
     },
     "wellbeing.roughHelp": {
       "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
-      "draft": "Ìwọ nìkan kọ́ ni o wà nídìí ọ̀rọ̀ náà. Ojú-ìwòsàn tó wà lókè yìí máa ń wà nídìí ọ̀rọ̀ náà  ⁇  pe 988 tàbí kí o fi ọ̀rọ̀ ránṣẹ́ sí 911 nígbà pàjáwìrì."
+      "draft": "Ìwọ nìkan kọ́ ni o wà nídìí ọ̀rọ̀ náà. Ojú-ìwòsàn tó wà lókè yìí máa ń wà nídìí ọ̀rọ̀ náà  —  pe 988 tàbí kí o fi ọ̀rọ̀ ránṣẹ́ sí 911 nígbà pàjáwìrì."
     },
     "work.paroleNote": {
       "en": "Check your parole or probation conditions with your officer before applying.",
