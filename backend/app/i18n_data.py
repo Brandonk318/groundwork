@@ -60,4 +60,5 @@ LANGS_DATA = [
  {"code":"rw","label":"Kinyarwanda","dir":"ltr"},
  {"code":"ps","label":"پښتو","dir":"rtl"},
  {"code":"prs","label":"دری","dir":"rtl"},
+ {"code":"sv","label":"Svenska","dir":"ltr"},
 ]
