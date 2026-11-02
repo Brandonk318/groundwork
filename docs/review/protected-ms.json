@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "ms",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/ms/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Saya perlukan bantuan sekarang"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Kecemasan: panggilan 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "Panggilan 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Tutup"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Teks 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Anda tidak bersendirian"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Panggilan 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Periksa syarat pembebasan bersyarat dengan pegawai awak."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Matlamat simpanan ditambah rancangan kesiapan perumahan. Groundwork tidak menyediakan perumahan dan tidak bekerjasama dengan pembekal. Untuk bantuan tempatan, hubungi 211."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Tiada harga yang ditetapkan lagi."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Navigasi pembebasan bersyarat"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Token tidak mempunyai nilai tunai."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Video post (bayar)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "Panggilan 211 untuk sumber tempatan"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Simpan nombor ini sekarang. Anda juga boleh mengetuk Perlukan bantuan sekarang di bahagian atas mana-mana skrin."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "Simpan 988 dan 911 di telefon anda"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Letakkan setiap tarikh mahkamah dan check-in pada kalendar"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Periksa denda, yuran dan bayaran balik anda"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Mendaftar dalam Medicaid, dan SNAP jika anda memerlukannya"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Cari tempat yang selamat untuk tinggal (panggil 211 atau sumber perumahan tempatan)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Cari makanan untuk minggu ini (panggil 211 atau pantri makanan tempatan)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Rancangan  ⁇  untuk semak. langkah pertama yang tenang untuk 24 jam pertama selepas slip akan muncul di sini setelah semak. anda tidak bersendirian."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Dokumen anda dienkripsi, rancangan berbayar, harga belum ditetapkan."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Bantuan undang-undang, rawatan dan transit."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Anda tidak bersendirian. butang krisis di atas sentiasa di sini  ⁇  hubungi atau teks 988, atau 911 dalam keadaan kecemasan."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Periksa syarat pembebasan bersyarat atau percubaan anda dengan pegawai anda sebelum memohon."
+    }
+  }
+}
