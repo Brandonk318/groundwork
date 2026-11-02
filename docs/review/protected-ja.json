@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "ja",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/ja/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "今すぐ助けが必要だ"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "緊急:911を呼んでください"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "988号電話"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "閉じる"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "テキスト 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "ひとりじゃない"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "211号電話"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "地元の短職で 仮釈放の条件を 警官に聞いてみろ 電話番号は示されてない"
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "貯蓄目標と住宅準備計画.Groundworkは住宅を提供せず,提供者と提携していません.地元の援助のために,211に電話してください."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "料金プラン まだ値段は決まっていない"
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "仮釈放ナビゲーション"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "トークンは現金価値がない."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "ビデオポスト (有料)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "地元資源の募集211"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "この番号を保存します.また,どの画面の上部でも\"今すぐ助けが必要\"をタップできます."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "988と911を携帯に保存します"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "すべての裁判日程とチェックインをカレンダーに"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "罰金,手数料,返済をチェックしてください"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "メディケイドに登録し,必要ならSNAP"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "安全な居場所を見つけます (211または地元の住宅資源に電話してください)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "この週のために食べ物を探す (電話211または地元の食料倉庫)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "試行錯誤後最初の24時間間の最初のステップは,試行錯誤後にここに表示されます.あなたは一人ではありません."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "文書は暗号化されています. 料金プランの機能です. 価格はまだ設定されていません."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "法律援助,治療,輸送.この目録は,食料や住居をカバーしていません."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "あなたは一人ではありません.上の危機ボタンは常にここにあります. 緊急時に電話やテキスト・メッセージ988 または911です."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "申請する前に 仮釈放や仮釈放の条件を 担当官に確認してください"
+    }
+  }
+}
