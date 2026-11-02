@@ -10,61 +10,57 @@
       "en": "Need help now",
       "draft": "Потребна вам је помоћ сада"
     },
-    "crisis.call911": {
-      "en": "Emergency: call 911",
-      "draft": "Хитно: позовите 911"
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Ниси сама"
     },
     "crisis.call988": {
       "en": "Call 988",
       "draft": "Позив 988"
     },
-    "crisis.close": {
-      "en": "Close",
-      "draft": "Затварање"
-    },
     "crisis.text988": {
       "en": "Text 988",
       "draft": "Текст 988"
     },
-    "crisis.title": {
-      "en": "You are not alone",
-      "draft": "Ниси сама"
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Хитно: позовите 911"
     },
-    "phase3.call211": {
-      "en": "Call 211",
-      "draft": "Позив 211"
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Затварање"
     },
-    "phase3.gigsHelp": {
-      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
-      "draft": "Проверите услове условног условљавања са својим полицајцем."
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Не сте сами. Кључ за кризу изнад је увек овде  —  позовите или напишите 988 или 911 у хитној ситуацији."
     },
-    "phase3.housingHelp": {
-      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
-      "draft": ""
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Правна помоћ, лечење и транзит."
     },
-    "phase3.paidNote": {
-      "en": "Paid plan. No price has been set yet.",
-      "draft": "Плаћени план."
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Успокојни први кораци у првих 24 сата након што се пропадне ће се појавити овде након прегледа."
     },
-    "phase3.parole": {
-      "en": "Parole navigation",
-      "draft": "Навигација условним отпуштањем"
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Ваши документи су шифровани. Плаћени план; још није одређена цена."
     },
-    "phase3.tokensHelp": {
-      "en": "Tokens have no cash value.",
-      "draft": "Токови немају новчану вредност."
-    },
-    "phase3.video": {
-      "en": "Video post (paid)",
-      "draft": "Видео пост (плаћен)"
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Сачувајте ове бројеве сада. Такође можете да додирнете Потребна вам помоћ сада на врху било ког екрана."
     },
     "reentry.call211": {
       "en": "Call 211 for local resources",
       "draft": "Позив 211 за локалне ресурсе"
     },
-    "reentry.crisisStep": {
-      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
-      "draft": "Сачувајте ове бројеве сада. Такође можете да додирнете Потребна вам помоћ сада на врху било ког екрана."
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Пронађите сигурно место за боравак (позовите 211 или локалне кућне ресурсе)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Пронађите храну за ову недељу (позовите 211 или локални продавницу хране)"
     },
     "reentry.steps.step11": {
       "en": "Save 988 and 911 in your phone",
@@ -82,33 +78,37 @@
       "en": "Enroll in Medicaid, and SNAP if you need it",
       "draft": "Упиши се у Медицаид, и СНАП ако ти треба"
     },
-    "reentry.steps.step7": {
-      "en": "Find a safe place to stay (call 211 or local housing resources)",
-      "draft": "Пронађите сигурно место за боравак (позовите 211 или локалне кућне ресурсе)"
-    },
-    "reentry.steps.step8": {
-      "en": "Find food for this week (call 211 or a local food pantry)",
-      "draft": "Пронађите храну за ову недељу (позовите 211 или локални продавницу хране)"
-    },
-    "safety.relapseDraft": {
-      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
-      "draft": "Успокојни први кораци у првих 24 сата након што се пропадне ће се појавити овде након прегледа."
-    },
-    "safety.vaultHelp": {
-      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
-      "draft": "Ваши документи су шифровани. Плаћени план; још није одређена цена."
-    },
-    "support.resourcesNote": {
-      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
-      "draft": "Правна помоћ, лечење и транзит."
-    },
-    "wellbeing.roughHelp": {
-      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
-      "draft": "Не сте сами. Кључ за кризу изнад је увек овде  ⁇  позовите или напишите 988 или 911 у хитној ситуацији."
-    },
     "work.paroleNote": {
       "en": "Check your parole or probation conditions with your officer before applying.",
       "draft": "Пре него што поднесете захтев, проверите услове условног или условног затвора са својим службеником."
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Проверите услове условног условљавања са својим полицајцем."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Навигација условним отпуштањем"
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Плаћени план."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Видео пост (плаћен)"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Токови немају новчану вредност."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Ciljevi štednje plus plan spremnosti za stanovanje. Groundwork ne obezbeđuje stanovanje i ne sarađuje sa pružaocima usluga. Za lokalnu pomoć pozovi 211."
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Позив 211"
     }
   }
 }

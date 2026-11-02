@@ -10,61 +10,57 @@
       "en": "Need help now",
       "draft": "我需要急救"
     },
-    "crisis.call911": {
-      "en": "Emergency: call 911",
-      "draft": "緊急情況:打 911"
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "你唔係孤身一人"
     },
     "crisis.call988": {
       "en": "Call 988",
       "draft": "呼叫988"
     },
-    "crisis.close": {
-      "en": "Close",
-      "draft": "關閉"
-    },
     "crisis.text988": {
       "en": "Text 988",
       "draft": "文字988"
     },
-    "crisis.title": {
-      "en": "You are not alone",
-      "draft": "你唔係孤身一人"
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "緊急情況:打 911"
     },
-    "phase3.call211": {
-      "en": "Call 211",
-      "draft": "呼叫211"
+    "crisis.close": {
+      "en": "Close",
+      "draft": "關閉"
     },
-    "phase3.gigsHelp": {
-      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
-      "draft": "短暫嘅社區工作 請同警官確認保釋條件 電話號碼從來都未顯示"
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "你唔孤單,上面嘅危機按 — 總係喺度  —  打電話或者發短信988 或者911喺緊急情況下"
     },
-    "phase3.housingHelp": {
-      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
-      "draft": ""
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "法律援助,醫療服務同交通工具"
     },
-    "phase3.paidNote": {
-      "en": "Paid plan. No price has been set yet.",
-      "draft": "付費計劃 價格仲未決定"
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "審核嘅草稿. 通過審核之後,你會喺第一個24小時內做出平靜嘅第一步. 你唔孤單."
     },
-    "phase3.parole": {
-      "en": "Parole navigation",
-      "draft": "假释导航"
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "你嘅文件係加密嘅 付費計劃嘅功能; 價格未確定"
     },
-    "phase3.tokensHelp": {
-      "en": "Tokens have no cash value.",
-      "draft": "代幣冇現金價值"
-    },
-    "phase3.video": {
-      "en": "Video post (paid)",
-      "draft": "視頻貼文 (付費)"
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "你可以喺任何屏幕頂部點擊 需要協助"
     },
     "reentry.call211": {
       "en": "Call 211 for local resources",
       "draft": "呼叫211 地方資源"
     },
-    "reentry.crisisStep": {
-      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
-      "draft": "你可以喺任何屏幕頂部點擊 需要協助"
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "尋找一個安全嘅住宿地點 (打電話211 或者當地住房資源)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "尋找本禮拜嘅食物 (打電話 211 或者當地的食物倉庫)"
     },
     "reentry.steps.step11": {
       "en": "Save 988 and 911 in your phone",
@@ -82,33 +78,37 @@
       "en": "Enroll in Medicaid, and SNAP if you need it",
       "draft": "加入醫療援助,如果你需要,就快速報名"
     },
-    "reentry.steps.step7": {
-      "en": "Find a safe place to stay (call 211 or local housing resources)",
-      "draft": "尋找一個安全嘅住宿地點 (打電話211 或者當地住房資源)"
-    },
-    "reentry.steps.step8": {
-      "en": "Find food for this week (call 211 or a local food pantry)",
-      "draft": "尋找本禮拜嘅食物 (打電話 211 或者當地的食物倉庫)"
-    },
-    "safety.relapseDraft": {
-      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
-      "draft": "審核嘅草稿. 通過審核之後,你會喺第一個24小時內做出平靜嘅第一步. 你唔孤單."
-    },
-    "safety.vaultHelp": {
-      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
-      "draft": "你嘅文件係加密嘅 付費計劃嘅功能; 價格未確定"
-    },
-    "support.resourcesNote": {
-      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
-      "draft": "法律援助,醫療服務同交通工具"
-    },
-    "wellbeing.roughHelp": {
-      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
-      "draft": "你唔孤單,上面嘅危機按 ⁇ 總係喺度  ⁇  打電話或者發短信988 或者911喺緊急情況下"
-    },
     "work.paroleNote": {
       "en": "Check your parole or probation conditions with your officer before applying.",
       "draft": "喺申請之前,請同監察官確認假期或者試管期嘅條件"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "短暫嘅社區工作 請同警官確認保釋條件 電話號碼從來都未顯示"
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "假释导航"
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "付費計劃 價格仲未決定"
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "視頻貼文 (付費)"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "代幣冇現金價值"
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "儲蓄目標加住房準備計劃。Groundwork 唔提供住房，亦唔同供應商合作。如需本地幫助，請打 211。"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "呼叫211"
     }
   }
 }

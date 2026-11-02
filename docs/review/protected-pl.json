@@ -10,61 +10,57 @@
       "en": "Need help now",
       "draft": "Potrzebuję pomocy"
     },
-    "crisis.call911": {
-      "en": "Emergency: call 911",
-      "draft": "Nagły wypadek: dzwoń 911."
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Nie jesteś sam"
     },
     "crisis.call988": {
       "en": "Call 988",
       "draft": "Zadzwoń 988"
     },
-    "crisis.close": {
-      "en": "Close",
-      "draft": "Zamknij"
-    },
     "crisis.text988": {
       "en": "Text 988",
       "draft": "Tekst 988"
     },
-    "crisis.title": {
-      "en": "You are not alone",
-      "draft": "Nie jesteś sam"
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Nagły wypadek: dzwoń 911."
     },
-    "phase3.call211": {
-      "en": "Call 211",
-      "draft": "Zadzwoń 211"
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Zamknij"
     },
-    "phase3.gigsHelp": {
-      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
-      "draft": "Sprawdź warunki zwolnienia warunkowego u swojego policjanta."
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Nie jesteś sam. Przycisk kryzysowy powyżej jest zawsze tutaj  —  zadzwoń lub napisz 988, lub 911 w nagłych wypadkach."
     },
-    "phase3.housingHelp": {
-      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
-      "draft": ""
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Pomoc prawna, leczenie i tranzyt."
     },
-    "phase3.paidNote": {
-      "en": "Paid plan. No price has been set yet.",
-      "draft": "Jeszcze nie ustalono ceny."
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Przyjrzyj się pierwszym krokom w ciągu pierwszych 24 godzin po przejściu."
     },
-    "phase3.parole": {
-      "en": "Parole navigation",
-      "draft": "Nawigacja warunkowa"
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Twoje dokumenty są zaszyfrowane."
     },
-    "phase3.tokensHelp": {
-      "en": "Tokens have no cash value.",
-      "draft": "Tokeny nie mają wartości pieniężnej."
-    },
-    "phase3.video": {
-      "en": "Video post (paid)",
-      "draft": "Wideo (płatne)"
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Możesz również kliknąć Potrzebuję pomocy teraz na górze dowolnego ekranu."
     },
     "reentry.call211": {
       "en": "Call 211 for local resources",
       "draft": "Wzywanie 211 do lokalnych zasobów"
     },
-    "reentry.crisisStep": {
-      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
-      "draft": "Możesz również kliknąć Potrzebuję pomocy teraz na górze dowolnego ekranu."
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Znajdź bezpieczne miejsce do pobytu (dzwoń 211 lub lokalne źródła mieszkaniowe)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Znajdź jedzenie na ten tydzień (zadzwoń do 211 lub lokalnej spiżarni żywności)"
     },
     "reentry.steps.step11": {
       "en": "Save 988 and 911 in your phone",
@@ -82,33 +78,37 @@
       "en": "Enroll in Medicaid, and SNAP if you need it",
       "draft": "Zarejestruj się w Medicaid, i SNAP, jeśli potrzebujesz"
     },
-    "reentry.steps.step7": {
-      "en": "Find a safe place to stay (call 211 or local housing resources)",
-      "draft": "Znajdź bezpieczne miejsce do pobytu (dzwoń 211 lub lokalne źródła mieszkaniowe)"
-    },
-    "reentry.steps.step8": {
-      "en": "Find food for this week (call 211 or a local food pantry)",
-      "draft": "Znajdź jedzenie na ten tydzień (zadzwoń do 211 lub lokalnej spiżarni żywności)"
-    },
-    "safety.relapseDraft": {
-      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
-      "draft": "Przyjrzyj się pierwszym krokom w ciągu pierwszych 24 godzin po przejściu."
-    },
-    "safety.vaultHelp": {
-      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
-      "draft": "Twoje dokumenty są zaszyfrowane."
-    },
-    "support.resourcesNote": {
-      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
-      "draft": "Pomoc prawna, leczenie i tranzyt."
-    },
-    "wellbeing.roughHelp": {
-      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
-      "draft": "Nie jesteś sam. Przycisk kryzysowy powyżej jest zawsze tutaj  ⁇  zadzwoń lub napisz 988, lub 911 w nagłych wypadkach."
-    },
     "work.paroleNote": {
       "en": "Check your parole or probation conditions with your officer before applying.",
       "draft": "Sprawdź warunki zwolnienia warunkowego przed złożeniem wniosku."
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Sprawdź warunki zwolnienia warunkowego u swojego policjanta."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Nawigacja warunkowa"
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Jeszcze nie ustalono ceny."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Wideo (płatne)"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Tokeny nie mają wartości pieniężnej."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Cele oszczędnościowe plus plan gotowości mieszkaniowej. Groundwork nie zapewnia mieszkań ani nie współpracuje z dostawcami. Po lokalną pomoc zadzwoń pod 211."
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Zadzwoń 211"
     }
   }
 }

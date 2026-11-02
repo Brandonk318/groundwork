@@ -10,61 +10,57 @@
       "en": "Need help now",
       "draft": "Trenger hjelp nå"
     },
-    "crisis.call911": {
-      "en": "Emergency: call 911",
-      "draft": "Nødhjelp: Ring 911"
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Du er ikke alene"
     },
     "crisis.call988": {
       "en": "Call 988",
       "draft": "Ring 988"
     },
-    "crisis.close": {
-      "en": "Close",
-      "draft": "Nær"
-    },
     "crisis.text988": {
       "en": "Text 988",
       "draft": "Tekst 988"
     },
-    "crisis.title": {
-      "en": "You are not alone",
-      "draft": "Du er ikke alene"
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Nødhjelp: Ring 911"
     },
-    "phase3.call211": {
-      "en": "Call 211",
-      "draft": "Ring 211"
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Nær"
     },
-    "phase3.gigsHelp": {
-      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
-      "draft": "Sjekk vilkårene for prøveløslatelse med betjenten din."
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Du er ikke alene. Krise-knappen ovenfor er alltid her  —  ring eller tekst 988, eller 911 i en nødsituasjon."
     },
-    "phase3.housingHelp": {
-      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
-      "draft": ""
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Juridisk hjelp, behandling og transitt."
     },
-    "phase3.paidNote": {
-      "en": "Paid plan. No price has been set yet.",
-      "draft": "Ingen pris er fastsatt ennå."
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Utkastet  —  for gjennomgang. rolige første skritt for de første 24 timene etter en slip vil vises her en gang gjennomgått. du er ikke alene."
     },
-    "phase3.parole": {
-      "en": "Parole navigation",
-      "draft": "Befrielsesnavigering"
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Dokumentene dine er kryptert. Betalt planfunksjon; ingen pris er satt ennå."
     },
-    "phase3.tokensHelp": {
-      "en": "Tokens have no cash value.",
-      "draft": "Tokener har ingen kontantverdi."
-    },
-    "phase3.video": {
-      "en": "Video post (paid)",
-      "draft": "Videopost (betalt)"
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Du kan også trykke på Trenger hjelp nå øverst på hvilken som helst skjerm."
     },
     "reentry.call211": {
       "en": "Call 211 for local resources",
       "draft": "Oppkall 211 for lokale ressurser"
     },
-    "reentry.crisisStep": {
-      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
-      "draft": "Du kan også trykke på Trenger hjelp nå øverst på hvilken som helst skjerm."
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Finn et trygt sted å bo (ring 211 eller lokale boligressurser)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Finn mat for denne uken (ring 211 eller et lokalt matbutikk)"
     },
     "reentry.steps.step11": {
       "en": "Save 988 and 911 in your phone",
@@ -82,33 +78,37 @@
       "en": "Enroll in Medicaid, and SNAP if you need it",
       "draft": "Registrer deg på Medicaid, og SNAP hvis du trenger det"
     },
-    "reentry.steps.step7": {
-      "en": "Find a safe place to stay (call 211 or local housing resources)",
-      "draft": "Finn et trygt sted å bo (ring 211 eller lokale boligressurser)"
-    },
-    "reentry.steps.step8": {
-      "en": "Find food for this week (call 211 or a local food pantry)",
-      "draft": "Finn mat for denne uken (ring 211 eller et lokalt matbutikk)"
-    },
-    "safety.relapseDraft": {
-      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
-      "draft": "Utkastet  ⁇  for gjennomgang. rolige første skritt for de første 24 timene etter en slip vil vises her en gang gjennomgått. du er ikke alene."
-    },
-    "safety.vaultHelp": {
-      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
-      "draft": "Dokumentene dine er kryptert. Betalt planfunksjon; ingen pris er satt ennå."
-    },
-    "support.resourcesNote": {
-      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
-      "draft": "Juridisk hjelp, behandling og transitt."
-    },
-    "wellbeing.roughHelp": {
-      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
-      "draft": "Du er ikke alene. Krise-knappen ovenfor er alltid her  ⁇  ring eller tekst 988, eller 911 i en nødsituasjon."
-    },
     "work.paroleNote": {
       "en": "Check your parole or probation conditions with your officer before applying.",
       "draft": "Sjekk vilkårene for din prøveløslatelse eller prøveløslatelse med din offiser før du søker."
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Sjekk vilkårene for prøveløslatelse med betjenten din."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Befrielsesnavigering"
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Ingen pris er fastsatt ennå."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Videopost (betalt)"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Tokener har ingen kontantverdi."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Sparemål pluss en plan for boligberedskap. Groundwork tilbyr ikke bolig og samarbeider ikke med leverandører. Ring 211 for lokal hjelp."
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Ring 211"
     }
   }
 }

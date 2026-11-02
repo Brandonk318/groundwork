@@ -10,61 +10,57 @@
       "en": "Need help now",
       "draft": "Потрібна допомога"
     },
-    "crisis.call911": {
-      "en": "Emergency: call 911",
-      "draft": "Надзвичайний виклик 911"
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Ти не один"
     },
     "crisis.call988": {
       "en": "Call 988",
       "draft": "Виклик 988"
     },
-    "crisis.close": {
-      "en": "Close",
-      "draft": "Затисніть"
-    },
     "crisis.text988": {
       "en": "Text 988",
       "draft": "Текст 988"
     },
-    "crisis.title": {
-      "en": "You are not alone",
-      "draft": "Ти не один"
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Надзвичайний виклик 911"
     },
-    "phase3.call211": {
-      "en": "Call 211",
-      "draft": "Виклик 211"
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Затисніть"
     },
-    "phase3.gigsHelp": {
-      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
-      "draft": "Проверте умови звільнення з офіцером, номери телефонів ніколи не показуються."
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Ви не одні. Кнопка кризових ситуацій завжди тут  —  зателефонуйте або напишіть 988, або 911 у разі надзвичайної ситуації."
     },
-    "phase3.housingHelp": {
-      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
-      "draft": ""
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Правова допомога, лікування та транзит."
     },
-    "phase3.paidNote": {
-      "en": "Paid plan. No price has been set yet.",
-      "draft": "Платний план, ще не встановлена ціна."
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Спокійні перші кроки протягом перших 24 годин після провалу з'являться тут після перегляду."
     },
-    "phase3.parole": {
-      "en": "Parole navigation",
-      "draft": "Навігація на условному звільненні"
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Ваші документи зашифровані. Платний план; ще не встановлена ціна."
     },
-    "phase3.tokensHelp": {
-      "en": "Tokens have no cash value.",
-      "draft": "Токені не мають грошової вартості."
-    },
-    "phase3.video": {
-      "en": "Video post (paid)",
-      "draft": "Відеопост (платний)"
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Ви також можете натиснути Необхідна допомога зараз в верхній частині будь-якого екрану."
     },
     "reentry.call211": {
       "en": "Call 211 for local resources",
       "draft": "Виклик 211 для місцевих ресурсів"
     },
-    "reentry.crisisStep": {
-      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
-      "draft": "Ви також можете натиснути Необхідна допомога зараз в верхній частині будь-якого екрану."
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Знайдіть безпечне місце для проживання (зателефонуйте 211 або місцевим житловим ресурсам)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Знайдіть їжу на цей тиждень (зателефонуйте 211 або в місцевий магазин їжі)"
     },
     "reentry.steps.step11": {
       "en": "Save 988 and 911 in your phone",
@@ -82,33 +78,37 @@
       "en": "Enroll in Medicaid, and SNAP if you need it",
       "draft": "Зареєструйтеся на медичну допомогу, і SNAP, якщо вам це потрібно"
     },
-    "reentry.steps.step7": {
-      "en": "Find a safe place to stay (call 211 or local housing resources)",
-      "draft": "Знайдіть безпечне місце для проживання (зателефонуйте 211 або місцевим житловим ресурсам)"
-    },
-    "reentry.steps.step8": {
-      "en": "Find food for this week (call 211 or a local food pantry)",
-      "draft": "Знайдіть їжу на цей тиждень (зателефонуйте 211 або в місцевий магазин їжі)"
-    },
-    "safety.relapseDraft": {
-      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
-      "draft": "Спокійні перші кроки протягом перших 24 годин після провалу з'являться тут після перегляду."
-    },
-    "safety.vaultHelp": {
-      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
-      "draft": "Ваші документи зашифровані. Платний план; ще не встановлена ціна."
-    },
-    "support.resourcesNote": {
-      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
-      "draft": "Правова допомога, лікування та транзит."
-    },
-    "wellbeing.roughHelp": {
-      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
-      "draft": "Ви не одні. Кнопка кризових ситуацій завжди тут  ⁇  зателефонуйте або напишіть 988, або 911 у разі надзвичайної ситуації."
-    },
     "work.paroleNote": {
       "en": "Check your parole or probation conditions with your officer before applying.",
       "draft": "Перед тим, як подати заяву, перевірте умови звільнення під час пробації з офіцером."
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Проверте умови звільнення з офіцером, номери телефонів ніколи не показуються."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Навігація на условному звільненні"
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Платний план, ще не встановлена ціна."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Відеопост (платний)"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Токені не мають грошової вартості."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Цілі заощаджень плюс план готовності до житла. Groundwork не надає житло і не співпрацює з постачальниками. За місцевою допомогою телефонуй на 211."
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Виклик 211"
     }
   }
 }
