@@ -113,7 +113,7 @@
     "celebrationAll": "Të gjitha 33 hapat janë bërë.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Treguesi i burimeve vetëm  ⁇  Groundwork nuk e siguron këtë ose bashkëpunon me ofruesit.",
+    "resourceOnly": "Treguesi i burimeve vetëm — Groundwork nuk e siguron këtë ose bashkëpunon me ofruesit.",
     "sections": {
       "before_release": "Para lëshimit",
       "first_48_hours": "48 orët e para",
@@ -210,7 +210,7 @@
     "gigTitle": "Titulli i koncertit",
     "postGig": "Post gig",
     "coursesTitle": "Kurset",
-    "coursesDraft": "DRAFT  ⁇  për rishikim",
+    "coursesDraft": "DRAFT — për rishikim",
     "quiz": "Quiz",
     "checkAnswer": "Kontrolloni përgjigjen",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Shpëto",
     "cancel": "Anuloje",
     "suggestTitle": "Sugjeruar nga momentet tuaja të rëndësishme",
-    "suggestHelp": "Vetëm sugjerime  ⁇  asgjë nuk do të publikohet derisa ta shtoni."
+    "suggestHelp": "Vetëm sugjerime — asgjë nuk do të publikohet derisa ta shtoni."
   },
   "crisisReply": {
     "onlyYou": "Vetëm ti mund ta shohësh këtë mesazh.",

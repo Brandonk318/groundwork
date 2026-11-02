@@ -113,7 +113,7 @@
     "celebrationAll": "Mind a 33 lépés megtörtént.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Csak forrásjelző  ⁇  Groundwork nem biztosítja ezt, vagy partner szolgáltatókkal.",
+    "resourceOnly": "Csak forrásjelző — Groundwork nem biztosítja ezt, vagy partner szolgáltatókkal.",
     "sections": {
       "before_release": "Kibocsátás előtt",
       "first_48_hours": "Az első 48 óra",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Alapértelmezés szerint privát. Csak akkor osztozz, ha úgy döntesz."
   },
   "venue": {
-    "placeholder": "Helyjelző  ⁇  szürke doboz szoba."
+    "placeholder": "Helyjelző — szürke doboz szoba."
   },
   "family": {
     "help": "A családtagok csak azt látják, amit megosztasz velük.",
@@ -210,7 +210,7 @@
     "gigTitle": "Előadás címe",
     "postGig": "Poszt műsor",
     "coursesTitle": "Tanfolyamok",
-    "coursesDraft": "⁇  felülvizsgálatra",
+    "coursesDraft": "— felülvizsgálatra",
     "quiz": "Kvíz",
     "checkAnswer": "Ellenőrizze a választ",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Tárolás",
     "cancel": "Hagyja abba!",
     "suggestTitle": "A mérföldkövek alapján",
-    "suggestHelp": "Csak javaslatok  ⁇  semmit nem teszünk közzé, amíg hozzá nem adjuk."
+    "suggestHelp": "Csak javaslatok — semmit nem teszünk közzé, amíg hozzá nem adjuk."
   },
   "crisisReply": {
     "onlyYou": "Csak te láthatod ezt az üzenetet.",

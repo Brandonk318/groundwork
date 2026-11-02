@@ -113,7 +113,7 @@
     "celebrationAll": "Alla 33 steg är klara.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Endast resurspekaren  ⁇  Groundwork tillhandahåller inte detta eller samarbetar med leverantörer.",
+    "resourceOnly": "Endast resurspekaren — Groundwork tillhandahåller inte detta eller samarbetar med leverantörer.",
     "sections": {
       "before_release": "Före frisläppande",
       "first_48_hours": "Första 48 timmarna",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Dela bara när du väljer."
   },
   "venue": {
-    "placeholder": "Platsinnehavare  ⁇  gråboxrum. Det finns inga verkliga platsbilder."
+    "placeholder": "Platsinnehavare — gråboxrum. Det finns inga verkliga platsbilder."
   },
   "family": {
     "help": "Familjemedlemmar ser bara vad du väljer att dela med dig av.",
@@ -210,7 +210,7 @@
     "gigTitle": "Arbetsuppgift",
     "postGig": "Post uppträdande",
     "coursesTitle": "Kurser",
-    "coursesDraft": "Förslag  ⁇  för översyn",
+    "coursesDraft": "Förslag — för översyn",
     "quiz": "Quiz",
     "checkAnswer": "Kontrollera svaret",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Typ",
     "groupsTime": "Mötestid",
     "rideFallbackTitle": "Behöver skjuts",
-    "rideFallbackHelp": "Postar en modererad begäran i appen  ⁇  endast på stadsnivå, inga telefonnummer.",
+    "rideFallbackHelp": "Postar en modererad begäran i appen — endast på stadsnivå, inga telefonnummer.",
     "noCarpoolMatch": "Ingen bilmatch för det här mötet, så Needs a Ride visas som en backup.",
     "familyRideTitle": "Familjeresa kontakter",
     "familyRideHelp": "Pingar går en i taget med 2 minuters timeout; du bekräftar innan nästa kontakt pingas.",
@@ -348,7 +348,7 @@
     "save": "Spara",
     "cancel": "Avbryt",
     "suggestTitle": "Rekommenderas av dina milstolpar",
-    "suggestHelp": "Endast förslag  ⁇  inget publiceras förrän du lägger till det."
+    "suggestHelp": "Endast förslag — inget publiceras förrän du lägger till det."
   },
   "crisisReply": {
     "onlyYou": "Bara du kan se det här meddelandet.",

@@ -108,12 +108,12 @@
     "tipPlaceholder": "Ko walli ma nder waɗugo ɗum?",
     "sendTip": "Wurtinol tindinoore",
     "noTips": "Walaa ceede haa jooni.",
-    "celebrationFirst": "Yahde arandejum waɗi  ⁇  welcome home.",
+    "celebrationFirst": "Yahde arandejum waɗi — welcome home.",
     "celebrationSection": "Feccere timmi",
     "celebrationAll": "Fuu laabi 33 timmi, teddinee ɓamtaare mon.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "⁇  Groundwork wurtinol kujeji tan wurtinataa ndu mala hawti bee kujeji.",
+    "resourceOnly": "— Groundwork wurtinol kujeji tan wurtinataa ndu mala hawti bee kujeji.",
     "sections": {
       "before_release": "Ha hiddeko wurtina",
       "first_48_hours": "wakkatiiji 48 arandeji",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Wondugo bee yimɓe feere-feere to a suɓi."
   },
   "venue": {
-    "placeholder": "Placeholder  ⁇  grey-box room. Fotoji nokkuure gooŋgaare wondaa; ndu naa nokkuure gooŋgaare."
+    "placeholder": "Placeholder — grey-box room. Fotoji nokkuure gooŋgaare wondaa; ndu naa nokkuure gooŋgaare."
   },
   "family": {
     "help": "Yimɓe saare ma'ako ɗon ngi'a ko a suɓi sendugo.",
@@ -210,7 +210,7 @@
     "gigTitle": "Nafoore fijirde",
     "postGig": "Post gig",
     "coursesTitle": "Janngirɗe",
-    "coursesDraft": "⁇  ngam lartol",
+    "coursesDraft": "— ngam lartol",
     "quiz": "Ɗaɓɓitol",
     "checkAnswer": "Tiimi jaabawol",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Fooyre",
     "groupsTime": "Wakkati kawtal",
     "rideFallbackTitle": "Haani ɓe yahra mo",
-    "rideFallbackHelp": "Ko holla tan to wala goɗɗo ha nder carpool board je ɗon yahda ha mooɓtorde ma. Naftirta jaɓol ha nder app  ⁇  ha nder wuro tan, wala limle telefoŋ.",
+    "rideFallbackHelp": "Ko holla tan to wala goɗɗo ha nder carpool board je ɗon yahda ha mooɓtorde ma. Naftirta jaɓol ha nder app — ha nder wuro tan, wala limle telefoŋ.",
     "noCarpoolMatch": "Wala carpool match ngam kawtal ngal, ngam non Needs a Ride ɗon holla bana backup.",
     "familyRideTitle": "Wurtinol yimɓe ha saare",
     "familyRideHelp": "Moodibboji jaɓaaɓe tan. Pings ɗon yahu go'o ha wakati be wakkatiiji 2; on tabbitina hiddeko haɓɓirde fuɗɗoto.",
@@ -348,7 +348,7 @@
     "save": "Wurtinol",
     "cancel": "Wurtinol",
     "suggestTitle": "Wurtinaama dow ko'e maa",
-    "suggestHelp": "Doolaaji tan  ⁇  walaa ko wurtata hiddeko a ɓeydi ɗum."
+    "suggestHelp": "Doolaaji tan — walaa ko wurtata hiddeko a ɓeydi ɗum."
   },
   "crisisReply": {
     "onlyYou": "Ko an tan waaway yi'ugo habaru ndu.",

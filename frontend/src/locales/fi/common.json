@@ -113,7 +113,7 @@
     "celebrationAll": "Kaikki 33 askelta tehty.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Resurssin osoitin vain  ⁇  Groundwork ei tarjoa tätä tai tekee yhteistyötä palveluntarjoajien kanssa.",
+    "resourceOnly": "Resurssin osoitin vain — Groundwork ei tarjoa tätä tai tekee yhteistyötä palveluntarjoajien kanssa.",
     "sections": {
       "before_release": "Ennen vapauttamista",
       "first_48_hours": "Ensimmäiset 48 tuntia",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Yksityinen oletusarvoisesti."
   },
   "venue": {
-    "placeholder": "Paikanhaltija  ⁇  harmaanlaatikon huone. Todellista paikkaa ei ole kuvattu; tämä ei ole todellinen tila."
+    "placeholder": "Paikanhaltija — harmaanlaatikon huone. Todellista paikkaa ei ole kuvattu; tämä ei ole todellinen tila."
   },
   "family": {
     "help": "Perheenjäsenet näkevät vain sen, mitä haluat kertoa.",
@@ -210,7 +210,7 @@
     "gigTitle": "Näyttelyn nimi",
     "postGig": "Jälkikäyttö",
     "coursesTitle": "Kurssit",
-    "coursesDraft": "Ehdotus  ⁇  tarkistettavaksi",
+    "coursesDraft": "Ehdotus — tarkistettavaksi",
     "quiz": "Kysely",
     "checkAnswer": "Tarkista vastaus",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Säilytä",
     "cancel": "Peruuttaminen",
     "suggestTitle": "Suositeltu merkkipaikoillasi",
-    "suggestHelp": "Ainoastaan ehdotuksia  ⁇  mitään ei julkaista ennen kuin lisäät sen."
+    "suggestHelp": "Ainoastaan ehdotuksia — mitään ei julkaista ennen kuin lisäät sen."
   },
   "crisisReply": {
     "onlyYou": "Vain sinä voit nähdä tämän viestin.",

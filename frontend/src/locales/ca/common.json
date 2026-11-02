@@ -108,12 +108,12 @@
     "tipPlaceholder": "Què t'ha ajudat a fer aquest pas?",
     "sendTip": "Enviar propina",
     "noTips": "Encara no hi ha propina.",
-    "celebrationFirst": "Primer pas fet  ⁇  benvingut a casa.",
+    "celebrationFirst": "Primer pas fet — benvingut a casa.",
     "celebrationSection": "Secció acabada",
     "celebrationAll": "Tots els 33 passos fets. Celebra el teu progrés.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "El puntador de recursos només  ⁇  Groundwork no proporciona això o col·labora amb proveïdors.",
+    "resourceOnly": "El puntador de recursos només — Groundwork no proporciona això o col·labora amb proveïdors.",
     "sections": {
       "before_release": "Abans del llançament",
       "first_48_hours": "Les primeres 48 hores",
@@ -210,7 +210,7 @@
     "gigTitle": "Títol del concert",
     "postGig": "Post-gig",
     "coursesTitle": "Cursos",
-    "coursesDraft": "DRAFT  ⁇  per a revisió",
+    "coursesDraft": "DRAFT — per a revisió",
     "quiz": "Quiz",
     "checkAnswer": "Verifica la resposta",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Salvar",
     "cancel": "Cancel·lació",
     "suggestTitle": "Suggerit pels teus fites",
-    "suggestHelp": "Només suggeriments  ⁇  res es publica fins que no l'afegis."
+    "suggestHelp": "Només suggeriments — res es publica fins que no l'afegis."
   },
   "crisisReply": {
     "onlyYou": "Només tu pots veure aquest missatge.",

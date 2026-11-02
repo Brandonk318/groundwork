@@ -108,12 +108,12 @@
     "tipPlaceholder": "Dɛn na ɛboaa wo ma woyɛɛ saa?",
     "sendTip": "Fa kɔkɔbɔ ma",
     "noTips": "So no tips yet.",
-    "celebrationFirst": "Anammɔn a edi kan  ⁇  Akwaaba fie.",
+    "celebrationFirst": "Anammɔn a edi kan — Akwaaba fie.",
     "celebrationSection": "Wɔawie Ɔfã no",
     "celebrationAll": "Woayɛ anammɔn 33 no nyinaa. Di wo nkɔso no ho ahurusi.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Resource pointer only  ⁇  Groundwork no mma eyi anaa ɛbom yɛ adwuma ne wɔn a wɔde ma.",
+    "resourceOnly": "Resource pointer only — Groundwork no mma eyi anaa ɛbom yɛ adwuma ne wɔn a wɔde ma.",
     "sections": {
       "before_release": "Ansa na wɔreyi no adi",
       "first_48_hours": "Nnɔnhwerew 48 a edi kan",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "W'ankasa na wode yɛ adwuma. Sɛ wopɛ a, ɛno nko ara na wode yɛ adwuma."
   },
   "venue": {
-    "placeholder": "⁇  baabi a wɔde nneɛma sisi. Wɔamfa mmeae a wɔyɛ nhyiam no ho mfonini ankasa amma; eyi nyɛ baabi a wɔyɛ nhyiam no ankasa."
+    "placeholder": "— baabi a wɔde nneɛma sisi. Wɔamfa mmeae a wɔyɛ nhyiam no ho mfonini ankasa amma; eyi nyɛ baabi a wɔyɛ nhyiam no ankasa."
   },
   "family": {
     "help": "Nea wopɛ sɛ woka ho asɛm nkutoo na w'abusuafo hu.",
@@ -210,7 +210,7 @@
     "gigTitle": "Gig titulo",
     "postGig": "Adwuma no akyi",
     "coursesTitle": "Adesua",
-    "coursesDraft": "⁇   ⁇   ⁇   ⁇   ⁇",
+    "coursesDraft": "—  —  —  —  —",
     "quiz": "Nsɛmmisa",
     "checkAnswer": "Hwɛ mmuae no",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Bɔ ho ban",
     "cancel": "Gyae",
     "suggestTitle": "Nea w'akwantu no kyerɛ",
-    "suggestHelp": "Nyansahyɛ nkutoo  ⁇  biribiara nni hɔ a wotintim kosi sɛ wode ka ho."
+    "suggestHelp": "Nyansahyɛ nkutoo — biribiara nni hɔ a wotintim kosi sɛ wode ka ho."
   },
   "crisisReply": {
     "onlyYou": "Wo nko ara na wubetumi ahu saa nkra yi.",

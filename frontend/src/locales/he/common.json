@@ -113,7 +113,7 @@
     "celebrationAll": "כל 33 הצעדים נעשו חגוג את ההתקדמות שלך.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "מדריך המשאבים בלבד  ⁇  Groundwork לא מספק את זה או שותף עם ספקים.",
+    "resourceOnly": "מדריך המשאבים בלבד — Groundwork לא מספק את זה או שותף עם ספקים.",
     "sections": {
       "before_release": "לפני השחרור",
       "first_48_hours": "48 השעות הראשונות",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "פרטי כברירת מחדל. לשתף רק כאשר אתה בוחר."
   },
   "venue": {
-    "placeholder": "⁇  חדר קופסת אפור. תמונות של המקום האמיתי לא הוצגו; זה לא המקום האמיתי."
+    "placeholder": "— חדר קופסת אפור. תמונות של המקום האמיתי לא הוצגו; זה לא המקום האמיתי."
   },
   "family": {
     "help": "בני המשפחה רואים רק את מה שאתה בוחר לשתף.",
@@ -210,7 +210,7 @@
     "gigTitle": "כותרת הופעה",
     "postGig": "אחרי ההופעה",
     "coursesTitle": "קורסים",
-    "coursesDraft": "טיוטה  ⁇  לבדיקה",
+    "coursesDraft": "טיוטה — לבדיקה",
     "quiz": "קוויז",
     "checkAnswer": "בדוק את התשובה",
     "parole": "Parole navigation",
@@ -283,7 +283,7 @@
     "carpoolLeave": "תוציאו אותי",
     "carpoolMatches": "אנשים בדרך לכאן",
     "groupsTitle2": "מדריך קבוצות הקהילה",
-    "groupsHelp": "קבוצות התאוששות, קבוצות תמיכה לשוב, וקבוצות דת וקהילתיות לפי עיר ושעת מפגש. נתונים מדגימים בלבד  ⁇  לא רשימות אמיתיות.",
+    "groupsHelp": "קבוצות התאוששות, קבוצות תמיכה לשוב, וקבוצות דת וקהילתיות לפי עיר ושעת מפגש. נתונים מדגימים בלבד — לא רשימות אמיתיות.",
     "sampleBadge": "דגימה",
     "groupsKind": "סוג",
     "groupsTime": "זמן הישיבה",
@@ -348,7 +348,7 @@
     "save": "שמור",
     "cancel": "ביטול",
     "suggestTitle": "מומלץ על ידי נקודות דרך שלך",
-    "suggestHelp": "הצעות בלבד  ⁇  שום דבר לא פורסם עד שאתה מוסיף אותו."
+    "suggestHelp": "הצעות בלבד — שום דבר לא פורסם עד שאתה מוסיף אותו."
   },
   "crisisReply": {
     "onlyYou": "רק אתה יכול לראות את ההודעה הזאת.",

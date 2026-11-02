@@ -113,7 +113,7 @@
     "celebrationAll": "Τα 33 βήματα ολοκληρώθηκαν.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Ο δείκτης πόρων μόνο  ⁇  Groundwork δεν παρέχει αυτό ή συνεργάζεται με παρόχους.",
+    "resourceOnly": "Ο δείκτης πόρων μόνο — Groundwork δεν παρέχει αυτό ή συνεργάζεται με παρόχους.",
     "sections": {
       "before_release": "Πριν από την απελευθέρωση",
       "first_48_hours": "Πρώτες 48 ώρες",
@@ -210,7 +210,7 @@
     "gigTitle": "Τίτλος συναυλίας",
     "postGig": "Μετά τη συναυλία",
     "coursesTitle": "Μαθήματα",
-    "coursesDraft": "Σχέδιο  ⁇  προς επανεξέταση",
+    "coursesDraft": "Σχέδιο — προς επανεξέταση",
     "quiz": "Κουίζ",
     "checkAnswer": "Ελέγξτε την απάντηση",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Αποθήκευση",
     "cancel": "Ακύρωση",
     "suggestTitle": "Προτεινόμενο από τα ορόσημα σου",
-    "suggestHelp": "Μόνο προτάσεις  ⁇  τίποτα δεν δημοσιεύεται μέχρι να το προσθέσετε."
+    "suggestHelp": "Μόνο προτάσεις — τίποτα δεν δημοσιεύεται μέχρι να το προσθέσετε."
   },
   "crisisReply": {
     "onlyYou": "Μόνο εσύ μπορείς να δεις αυτό το μήνυμα.",

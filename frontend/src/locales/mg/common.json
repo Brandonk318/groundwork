@@ -108,12 +108,12 @@
     "tipPlaceholder": "Inona no nanampy anao?",
     "sendTip": "Alefaso ny torohevitra",
     "noTips": "Tsy mbola misy torohevitra.",
-    "celebrationFirst": "Dingana voalohany vita  ⁇  Tongasoa eto an-trano.",
+    "celebrationFirst": "Dingana voalohany vita — Tongasoa eto an-trano.",
     "celebrationSection": "Vita ny fizarana",
     "celebrationAll": "Vita ny dingana 33 rehetra. Mankalazà ny fandrosoanao.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Ny mpanondro loharanom-baovao ihany  ⁇  Groundwork dia tsy manome izany na miara-miasa amin'ireo mpamatsy.",
+    "resourceOnly": "Ny mpanondro loharanom-baovao ihany — Groundwork dia tsy manome izany na miara-miasa amin'ireo mpamatsy.",
     "sections": {
       "before_release": "Alohan'ny famotsorana",
       "first_48_hours": "48 ora voalohany",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Tsy miankina amin'ny alàlan'ny default. Zarao fotsiny rehefa misafidy ianao."
   },
   "venue": {
-    "placeholder": "⁇  efitrano misy boaty volondavenona. Tsy nomena ny sarin'ny toerana tena izy; tsy ity no toerana tena izy."
+    "placeholder": "— efitrano misy boaty volondavenona. Tsy nomena ny sarin'ny toerana tena izy; tsy ity no toerana tena izy."
   },
   "family": {
     "help": "Ny zavatra nozarainao ihany no hitan'ny fianakavianao.",
@@ -210,7 +210,7 @@
     "gigTitle": "Anaram-boninahitra",
     "postGig": "Post gig",
     "coursesTitle": "Fampianarana",
-    "coursesDraft": "Drafitra  ⁇  hojerena",
+    "coursesDraft": "Drafitra — hojerena",
     "quiz": "Fanadinadinana",
     "checkAnswer": "Zahao ny valiny",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Tehirizo",
     "cancel": "Hanafoana",
     "suggestTitle": "Soso-kevitra avy amin'ny dingana lehibe nataonao",
-    "suggestHelp": "Soso-kevitra fotsiny  ⁇  tsy misy zavatra navoaka raha tsy ampidirinao izany."
+    "suggestHelp": "Soso-kevitra fotsiny — tsy misy zavatra navoaka raha tsy ampidirinao izany."
   },
   "crisisReply": {
     "onlyYou": "Ianao irery ihany no afaka mahita ity hafatra ity.",

@@ -113,7 +113,7 @@
     "celebrationAll": "33 adım tamamlandı, ilerlemeni kutla.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Kaynak işaretçisi sadece  ⁇  Groundwork bunu sağlamaz veya sağlayıcılarla ortaklık kurmaz.",
+    "resourceOnly": "Kaynak işaretçisi sadece — Groundwork bunu sağlamaz veya sağlayıcılarla ortaklık kurmaz.",
     "sections": {
       "before_release": "Serbest bırakılmadan önce",
       "first_48_hours": "İlk 48 saat",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Öntanımlı olarak özel. Sadece istediğiniz zaman paylaşılabilir."
   },
   "venue": {
-    "placeholder": "Yer tutucu  ⁇  gri kutu odası. Gerçek mekan fotoğrafları sunulmadı; bu gerçek alan değil."
+    "placeholder": "Yer tutucu — gri kutu odası. Gerçek mekan fotoğrafları sunulmadı; bu gerçek alan değil."
   },
   "family": {
     "help": "Ailenin üyeleri sadece paylaşmayı seçtiğin şeyleri görür.",
@@ -210,7 +210,7 @@
     "gigTitle": "Gösteri başlığı",
     "postGig": "Gösteri sonrası",
     "coursesTitle": "Dersler",
-    "coursesDraft": "Tasarım  ⁇  gözden geçirilmek üzere",
+    "coursesDraft": "Tasarım — gözden geçirilmek üzere",
     "quiz": "Sınav",
     "checkAnswer": "Cevabı kontrol et",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Türü",
     "groupsTime": "Toplantı saati",
     "rideFallbackTitle": "Bir yolculuğa ihtiyacı var",
-    "rideFallbackHelp": "Sadece araba paylaşım tahtasındaki hiç kimse toplantınıza gitmediğinde gösterilir. Uygulama içi moderasyonlu bir istek gönderir  ⁇  sadece şehir düzeyinde, telefon numarası yok.",
+    "rideFallbackHelp": "Sadece araba paylaşım tahtasındaki hiç kimse toplantınıza gitmediğinde gösterilir. Uygulama içi moderasyonlu bir istek gönderir — sadece şehir düzeyinde, telefon numarası yok.",
     "noCarpoolMatch": "Bu toplantı için arabayla eşleşme yok, bu yüzden Taksiye İhtiyacı yedek olarak gösteriliyor.",
     "familyRideTitle": "Aile yolculuğu bağlantıları",
     "familyRideHelp": "Sadece onaylı sürücüler. 2 dakikalık bir zaman aralığıyla pingler birer birer geçer; bir sonraki bağlantı pinglenmeden önce onaylarsınız.",
@@ -348,7 +348,7 @@
     "save": "Kaydet",
     "cancel": "İptal et",
     "suggestTitle": "Önemli noktalarından ötürü",
-    "suggestHelp": "Sadece öneriler  ⁇  eklenene kadar hiçbir şey yayınlanmaz."
+    "suggestHelp": "Sadece öneriler — eklenene kadar hiçbir şey yayınlanmaz."
   },
   "crisisReply": {
     "onlyYou": "Bu mesajı sadece sen görebilirsin.",

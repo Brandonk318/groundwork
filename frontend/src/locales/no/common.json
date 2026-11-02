@@ -108,12 +108,12 @@
     "tipPlaceholder": "Hva hjalp deg med dette?",
     "sendTip": "Send tips",
     "noTips": "Ingen tips ennå.",
-    "celebrationFirst": "Første skritt gjort  ⁇  velkommen hjem.",
+    "celebrationFirst": "Første skritt gjort — velkommen hjem.",
     "celebrationSection": "Avsnitt ferdig",
     "celebrationAll": "Alle 33 trinnene er gjort.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Resource pointer only  ⁇  Groundwork gir ikke dette eller samarbeider med leverandører.",
+    "resourceOnly": "Resource pointer only — Groundwork gir ikke dette eller samarbeider med leverandører.",
     "sections": {
       "before_release": "Før utgivelse",
       "first_48_hours": "De første 48 timene",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Del bare når du velger."
   },
   "venue": {
-    "placeholder": "Plassholder  ⁇  grå-boksen rom. Ekte sted bilder er ikke gitt; dette er ikke det virkelige rommet."
+    "placeholder": "Plassholder — grå-boksen rom. Ekte sted bilder er ikke gitt; dette er ikke det virkelige rommet."
   },
   "family": {
     "help": "Familiemedlemmer ser bare det du velger å dele.",
@@ -210,7 +210,7 @@
     "gigTitle": "Gig tittel",
     "postGig": "Post gig",
     "coursesTitle": "Kursene",
-    "coursesDraft": "Forslag  ⁇  til gjennomgang",
+    "coursesDraft": "Forslag — til gjennomgang",
     "quiz": "Quiz",
     "checkAnswer": "Sjekk svar",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Lagre",
     "cancel": "Avbestill",
     "suggestTitle": "Anbefalt av dine milepæler",
-    "suggestHelp": "Bare forslag  ⁇  ingenting publiseres før du legger det til."
+    "suggestHelp": "Bare forslag — ingenting publiseres før du legger det til."
   },
   "crisisReply": {
     "onlyYou": "Bare du kan se denne meldingen.",

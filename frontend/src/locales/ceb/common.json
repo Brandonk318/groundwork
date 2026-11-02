@@ -108,12 +108,12 @@
     "tipPlaceholder": "Unsay nakatabang nimo sa paghimog maong lakang?",
     "sendTip": "Ipadala ang tip",
     "noTips": "Walay tip pa.",
-    "celebrationFirst": "Ang unang lakang nahuman  ⁇  Malipayon nga pag-uli.",
+    "celebrationFirst": "Ang unang lakang nahuman — Malipayon nga pag-uli.",
     "celebrationSection": "Nahuman na ang seksyon",
     "celebrationAll": "Ang tanang 33 ka lakang nahuman. Saulogon ang imong pag-uswag.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Resource pointer lamang  ⁇  Groundwork dili mohatag niini o partner uban sa mga tighatag.",
+    "resourceOnly": "Resource pointer lamang — Groundwork dili mohatag niini o partner uban sa mga tighatag.",
     "sections": {
       "before_release": "Sa wala pa ipagawas",
       "first_48_hours": "Unang 48 ka oras",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Private sa default. Ipaambit lamang kon imong pilion."
   },
   "venue": {
-    "placeholder": "Placeholder  ⁇  grey-box room. Ang tinuod nga mga litrato sa venue wala ihatag; dili kini ang tinuod nga luna."
+    "placeholder": "Placeholder — grey-box room. Ang tinuod nga mga litrato sa venue wala ihatag; dili kini ang tinuod nga luna."
   },
   "family": {
     "help": "Ang mga membro sa pamilya makakita lamang sa imong gipili nga ipaambit.",
@@ -210,7 +210,7 @@
     "gigTitle": "Titulo sa Gig",
     "postGig": "Post gig",
     "coursesTitle": "Mga kurso",
-    "coursesDraft": "DRAFT  ⁇  alang sa pagrepaso",
+    "coursesDraft": "DRAFT — alang sa pagrepaso",
     "quiz": "Quiz",
     "checkAnswer": "Susiha ang tubag",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "I-save",
     "cancel": "Kanselahon",
     "suggestTitle": "Gisugyot sa imong mga milestone",
-    "suggestHelp": "Mga sugyot lamang  ⁇  walay ma-publish hangtod nga imong idugang kini."
+    "suggestHelp": "Mga sugyot lamang — walay ma-publish hangtod nga imong idugang kini."
   },
   "crisisReply": {
     "onlyYou": "Ikaw lamang ang makakita niini nga mensahe.",

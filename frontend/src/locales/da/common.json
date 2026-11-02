@@ -113,7 +113,7 @@
     "celebrationAll": "Alle 33 trin er færdige.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Ressource pointer only  ⁇  Groundwork giver ikke dette eller samarbejder med udbydere.",
+    "resourceOnly": "Ressource pointer only — Groundwork giver ikke dette eller samarbejder med udbydere.",
     "sections": {
       "before_release": "Inden frigivelse",
       "first_48_hours": "De første 48 timer",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Del kun, når du vælger det."
   },
   "venue": {
-    "placeholder": "Placeringsindehaver  ⁇  Gråboksrum."
+    "placeholder": "Placeringsindehaver — Gråboksrum."
   },
   "family": {
     "help": "Familiemedlemmerne ser kun det, du vælger at dele.",
@@ -210,7 +210,7 @@
     "gigTitle": "Gigtitel",
     "postGig": "Post gig",
     "coursesTitle": "Kurser",
-    "coursesDraft": "Forslag  ⁇  til revision",
+    "coursesDraft": "Forslag — til revision",
     "quiz": "Quiz",
     "checkAnswer": "Tjek svar",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Gem",
     "cancel": "Afbestille",
     "suggestTitle": "Anbefales af dine milepæle",
-    "suggestHelp": "Kun forslag  ⁇  intet offentliggøres, før du tilføjer det."
+    "suggestHelp": "Kun forslag — intet offentliggøres, før du tilføjer det."
   },
   "crisisReply": {
     "onlyYou": "Kun du kan se denne besked.",

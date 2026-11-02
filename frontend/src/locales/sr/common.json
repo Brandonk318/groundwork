@@ -113,7 +113,7 @@
     "celebrationAll": "Све 33 корака су завршена.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Ресурсни указач само  ⁇  Groundwork не пружа ово или сарађује са пружаоцима.",
+    "resourceOnly": "Ресурсни указач само — Groundwork не пружа ово или сарађује са пружаоцима.",
     "sections": {
       "before_release": "Пре пуштања",
       "first_48_hours": "Првих 48 сати",
@@ -210,7 +210,7 @@
     "gigTitle": "Наслов наставе",
     "postGig": "Пост-ггг",
     "coursesTitle": "Курсеви",
-    "coursesDraft": "Предлог  ⁇  за ревизију",
+    "coursesDraft": "Предлог — за ревизију",
     "quiz": "Квиз",
     "checkAnswer": "Проверите одговор",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Тип",
     "groupsTime": "Време састанка",
     "rideFallbackTitle": "Потребна му је вожња (резервна)",
-    "rideFallbackHelp": "Поставите модерациони захтев у апликацији  ⁇  само на нивоу града, без бројева телефона.",
+    "rideFallbackHelp": "Поставите модерациони захтев у апликацији — само на нивоу града, без бројева телефона.",
     "noCarpoolMatch": "За овај састанак нема кола, па је \"Needs a Ride\" приказана као резервна.",
     "familyRideTitle": "Контакти за породичну вожњу",
     "familyRideHelp": "Само одобрени возачи. Пинг се одвија један по један са временским одлагањем од 2 минута; потврдите пре него што се следећи контакт позове.",
@@ -348,7 +348,7 @@
     "save": "Сачување",
     "cancel": "Одлучите",
     "suggestTitle": "Предложено твојим значајним догађајима",
-    "suggestHelp": "Само предлози  ⁇  ништа се не објављује док га не додате."
+    "suggestHelp": "Само предлози — ништа се не објављује док га не додате."
   },
   "crisisReply": {
     "onlyYou": "Само ти можеш да видиш ову поруку.",

@@ -113,7 +113,7 @@
     "celebrationAll": "Kõik 33 sammu on tehtud.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Resurssi osutaja ainult  ⁇  Groundwork ei paku seda või teeb koostööd pakkujatega.",
+    "resourceOnly": "Resurssi osutaja ainult — Groundwork ei paku seda või teeb koostööd pakkujatega.",
     "sections": {
       "before_release": "Enne vabastamist",
       "first_48_hours": "Esimesed 48 tundi",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Isiklik vaikimisi, jagatakse ainult siis, kui soovid."
   },
   "venue": {
-    "placeholder": "Kohahoidja  ⁇  halli kasti ruum."
+    "placeholder": "Kohahoidja — halli kasti ruum."
   },
   "family": {
     "help": "Perekonnaliikmed näevad ainult seda, mida sa soovid jagada.",
@@ -210,7 +210,7 @@
     "gigTitle": "Etenduse pealkiri",
     "postGig": "Post gig",
     "coursesTitle": "Kursused",
-    "coursesDraft": "Eelnõu  ⁇  läbivaatamiseks",
+    "coursesDraft": "Eelnõu — läbivaatamiseks",
     "quiz": "Küsimus",
     "checkAnswer": "Kontrolli vastust",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Salvestada",
     "cancel": "Tühistage",
     "suggestTitle": "Suunatud sinu tähtmärkide järgi",
-    "suggestHelp": "Ainult ettepanekud  ⁇  midagi ei avaldata enne, kui sa selle lisad."
+    "suggestHelp": "Ainult ettepanekud — midagi ei avaldata enne, kui sa selle lisad."
   },
   "crisisReply": {
     "onlyYou": "Ainult sina näed seda sõnumit.",

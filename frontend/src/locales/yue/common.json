@@ -27,7 +27,7 @@
     "close": "Close"
   },
   "area": {
-    "comingSoon": "即將到來,呢個區域係 ⁇ 架嘅位置記號"
+    "comingSoon": "即將到來,呢個區域係  架嘅位置記號"
   },
   "lang": {
     "label": "語言"
@@ -40,14 +40,14 @@
     "roughHelp": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
     "suggestFilters": "今日推薦嘅過濾器",
     "locksTitle": "鎖",
-    "locksHelp": "鎖定一個功能一個禮拜,兩個禮拜,一個月,或者永久.危機,復發幫助,安全通話聯絡人同資料 ⁇ 除永遠無法鎖定.",
+    "locksHelp": "鎖定一個功能一個禮拜,兩個禮拜,一個月,或者永久.危機,復發幫助,安全通話聯絡人同資料  除永遠無法鎖定.",
     "lockTarget": "特性",
     "addLock": "添加星期锁",
     "lockSaved": "鎖定保存.",
     "mood": {
       "good": "好啦",
       "okay": "好啦",
-      "rough": "粗 ⁇",
+      "rough": "粗 ",
       "struggling": "努力",
       "craving": "渴望"
     }
@@ -76,15 +76,15 @@
     "safeContactsHelp": "請將贊助人或者安全通話聯繫一個點擊",
     "vaultTitle": "文件儲存庫",
     "vaultHelp": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
-    "wipeTitle": "⁇ 除我嘅資料",
-    "wipeHelp": "呢樣真的會 ⁇ 除你嘅資料,而且無法撤銷.",
-    "wipeConfirm": "我聽講,呢個會 ⁇ 除我嘅資料.",
-    "wipeButton": "⁇ 除我嘅資料",
-    "wiped": "你嘅資料已經被 ⁇ 除."
+    "wipeTitle": " 除我嘅資料",
+    "wipeHelp": "呢樣真的會  除你嘅資料,而且無法撤銷.",
+    "wipeConfirm": "我聽講,呢個會  除我嘅資料.",
+    "wipeButton": " 除我嘅資料",
+    "wiped": "你嘅資料已經被  除."
   },
   "reentry": {
     "checklistTitle": "再入境檢查清單",
-    "noSteps": "目前仲未提供清單步 ⁇",
+    "noSteps": "目前仲未提供清單步 ",
     "milestones": "里程碑日",
     "progress": "你嘅進步",
     "done": "完成",
@@ -99,9 +99,9 @@
     "notes": "註:",
     "save": "保存",
     "mySteps": "我自己的步伐",
-    "addStep": "加入你嘅步 ⁇",
-    "addStepPlaceholder": "加入你嘅步 ⁇",
-    "delete": "⁇ 除",
+    "addStep": "加入你嘅步 ",
+    "addStepPlaceholder": "加入你嘅步 ",
+    "delete": " 除",
     "tipsTitle": "曾經做過呢啲嘢嘅人嘅建議",
     "tipsAnonymous": "提示係匿名嘅,電話號碼從來都唔會顯示",
     "addTip": "匿名分享提示",
@@ -113,7 +113,7 @@
     "celebrationAll": "所有三十三步都完成咗 慶祝你嘅進步",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "只有资源指针  ⁇  Groundwork 不提供此或与提供商合作.",
+    "resourceOnly": "只有资源指针 — Groundwork 不提供此或与提供商合作.",
     "sections": {
       "before_release": "放出之前",
       "first_48_hours": "第48小時",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "默認係私有 只要你選擇時分享"
   },
   "venue": {
-    "placeholder": "位置標記 ⁇ 灰色盒室 實際場地相片未提供,呢個唔係實際空間"
+    "placeholder": "位置標記 — 灰色盒室 實際場地相片未提供,呢個唔係實際空間"
   },
   "family": {
     "help": "家庭成員只會睇到你選擇分享嘅嘢",
@@ -210,7 +210,7 @@
     "gigTitle": "演出名稱",
     "postGig": "演出後",
     "coursesTitle": "課程",
-    "coursesDraft": "草案  ⁇  審核",
+    "coursesDraft": "草案 — 審核",
     "quiz": "測驗",
     "checkAnswer": "檢查答案",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "型號",
     "groupsTime": "會議時間",
     "rideFallbackTitle": "佢需要一個人帶佢去",
-    "rideFallbackHelp": "只會顯示當車輛共享板上無人前往你會議時 發佈一個適量應用程式內要求  ⁇  只有城市級,無電話號碼",
+    "rideFallbackHelp": "只會顯示當車輛共享板上無人前往你會議時 發佈一個適量應用程式內要求 — 只有城市級,無電話號碼",
     "noCarpoolMatch": "呢次會議冇人同佢搭車 所以\"需要搭車\"係一個備份",
     "familyRideTitle": "家庭旅行聯絡人",
     "familyRideHelp": "只有授權駕駛員. 單次發送一個信號,有 2 分鐘的時間內; 你先確認下一個聯絡人.",
@@ -314,7 +314,7 @@
     "goalSaved": "到目前為止保存 ($)",
     "addGoal": "添加目標",
     "updateSaved": "保存 更新",
-    "delete": "⁇ 除",
+    "delete": " 除",
     "calcTitle": "省錢計算機",
     "calcMonthly": "每個月儲蓄 ($)",
     "calcRun": "計算",
@@ -337,12 +337,12 @@
     "visMembers": "國會議員",
     "visLink": "(連結不可,可撤銷)",
     "shareDialog": "分享此項目",
-    "shareWho": "而家:只有你.  ⁇ 造一個連結可以畀所有有連結嘅人睇.",
+    "shareWho": "而家:只有你.   造一個連結可以畀所有有連結嘅人睇.",
     "mintLink": "薄荷連結",
     "revokeLink": "取消連結",
     "copyLink": "複製連結",
     "portfolioEdit": "編輯",
-    "portfolioDelete": "⁇ 除",
+    "portfolioDelete": " 除",
     "moveUp": "向上移動",
     "moveDown": "下去",
     "save": "保存",
@@ -354,7 +354,7 @@
     "onlyYou": "只有你可以睇到呢個訊息.",
     "inboxTitle": "個別訊息畀你",
     "inboxEmpty": "呢度冇嘢",
-    "openCrisis": "打開危機按 ⁇ 同安全聯繫",
+    "openCrisis": "打開危機按  同安全聯繫",
     "markRead": "閱讀馬可福音"
   },
   "translationCheck": {

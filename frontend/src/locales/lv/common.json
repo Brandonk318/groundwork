@@ -113,7 +113,7 @@
     "celebrationAll": "Visi 33 soļi pabeigti.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "resursu norādītājs tikai  ⁇  Groundwork to nesniedz vai sadarbojas ar piegādātājiem.",
+    "resourceOnly": "resursu norādītājs tikai — Groundwork to nesniedz vai sadarbojas ar piegādātājiem.",
     "sections": {
       "before_release": "Pirms izlaišanas",
       "first_48_hours": "Pirmās 48 stundas",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Privāti pēc standarta, dalīties tikai tad, ja vēlaties."
   },
   "venue": {
-    "placeholder": "Vietas turētājs  ⁇  pelēka kastes telpa."
+    "placeholder": "Vietas turētājs — pelēka kastes telpa."
   },
   "family": {
     "help": "Saimnieki redz tikai to, ar ko jūs vēlaties dalīties.",
@@ -210,7 +210,7 @@
     "gigTitle": "Izstāde",
     "postGig": "Pēc koncerta",
     "coursesTitle": "Kursi",
-    "coursesDraft": "PROJEKTS  ⁇  pārskatīšanai",
+    "coursesDraft": "PROJEKTS — pārskatīšanai",
     "quiz": "Kvizīts",
     "checkAnswer": "Pārbaudiet atbildi",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Ieguldīt",
     "cancel": "Atcelt",
     "suggestTitle": "Paredzēts pēc jūsu sasniegumiem",
-    "suggestHelp": "Tikai ieteikumi  ⁇  nekas netiek publicēts, kamēr jūs to nepiedāvāt."
+    "suggestHelp": "Tikai ieteikumi — nekas netiek publicēts, kamēr jūs to nepiedāvāt."
   },
   "crisisReply": {
     "onlyYou": "Tikai tu vari redzēt šo ziņu.",

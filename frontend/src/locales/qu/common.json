@@ -113,7 +113,7 @@
     "celebrationAll": "Tukuy 33 chʼampaykuna juntʼasqa.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "⁇  Groundwork nisqaqa manam kaykunataqa willakunchu nitaq willakuqkunawanpas llamkanchu.",
+    "resourceOnly": "— Groundwork nisqaqa manam kaykunataqa willakunchu nitaq willakuqkunawanpas llamkanchu.",
     "sections": {
       "before_release": "Manaraj kacharichisqa kachkaptin",
       "first_48_hours": "Ñaupaj 48 horas",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Privado kasqaykirayku. Kikin munasqaykirayku qhaway."
   },
   "venue": {
-    "placeholder": "Maypichus ruwakusqanta rikuchiy  ⁇  q'illu-q'illu wasi."
+    "placeholder": "Maypichus ruwakusqanta rikuchiy — q'illu-q'illu wasi."
   },
   "family": {
     "help": "Familiaykipi kaqkunaqa, imatachus willasqaykiman jina qhawanku.",
@@ -210,7 +210,7 @@
     "gigTitle": "Jatun llankʼay",
     "postGig": "llankʼayta qheparichiy",
     "coursesTitle": "Yachaykuna",
-    "coursesDraft": "PROYECTO  ⁇  revisiónpaq",
+    "coursesDraft": "PROYECTO — revisiónpaq",
     "quiz": "Yachaykuna",
     "checkAnswer": "Qhawariy kutichiyta",
     "parole": "Parole navigation",

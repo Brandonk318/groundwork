@@ -113,7 +113,7 @@
     "celebrationAll": "Alle 33 stappen voltooid.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Resource pointer only  ⁇  Groundwork biedt dit niet of werkt samen met aanbieders.",
+    "resourceOnly": "Resource pointer only — Groundwork biedt dit niet of werkt samen met aanbieders.",
     "sections": {
       "before_release": "Vóór vrijlating",
       "first_48_hours": "Eerste 48 uur",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Alleen delen als je dat wilt."
   },
   "venue": {
-    "placeholder": "Plaatsbewaarder  ⁇  grijze doos kamer."
+    "placeholder": "Plaatsbewaarder — grijze doos kamer."
   },
   "family": {
     "help": "Familieleden zien alleen wat je ervoor kiest om te delen.",
@@ -210,7 +210,7 @@
     "gigTitle": "Optreden titel",
     "postGig": "Post optreden",
     "coursesTitle": "Cursussen",
-    "coursesDraft": "Ontwerp  ⁇  voor herziening",
+    "coursesDraft": "Ontwerp — voor herziening",
     "quiz": "Quiz",
     "checkAnswer": "Controleer antwoord",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Bewaar",
     "cancel": "Annuleren",
     "suggestTitle": "Aanbevolen door uw mijlpalen",
-    "suggestHelp": "Alleen suggesties  ⁇  niets wordt gepubliceerd tot je het hebt toegevoegd."
+    "suggestHelp": "Alleen suggesties — niets wordt gepubliceerd tot je het hebt toegevoegd."
   },
   "crisisReply": {
     "onlyYou": "Alleen jij kunt dit bericht zien.",

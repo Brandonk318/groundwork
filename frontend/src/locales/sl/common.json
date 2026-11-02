@@ -113,7 +113,7 @@
     "celebrationAll": "Vse 33 korakov je opravljeno.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Samo kazalnik virov  ⁇  Groundwork tega ne zagotavlja ali sodeluje z ponudniki.",
+    "resourceOnly": "Samo kazalnik virov — Groundwork tega ne zagotavlja ali sodeluje z ponudniki.",
     "sections": {
       "before_release": "Pred sprostitvijo",
       "first_48_hours": "Prvih 48 ur",
@@ -210,7 +210,7 @@
     "gigTitle": "Naslov nastopa",
     "postGig": "Poslovni nastop",
     "coursesTitle": "Tečaji",
-    "coursesDraft": "Osnutek  ⁇  za pregled",
+    "coursesDraft": "Osnutek — za pregled",
     "quiz": "Vprašanje",
     "checkAnswer": "Preverite odgovor",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Shranite",
     "cancel": "Odpovedati",
     "suggestTitle": "Predlagani z vašimi mejniki",
-    "suggestHelp": "Samo predlogi  ⁇  nič ni objavljeno, dokler ga ne dodate."
+    "suggestHelp": "Samo predlogi — nič ni objavljeno, dokler ga ne dodate."
   },
   "crisisReply": {
     "onlyYou": "Samo ti lahko vidiš to sporočilo.",

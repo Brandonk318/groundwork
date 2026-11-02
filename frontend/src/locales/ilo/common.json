@@ -108,12 +108,12 @@
     "tipPlaceholder": "Ania ti nakatulong kenka a mangaramid iti dayta?",
     "sendTip": "Mangipatulod iti tip",
     "noTips": "Awan pay ti tip.",
-    "celebrationFirst": "Naaramid ti umuna nga addang  ⁇  Naimbag nga isasangpet.",
+    "celebrationFirst": "Naaramid ti umuna nga addang — Naimbag nga isasangpet.",
     "celebrationSection": "Nalpasen ti benneg",
     "celebrationAll": "Naaramid amin a 33 nga addang. Rambakanyo ti panagrang-ayyo.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Saan nga ipapaay daytoy wenno makikadua kadagiti provider ti resource pointer laeng  ⁇  Groundwork.",
+    "resourceOnly": "Saan nga ipapaay daytoy wenno makikadua kadagiti provider ti resource pointer laeng — Groundwork.",
     "sections": {
       "before_release": "Sakbay a mairuar",
       "first_48_hours": "Umuna a 48 nga oras",
@@ -210,7 +210,7 @@
     "gigTitle": "Titulo ti obra",
     "postGig": "Post gig",
     "coursesTitle": "Dagiti kurso",
-    "coursesDraft": "DRAFT  ⁇  para iti repaso",
+    "coursesDraft": "DRAFT — para iti repaso",
     "quiz": "Quiz",
     "checkAnswer": "Sukimaten ti sungbat",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Tipo",
     "groupsTime": "Oras ti gimong",
     "rideFallbackTitle": "Kasapulanna ti Agluganan (backout)",
-    "rideFallbackHelp": "Maipakita laeng no awan iti carpool board ti mapan iti mitingmo. Mangipatulod iti na-moderate a kiddaw iti uneg ti app  ⁇  iti city level laeng, awan numero ti telepono.",
+    "rideFallbackHelp": "Maipakita laeng no awan iti carpool board ti mapan iti mitingmo. Mangipatulod iti na-moderate a kiddaw iti uneg ti app — iti city level laeng, awan numero ti telepono.",
     "noCarpoolMatch": "Awan ti carpool match para iti daytoy a miting, isu a maipakita ti Need a Ride kas backup.",
     "familyRideTitle": "Kontak ti pamilia",
     "familyRideHelp": "Aprobado laeng a drayber. Dagiti ping ket agpapada nga ag-timeout iti dua a minuto; masapul a pasingkedam sakbay a mai-pinge ti sumaruno a kontak.",
@@ -348,7 +348,7 @@
     "save": "I-save",
     "cancel": "Agkanselar",
     "suggestTitle": "Nairekomenda babaen kadagiti napateg nga addangyo",
-    "suggestHelp": "Dagiti singasing laeng  ⁇  awan ti maipablaak agingga a saanmo nga inayon dayta."
+    "suggestHelp": "Dagiti singasing laeng — awan ti maipablaak agingga a saanmo nga inayon dayta."
   },
   "crisisReply": {
     "onlyYou": "Sika laeng ti makakita iti daytoy a mensahe.",

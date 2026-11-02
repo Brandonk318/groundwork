@@ -108,12 +108,12 @@
     "tipPlaceholder": "Kí ló ràn ẹ́ lọ́wọ́ láti ṣe bẹ́ẹ̀?",
     "sendTip": "Fi ìsọfúnni ránṣẹ́",
     "noTips": "Kò tíì sí ìsọfúnni kankan.",
-    "celebrationFirst": "Ìgbésẹ̀ àkọ́kọ́ ti parí  ⁇  a kí yín káàbọ̀ sílé.",
+    "celebrationFirst": "Ìgbésẹ̀ àkọ́kọ́ ti parí — a kí yín káàbọ̀ sílé.",
     "celebrationSection": "A ti ṣe apá náà",
     "celebrationAll": "Gbogbo ìgbésẹ̀ mẹ́tàlélọ́gbọ̀n ló ti parí, ṣe ayẹyẹ ìtẹ̀síwájú rẹ.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Olupilẹṣẹ orisun nikan  ⁇  Groundwork ko pese eyi tabi ajọṣepọ pẹlu awọn olupese.",
+    "resourceOnly": "Olupilẹṣẹ orisun nikan — Groundwork ko pese eyi tabi ajọṣepọ pẹlu awọn olupese.",
     "sections": {
       "before_release": "Kí wọ́n tó tú u jáde",
       "first_48_hours": "Àwọn wákàtí méjìdínláàádọ́ta àkọ́kọ́",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Àdáni ní àfojúsùn. Pín ìgbà tí o bá yàn nìkan."
   },
   "venue": {
-    "placeholder": "Àkọlé àwòrán  ⁇  yàrá aláwọ̀ funfun. A kò fi àwòrán ibi tí ìṣẹ̀lẹ̀ náà ti wáyé hàn; ibi tí ìṣẹ̀lẹ̀ náà ti wáyé kọ́ nìyí."
+    "placeholder": "Àkọlé àwòrán — yàrá aláwọ̀ funfun. A kò fi àwòrán ibi tí ìṣẹ̀lẹ̀ náà ti wáyé hàn; ibi tí ìṣẹ̀lẹ̀ náà ti wáyé kọ́ nìyí."
   },
   "family": {
     "help": "Ohun tó o bá fẹ́ sọ nìkan làwọn mọ̀lẹ́bí rẹ máa ń rí.",
@@ -210,7 +210,7 @@
     "gigTitle": "Àkọlé orin",
     "postGig": "Àkọlé àwòrán",
     "coursesTitle": "Àwọn Ilé Ẹ̀kọ́",
-    "coursesDraft": "⁇  fún àtúnyẹ̀wò",
+    "coursesDraft": "— fún àtúnyẹ̀wò",
     "quiz": "Àdánwò",
     "checkAnswer": "Ṣe àyẹ̀wò ìdáhùn",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Ṣe àpamọ́",
     "cancel": "Fòpin sí i",
     "suggestTitle": "Àwọn ohun pàtàkì tó o ti ṣe ló mú kó o ṣe bẹ́ẹ̀",
-    "suggestHelp": "Àwọn àbá nìkan  ⁇  kò sí ohun tí a tẹ̀ jáde títí tí o fi fi kún un."
+    "suggestHelp": "Àwọn àbá nìkan — kò sí ohun tí a tẹ̀ jáde títí tí o fi fi kún un."
   },
   "crisisReply": {
     "onlyYou": "Ìwọ nìkan lo lè rí ìsọfúnni yìí.",

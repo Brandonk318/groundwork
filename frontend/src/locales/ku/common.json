@@ -108,12 +108,12 @@
     "tipPlaceholder": "Di vê gavê de çi alîkariya te kir?",
     "sendTip": "Pêşniyarê bişîne",
     "noTips": "Heta niha ti pêşniyar tuneye.",
-    "celebrationFirst": "Gava yekem pêk hat  ⁇  bi xêr hatî malê.",
+    "celebrationFirst": "Gava yekem pêk hat — bi xêr hatî malê.",
     "celebrationSection": "Beşa qedand",
     "celebrationAll": "Hemû 33 gav bi dawî bûn.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Resource pointer tenê  ⁇  Groundwork vê pêşkêş nake an jî bi pêşkêşkeran re hevkariyê dike.",
+    "resourceOnly": "Resource pointer tenê — Groundwork vê pêşkêş nake an jî bi pêşkêşkeran re hevkariyê dike.",
     "sections": {
       "before_release": "Berî serbestberdan",
       "first_48_hours": "48 saetên pêşîn",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Bi awayekî pîşeyî ve veşartî. Tenê dema ku tu bixwazî parve bike."
   },
   "venue": {
-    "placeholder": "Cihê cihê  ⁇  odeya grî-box. wêneyên cihê rastîn nehatine pêşkêşkirin; ev cihê rastîn nîne."
+    "placeholder": "Cihê cihê — odeya grî-box. wêneyên cihê rastîn nehatine pêşkêşkirin; ev cihê rastîn nîne."
   },
   "family": {
     "help": "Endamên malbatê tenê tiştên ku tu ji wan re parve dikî dibînin.",
@@ -210,7 +210,7 @@
     "gigTitle": "Nasnameya konserê",
     "postGig": "Post gig",
     "coursesTitle": "Kursên",
-    "coursesDraft": "HAWAR NET  ⁇  ji bo nirxandinê",
+    "coursesDraft": "HAWAR NET — ji bo nirxandinê",
     "quiz": "Quiz",
     "checkAnswer": "Bersîv kontrol bike",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Save",
     "cancel": "betal bike",
     "suggestTitle": "Li gor pîvanên te",
-    "suggestHelp": "Tenê pêşniyar  ⁇  heta ku hûn lê zêde nekin tiştek nayê weşandin."
+    "suggestHelp": "Tenê pêşniyar — heta ku hûn lê zêde nekin tiştek nayê weşandin."
   },
   "crisisReply": {
     "onlyYou": "Tenê tu dikarî vê peyamê bibînî.",

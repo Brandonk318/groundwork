@@ -113,7 +113,7 @@
     "celebrationAll": "Všetky 33 krokov dokončené, oslavte svoj pokrok.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Len ukazovateľ zdrojov  ⁇  Groundwork to neposkytuje alebo spolupracuje s poskytovateľmi.",
+    "resourceOnly": "Len ukazovateľ zdrojov — Groundwork to neposkytuje alebo spolupracuje s poskytovateľmi.",
     "sections": {
       "before_release": "Pred uvoľnením",
       "first_48_hours": "Prvých 48 hodín",
@@ -210,7 +210,7 @@
     "gigTitle": "Názov vystúpenia",
     "postGig": "Post gig",
     "coursesTitle": "Kurzy",
-    "coursesDraft": "Návrh  ⁇  na preskúmanie",
+    "coursesDraft": "Návrh — na preskúmanie",
     "quiz": "Quiz",
     "checkAnswer": "Skontrolujte odpoveď",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Uložiť",
     "cancel": "Zrušiť",
     "suggestTitle": "Navrhuje to vaše míľniky",
-    "suggestHelp": "Len návrhy  ⁇  nič nebude zverejnené, kým ho nepridáte."
+    "suggestHelp": "Len návrhy — nič nebude zverejnené, kým ho nepridáte."
   },
   "crisisReply": {
     "onlyYou": "Len ty môžeš vidieť túto správu.",

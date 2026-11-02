@@ -113,7 +113,7 @@
     "celebrationAll": "Все 33 шага выполнены.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Ресурсный указатель только  ⁇  Groundwork не предоставляет этого или сотрудничает с поставщиками.",
+    "resourceOnly": "Ресурсный указатель только — Groundwork не предоставляет этого или сотрудничает с поставщиками.",
     "sections": {
       "before_release": "До выпуска",
       "first_48_hours": "Первые 48 часов",
@@ -210,7 +210,7 @@
     "gigTitle": "Название концерта",
     "postGig": "После выступления",
     "coursesTitle": "Курсы",
-    "coursesDraft": "Проект  ⁇  для пересмотра",
+    "coursesDraft": "Проект — для пересмотра",
     "quiz": "Квиз",
     "checkAnswer": "Проверьте ответ",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Сохранить",
     "cancel": "Отменить",
     "suggestTitle": "Предложенные вашими вехами",
-    "suggestHelp": "Только предложения  ⁇  ничего не публикуется, пока вы не добавите его."
+    "suggestHelp": "Только предложения — ничего не публикуется, пока вы не добавите его."
   },
   "crisisReply": {
     "onlyYou": "Только вы можете видеть это сообщение.",

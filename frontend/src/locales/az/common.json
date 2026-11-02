@@ -113,7 +113,7 @@
     "celebrationAll": "Bütün 33 addım yerinə yetirilib.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Yalnız mənbə göstərici  ⁇  Groundwork bunu təmin etmir və ya provayderlərlə tərəfdaşlıq edir.",
+    "resourceOnly": "Yalnız mənbə göstərici — Groundwork bunu təmin etmir və ya provayderlərlə tərəfdaşlıq edir.",
     "sections": {
       "before_release": "Çıxışdan əvvəl",
       "first_48_hours": "İlk 48 saat",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Varsayılan olaraq özəl. Yalnız seçdiyiniz zaman paylaşın."
   },
   "venue": {
-    "placeholder": "Yer təsbitçisi  ⁇  boz qutu otağı."
+    "placeholder": "Yer təsbitçisi — boz qutu otağı."
   },
   "family": {
     "help": "Ailə üzvləri yalnız paylaşmaq istədiyinizi görürlər.",
@@ -210,7 +210,7 @@
     "gigTitle": "Çıxış adı",
     "postGig": "Post iş",
     "coursesTitle": "Kurslar",
-    "coursesDraft": "TƏKLİF  ⁇  Yenidən baxılması üçün",
+    "coursesDraft": "TƏKLİF — Yenidən baxılması üçün",
     "quiz": "Quiz",
     "checkAnswer": "Cavabları yoxlayın",
     "parole": "Parole navigation",
@@ -283,7 +283,7 @@
     "carpoolLeave": "Məni götürün",
     "carpoolMatches": "İnsanlar bu tərəfə gedirlər",
     "groupsTitle2": "İctimai qruplar siyahısı",
-    "groupsHelp": "bərpa qrupları, geri qayıdış dəstək qrupları və din və icma qrupları şəhər və görüş vaxtı üzrə. Yalnız nümunə məlumatları  ⁇  real siyahılar deyil.",
+    "groupsHelp": "bərpa qrupları, geri qayıdış dəstək qrupları və din və icma qrupları şəhər və görüş vaxtı üzrə. Yalnız nümunə məlumatları — real siyahılar deyil.",
     "sampleBadge": "nümunə",
     "groupsKind": "Tipi",
     "groupsTime": "İclas vaxtı",
@@ -348,7 +348,7 @@
     "save": "Qoru",
     "cancel": "ləğv edin",
     "suggestTitle": "Təklif olunan mərhələlər",
-    "suggestHelp": "Yalnız təkliflər  ⁇  əlavə etməyincə heç bir şey dərc edilmir."
+    "suggestHelp": "Yalnız təkliflər — əlavə etməyincə heç bir şey dərc edilmir."
   },
   "crisisReply": {
     "onlyYou": "Bu mesajı yalnız siz görə bilərsiniz.",

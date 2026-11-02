@@ -108,12 +108,12 @@
     "tipPlaceholder": "Yini eyakusiza ukuba wenze lesi sinyathelo?",
     "sendTip": "Thumela ithiphu",
     "noTips": "Azikho izeluleko okwamanje.",
-    "celebrationFirst": "Isinyathelo sokuqala senziwe  ⁇  Siyakwamukela ekhaya.",
+    "celebrationFirst": "Isinyathelo sokuqala senziwe — Siyakwamukela ekhaya.",
     "celebrationSection": "Isigaba sesiphelile",
     "celebrationAll": "Zonke izinyathelo ezingu-33 sezenziwe. Gubha intuthuko yakho.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Isikhombi somthombo kuphela  ⁇  Groundwork asihlinzeki ngalokhu noma sisebenzisana nabahlinzeki.",
+    "resourceOnly": "Isikhombi somthombo kuphela — Groundwork asihlinzeki ngalokhu noma sisebenzisana nabahlinzeki.",
     "sections": {
       "before_release": "Ngaphambi kokukhululwa",
       "first_48_hours": "Amahora angu-48 okuqala",
@@ -210,7 +210,7 @@
     "gigTitle": "Isihloko seGig",
     "postGig": "I-post gig",
     "coursesTitle": "Izifundo",
-    "coursesDraft": "⁇  Ukubuyekezwa",
+    "coursesDraft": "— Ukubuyekezwa",
     "quiz": "Imibuzo",
     "checkAnswer": "Hlola impendulo",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Uhlobo",
     "groupsTime": "Isikhathi somhlangano",
     "rideFallbackTitle": "Udinga Ukugibela (Ukusekela)",
-    "rideFallbackHelp": "Kuboniswa kuphela uma kungekho muntu ebhodini lokuxhumana ohamba emhlanganweni wakho. Ukuthumela isicelo esenziwe ngaphakathi kohlelo lokusebenza  ⁇  kuphela ezingeni ledolobha, azikho izinombolo zocingo.",
+    "rideFallbackHelp": "Kuboniswa kuphela uma kungekho muntu ebhodini lokuxhumana ohamba emhlanganweni wakho. Ukuthumela isicelo esenziwe ngaphakathi kohlelo lokusebenza — kuphela ezingeni ledolobha, azikho izinombolo zocingo.",
     "noCarpoolMatch": "Ayikho imoto efanelekayo kulo mhlangano, ngakho i-Needs a Ride iboniswa njengesipele.",
     "familyRideTitle": "Izixhumanisi zokuhamba komkhaya",
     "familyRideHelp": "Abashayeli abagunyaziwe kuphela. Ama-ping ahamba ngawodwana nge-timeout yemizuzu emi-2; uyaqinisekisa ngaphambi kokuba kutholakale oxhumana naye olandelayo.",
@@ -348,7 +348,7 @@
     "save": "Gcina",
     "cancel": "Ukuhoxisa",
     "suggestTitle": "Kusikisela izenzakalo zakho ezibalulekile",
-    "suggestHelp": "Iziphakamiso kuphela  ⁇  akukho lutho olushicilelwayo uze ulufake."
+    "suggestHelp": "Iziphakamiso kuphela — akukho lutho olushicilelwayo uze ulufake."
   },
   "crisisReply": {
     "onlyYou": "Nguwe kuphela ongabona lo mlayezo.",

@@ -108,12 +108,12 @@
     "tipPlaceholder": "Mene ne ya taimaka maka ka yi hakan?",
     "sendTip": "Aika da tip",
     "noTips": "Har yanzu babu nasiha.",
-    "celebrationFirst": "Mataki na farko da aka yi  ⁇  barka da dawowa gida.",
+    "celebrationFirst": "Mataki na farko da aka yi — barka da dawowa gida.",
     "celebrationSection": "An gama sashe",
     "celebrationAll": "Duk matakai 33 da aka yi.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Mai nuna hanya kawai  ⁇  Groundwork ba ya samar da wannan ko abokin tarayya tare da masu samarwa.",
+    "resourceOnly": "Mai nuna hanya kawai — Groundwork ba ya samar da wannan ko abokin tarayya tare da masu samarwa.",
     "sections": {
       "before_release": "Kafin a saki",
       "first_48_hours": "Sa'o'i 48 na farko",
@@ -210,7 +210,7 @@
     "gigTitle": "Taken aiki",
     "postGig": "Bayan aikin",
     "coursesTitle": "Darussan",
-    "coursesDraft": "Tsarin  ⁇  don bita",
+    "coursesDraft": "Tsarin — don bita",
     "quiz": "Tambaya",
     "checkAnswer": "Bincika amsar",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Ajiye",
     "cancel": "Dakatar da",
     "suggestTitle": "Abubuwan da ka cim ma sun nuna hakan",
-    "suggestHelp": "Shawarwari kawai  ⁇  babu abin da aka buga har sai kun ƙara shi."
+    "suggestHelp": "Shawarwari kawai — babu abin da aka buga har sai kun ƙara shi."
   },
   "crisisReply": {
     "onlyYou": "Kai kaɗai ne za ka iya ganin wannan saƙon.",

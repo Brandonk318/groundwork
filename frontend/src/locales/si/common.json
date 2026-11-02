@@ -108,12 +108,12 @@
     "tipPlaceholder": "මේ පියවර ගන්න ඔයාට උදව් වුණේ මොකක්ද?",
     "sendTip": "උපදෙස් යවන්න",
     "noTips": "තාම ඉඟි නෑ.",
-    "celebrationFirst": "පලවෙනි පියවර ඉවරයි  ⁇  ගෙදරට සාදරයෙන් පිළිගන්නවා.",
+    "celebrationFirst": "පලවෙනි පියවර ඉවරයි — ගෙදරට සාදරයෙන් පිළිගන්නවා.",
     "celebrationSection": "කොටස ඉවරයි",
     "celebrationAll": "පියවර 33ම ඉවරයි ඔයාගේ දියුණුව සමරන්න.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "සම්පත් දර්ශකය පමණක්  ⁇  Groundwork මෙය සපයන්නේ නැත හෝ සැපයුම්කරුවන් සමඟ හවුල් වේ.",
+    "resourceOnly": "සම්පත් දර්ශකය පමණක් — Groundwork මෙය සපයන්නේ නැත හෝ සැපයුම්කරුවන් සමඟ හවුල් වේ.",
     "sections": {
       "before_release": "මුදා හැරීමට පෙර",
       "first_48_hours": "පළමු පැය 48",
@@ -210,7 +210,7 @@
     "gigTitle": "වැඩසටහන් නාමය",
     "postGig": "පශ්චාත් වැඩසටහන",
     "coursesTitle": "පාඨමාලා",
-    "coursesDraft": "⁇  සංශෝධනය සඳහා",
+    "coursesDraft": "— සංශෝධනය සඳහා",
     "quiz": "ප් රශ්නාවලිය",
     "checkAnswer": "පිළිතුර පරීක්ෂා කරන්න",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "වර්ගය",
     "groupsTime": "රැස්වීම් වේලාව",
     "rideFallbackTitle": "වාහනයක් අවශ් යයි (ආධාර)",
-    "rideFallbackHelp": "⁇  නගර මට්ටමේ පමණක්, දුරකථන අංක නොමැත.",
+    "rideFallbackHelp": "— නගර මට්ටමේ පමණක්, දුරකථන අංක නොමැත.",
     "noCarpoolMatch": "මේ රැස්වීමෙදි වාහන බෙදාගැනීමේ තරඟයක් නෑ, ඒ නිසා Need a Ride උපස්ථයක් විදිහට පෙන්වනවා.",
     "familyRideTitle": "පවුලේ ගමන් සම්බන්ධතා",
     "familyRideHelp": "අනුමත රියදුරන් පමණයි. පින්ග් එකින් එක විනාඩි 2ක ටයිම් අවුට් එකකින් යනවා. ඊළඟ සම්බන්ධතාවය පින්ග් වෙන්න කලින් තහවුරු කරන්න.",
@@ -348,7 +348,7 @@
     "save": "සුරකින්න",
     "cancel": "අවලංගු කරන්න",
     "suggestTitle": "ඔබේ සන්ධිස්ථාන මගින් යෝජනා කරනු ලැබේ",
-    "suggestHelp": "යෝජනා විතරයි  ⁇  ඔබ එය එකතු කරන තුරු කිසිවක් ප් රකාශයට පත් කරන්නේ නැහැ."
+    "suggestHelp": "යෝජනා විතරයි — ඔබ එය එකතු කරන තුරු කිසිවක් ප් රකාශයට පත් කරන්නේ නැහැ."
   },
   "crisisReply": {
     "onlyYou": "ඔයාට විතරයි මේ පණිවිඩය බලන්න පුළුවන්.",

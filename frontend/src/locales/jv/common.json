@@ -108,12 +108,12 @@
     "tipPlaceholder": "Apa sing mbantu panjenengan?",
     "sendTip": "Kirimi tip",
     "noTips": "Ora ana tip.",
-    "celebrationFirst": "Langkah kapisan rampung  ⁇  Sugeng rawuh ing omah.",
+    "celebrationFirst": "Langkah kapisan rampung — Sugeng rawuh ing omah.",
     "celebrationSection": "Bagean rampung",
     "celebrationAll": "Kabeh 33 langkah rampung. Ngrayakake kemajuanmu.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Resource pointer mung  ⁇  Groundwork ora nyedhiyani iki utawa partner karo panyedhiya.",
+    "resourceOnly": "Resource pointer mung — Groundwork ora nyedhiyani iki utawa partner karo panyedhiya.",
     "sections": {
       "before_release": "Sadurunge dirilis",
       "first_48_hours": "48 jam kapisan",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Pribadi kanthi gawan. Nuduhake mung nalika sampeyan milih."
   },
   "venue": {
-    "placeholder": "Panggonan  ⁇  kamar kothak abu-abu. Foto papan nyata ora diwenehake; iki dudu ruang nyata."
+    "placeholder": "Panggonan — kamar kothak abu-abu. Foto papan nyata ora diwenehake; iki dudu ruang nyata."
   },
   "family": {
     "help": "Anggota kulawarga mung ndeleng apa sing sampeyan pilih kanggo nuduhake.",
@@ -210,7 +210,7 @@
     "gigTitle": "Judhul pertunjukan",
     "postGig": "Post gig",
     "coursesTitle": "Kursus",
-    "coursesDraft": "DRAFT  ⁇  kanggo review",
+    "coursesDraft": "DRAFT — kanggo review",
     "quiz": "Kuis",
     "checkAnswer": "Priksa wangsulan",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Jinis",
     "groupsTime": "Wektu rapat",
     "rideFallbackTitle": "Butuh tumpangan (backup)",
-    "rideFallbackHelp": "Mung ditampilake nalika ora ana wong ing papan carpool sing arep menyang rapat sampeyan. Kirimi panjaluk ing aplikasi sing dimoderasi  ⁇  mung ing tingkat kutha, ora ana nomer telpon.",
+    "rideFallbackHelp": "Mung ditampilake nalika ora ana wong ing papan carpool sing arep menyang rapat sampeyan. Kirimi panjaluk ing aplikasi sing dimoderasi — mung ing tingkat kutha, ora ana nomer telpon.",
     "noCarpoolMatch": "Ora ana sing cocog karo rapat iki, mula Need a Ride ditampilake minangka cadangan.",
     "familyRideTitle": "Kontak lelungan kulawarga",
     "familyRideHelp": "Pings pindhah siji ing wektu karo 2 menit timeout; sampeyan konfirmasi sadurunge kontak sabanjure pinged.",
@@ -348,7 +348,7 @@
     "save": "Simpen",
     "cancel": "Batal",
     "suggestTitle": "Dituduhake dening tonggak sampeyan",
-    "suggestHelp": "Mung saran  ⁇  ora ana sing diterbitake nganti sampeyan nambah."
+    "suggestHelp": "Mung saran — ora ana sing diterbitake nganti sampeyan nambah."
   },
   "crisisReply": {
     "onlyYou": "Mung panjenengan sing isa ndelok pesen iki.",

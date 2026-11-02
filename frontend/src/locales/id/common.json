@@ -108,12 +108,12 @@
     "tipPlaceholder": "Apa yang membantumu?",
     "sendTip": "Kirim tip",
     "noTips": "Belum ada tip.",
-    "celebrationFirst": "Langkah pertama dilakukan  ⁇  selamat datang di rumah.",
+    "celebrationFirst": "Langkah pertama dilakukan — selamat datang di rumah.",
     "celebrationSection": "Bagian selesai",
     "celebrationAll": "Semua 33 langkah selesai.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Resource pointer only  ⁇  Groundwork tidak menyediakan ini atau bermitra dengan penyedia.",
+    "resourceOnly": "Resource pointer only — Groundwork tidak menyediakan ini atau bermitra dengan penyedia.",
     "sections": {
       "before_release": "Sebelum pelepasan",
       "first_48_hours": "48 jam pertama",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Pribadi secara default. Berbagi hanya ketika Anda memilih."
   },
   "venue": {
-    "placeholder": "Placeholder  ⁇  ruang kotak abu-abu. Foto tempat yang sebenarnya tidak disediakan; ini bukan ruang yang sebenarnya."
+    "placeholder": "Placeholder — ruang kotak abu-abu. Foto tempat yang sebenarnya tidak disediakan; ini bukan ruang yang sebenarnya."
   },
   "family": {
     "help": "Anggota keluarga hanya melihat apa yang Anda pilih untuk dibagikan.",
@@ -210,7 +210,7 @@
     "gigTitle": "Judul pertunjukan",
     "postGig": "Post gig",
     "coursesTitle": "Kursus",
-    "coursesDraft": "RUU  ⁇  untuk ditinjau kembali",
+    "coursesDraft": "RUU — untuk ditinjau kembali",
     "quiz": "Kuis",
     "checkAnswer": "Periksa jawaban",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Jenis",
     "groupsTime": "Waktu pertemuan",
     "rideFallbackTitle": "Butuh tumpangan (backup)",
-    "rideFallbackHelp": "Hanya ditampilkan ketika tidak ada orang di papan carpool yang menuju ke pertemuan Anda Mengirim permintaan dalam aplikasi yang dimoderasi  ⁇  hanya tingkat kota, tidak ada nomor telepon.",
+    "rideFallbackHelp": "Hanya ditampilkan ketika tidak ada orang di papan carpool yang menuju ke pertemuan Anda Mengirim permintaan dalam aplikasi yang dimoderasi — hanya tingkat kota, tidak ada nomor telepon.",
     "noCarpoolMatch": "Tidak ada carpool match untuk pertemuan ini, jadi Need a Ride ditampilkan sebagai cadangan.",
     "familyRideTitle": "Kontak perjalanan keluarga",
     "familyRideHelp": "Hanya pengemudi yang disetujui. Pings pergi satu per satu dengan waktu 2 menit; Anda mengkonfirmasi sebelum kontak berikutnya ping.",
@@ -348,7 +348,7 @@
     "save": "Simpan",
     "cancel": "Batalkan",
     "suggestTitle": "Disarankan oleh tonggak Anda",
-    "suggestHelp": "Hanya saran  ⁇  tidak ada yang dipublikasikan sampai Anda menambahkannya."
+    "suggestHelp": "Hanya saran — tidak ada yang dipublikasikan sampai Anda menambahkannya."
   },
   "crisisReply": {
     "onlyYou": "Hanya kau yang bisa melihat pesan ini.",

@@ -108,12 +108,12 @@
     "tipPlaceholder": "Nini esalisaki yo?",
     "sendTip": "Tindela toli",
     "noTips": "Ata toli moko te.",
-    "celebrationFirst": "Likambo ya liboso oyo tosali  ⁇  toyambami na ndako.",
+    "celebrationFirst": "Likambo ya liboso oyo tosali — toyambami na ndako.",
     "celebrationSection": "Eteni esili",
     "celebrationAll": "Matambe nyonso 33 esalemi. Sepelá ndenge ozali kokende liboso.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Pointeur ya ressource kaka  ⁇  Groundwork ezali kopesa yango te to kosala na ba fournisseurs.",
+    "resourceOnly": "Pointeur ya ressource kaka — Groundwork ezali kopesa yango te to kosala na ba fournisseurs.",
     "sections": {
       "before_release": "Liboso ya kobimisa yango",
       "first_48_hours": "Mikolo 48 ya liboso",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Kopesa yango kaka soki yo moko olingi."
   },
   "venue": {
-    "placeholder": "Ndako oyo ezali na esika  ⁇  esika ya libaya ya langi ya mpembe. Bafɔtɔ ya esika yango ezali te; esika yango ezali te."
+    "placeholder": "Ndako oyo ezali na esika — esika ya libaya ya langi ya mpembe. Bafɔtɔ ya esika yango ezali te; esika yango ezali te."
   },
   "family": {
     "help": "Bato ya libota bakomona kaka makambo oyo oponi koyebisa bango.",
@@ -210,7 +210,7 @@
     "gigTitle": "Titre ya mosala",
     "postGig": "Mosala ya nsima",
     "coursesTitle": "Mateya",
-    "coursesDraft": "MOKANO  ⁇  mpo na bozongeli",
+    "coursesDraft": "MOKANO — mpo na bozongeli",
     "quiz": "Motuna-lisolo",
     "checkAnswer": "Talelá eyano",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Kobomba",
     "cancel": "Kolongola",
     "suggestTitle": "Makambo oyo osalaki na bomoi na yo",
-    "suggestHelp": "Makanisi kaka  ⁇  eloko moko ebimisami te kino okotisa yango."
+    "suggestHelp": "Makanisi kaka — eloko moko ebimisami te kino okotisa yango."
   },
   "crisisReply": {
     "onlyYou": "Kaka yo nde okoki komona nsango yango.",

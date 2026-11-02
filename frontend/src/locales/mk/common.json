@@ -113,7 +113,7 @@
     "celebrationAll": "Сите 33 чекори завршени.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Ресурсниот укажувач само  ⁇  Groundwork не го обезбедува ова или соработува со даватели.",
+    "resourceOnly": "Ресурсниот укажувач само — Groundwork не го обезбедува ова или соработува со даватели.",
     "sections": {
       "before_release": "Пред ослободување",
       "first_48_hours": "Првите 48 часа",
@@ -210,7 +210,7 @@
     "gigTitle": "Наслов на настапот",
     "postGig": "По работа",
     "coursesTitle": "Курсеви",
-    "coursesDraft": "Проектот  ⁇  за ревизија",
+    "coursesDraft": "Проектот — за ревизија",
     "quiz": "Квиз",
     "checkAnswer": "Проверете го одговорот",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Зачувај",
     "cancel": "Анулирајте",
     "suggestTitle": "Предложено од твоите значајни моменти",
-    "suggestHelp": "Само предлози  ⁇  ништо не се објавува додека не го додадете."
+    "suggestHelp": "Само предлози — ништо не се објавува додека не го додадете."
   },
   "crisisReply": {
     "onlyYou": "Само ти можеш да ја видиш оваа порака.",

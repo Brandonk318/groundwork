@@ -108,12 +108,12 @@
     "tipPlaceholder": "Apa yang membantu anda dengan langkah ini?",
     "sendTip": "Hantar petua",
     "noTips": "Belum ada tip.",
-    "celebrationFirst": "Langkah pertama dilakukan  ⁇  selamat datang di rumah.",
+    "celebrationFirst": "Langkah pertama dilakukan — selamat datang di rumah.",
     "celebrationSection": "Bahagian selesai",
     "celebrationAll": "Semua 33 langkah selesai.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Penunjuk sumber sahaja  ⁇  Groundwork tidak menyediakan ini atau bekerjasama dengan pembekal.",
+    "resourceOnly": "Penunjuk sumber sahaja — Groundwork tidak menyediakan ini atau bekerjasama dengan pembekal.",
     "sections": {
       "before_release": "Sebelum pelepasan",
       "first_48_hours": "48 jam pertama",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Perkongsian hanya apabila anda memilih."
   },
   "venue": {
-    "placeholder": "Pemegang tempat  ⁇  bilik kotak kelabu. Foto tempat sebenar tidak disediakan; ini bukan ruang sebenar."
+    "placeholder": "Pemegang tempat — bilik kotak kelabu. Foto tempat sebenar tidak disediakan; ini bukan ruang sebenar."
   },
   "family": {
     "help": "Anggota keluarga hanya melihat apa yang anda pilih untuk dikongsi.",
@@ -210,7 +210,7 @@
     "gigTitle": "Gelaran pertunjukan",
     "postGig": "Post gig",
     "coursesTitle": "Kursus",
-    "coursesDraft": "RUU  ⁇  untuk semakan semula",
+    "coursesDraft": "RUU — untuk semakan semula",
     "quiz": "Kuiz",
     "checkAnswer": "Periksa jawapan",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Simpan",
     "cancel": "Batalkan",
     "suggestTitle": "Disarankan oleh tonggak anda",
-    "suggestHelp": "Cadangan sahaja  ⁇  tiada apa yang diterbitkan sehingga anda menambahkannya."
+    "suggestHelp": "Cadangan sahaja — tiada apa yang diterbitkan sehingga anda menambahkannya."
   },
   "crisisReply": {
     "onlyYou": "Hanya awak yang boleh lihat mesej ini.",

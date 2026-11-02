@@ -108,12 +108,12 @@
     "tipPlaceholder": "Ce te-a ajutat să faci acest pas?",
     "sendTip": "Trimite un pont",
     "noTips": "Nici un pont încă.",
-    "celebrationFirst": "Primul pas făcut  ⁇  bun venit acasă.",
+    "celebrationFirst": "Primul pas făcut — bun venit acasă.",
     "celebrationSection": "Secţiunea terminată",
     "celebrationAll": "Celebrează-ţi progresul.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Punctorul de resursă numai  ⁇  Groundwork nu furnizează acest lucru sau nu este partener cu furnizorii.",
+    "resourceOnly": "Punctorul de resursă numai — Groundwork nu furnizează acest lucru sau nu este partener cu furnizorii.",
     "sections": {
       "before_release": "Înainte de eliberare",
       "first_48_hours": "Primele 48 de ore",
@@ -210,7 +210,7 @@
     "gigTitle": "Titlu de spectacol",
     "postGig": "Post-gig",
     "coursesTitle": "Cursuri",
-    "coursesDraft": "PROJECT  ⁇  pentru revizuire",
+    "coursesDraft": "PROJECT — pentru revizuire",
     "quiz": "Quiz",
     "checkAnswer": "Verifică răspunsul",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Tipul",
     "groupsTime": "Timp de ședință",
     "rideFallbackTitle": "Are nevoie de o plimbare",
-    "rideFallbackHelp": "Afişează o cerere moderată în aplicaţie  ⁇  numai la nivel de oraş, fără numere de telefon.",
+    "rideFallbackHelp": "Afişează o cerere moderată în aplicaţie — numai la nivel de oraş, fără numere de telefon.",
     "noCarpoolMatch": "Nu se potriveşte în această întâlnire, aşa că Needs a Ride este prezentat ca rezervă.",
     "familyRideTitle": "Contactele familiei",
     "familyRideHelp": "Pings merge unul la un moment dat cu un time-out de 2 minute; confirmați înainte de urmatorul contact este pinged.",
@@ -348,7 +348,7 @@
     "save": "Salvează",
     "cancel": "Anulaţi",
     "suggestTitle": "Sugerate de punctele tale de reper",
-    "suggestHelp": "Doar sugestii  ⁇  nimic nu este publicat până nu îl adăugaţi."
+    "suggestHelp": "Doar sugestii — nimic nu este publicat până nu îl adăugaţi."
   },
   "crisisReply": {
     "onlyYou": "Numai tu poţi vedea acest mesaj.",

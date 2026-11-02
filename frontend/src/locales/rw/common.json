@@ -108,12 +108,12 @@
     "tipPlaceholder": "Ni iki cyagufashije gufata uwo mwanzuro?",
     "sendTip": "Kohereza amakuru",
     "noTips": "Kugeza ubu nta mpano dufite.",
-    "celebrationFirst": "Intambwe ya mbere yarangiye  ⁇  murakaza neza mu rugo.",
+    "celebrationFirst": "Intambwe ya mbere yarangiye — murakaza neza mu rugo.",
     "celebrationSection": "Igice cyararangiye",
     "celebrationAll": "Intambwe 33 zose zarangiye. Jya wizihiza amajyambere yawe.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Igishushanyo mbonera cy'umutungo gusa  ⁇  Groundwork ntabwo gitanga ibi cyangwa ngo gikorane n'ababitanga.",
+    "resourceOnly": "Igishushanyo mbonera cy'umutungo gusa — Groundwork ntabwo gitanga ibi cyangwa ngo gikorane n'ababitanga.",
     "sections": {
       "before_release": "Mbere yo kurekurwa",
       "first_48_hours": "Amasaha 48 ya mbere",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Byigenga byanze bikunze. Sangiza gusa igihe uhisemo."
   },
   "venue": {
-    "placeholder": "Icyicaro  ⁇  icyumba cy'isanduku y'icyatsi. Amafoto nyayo y'ahantu habera ibitaramo ntiyatangajwe; iki si ahantu nyako."
+    "placeholder": "Icyicaro — icyumba cy'isanduku y'icyatsi. Amafoto nyayo y'ahantu habera ibitaramo ntiyatangajwe; iki si ahantu nyako."
   },
   "family": {
     "help": "Abagize umuryango wawe babona gusa ibyo wahisemo kubwira abandi.",
@@ -210,7 +210,7 @@
     "gigTitle": "Izina ry'igitaramo",
     "postGig": "Igitaramo cya nyuma",
     "coursesTitle": "Amasomo",
-    "coursesDraft": "INKURU  ⁇  igomba gusubirwamo",
+    "coursesDraft": "INKURU — igomba gusubirwamo",
     "quiz": "Ibibazo",
     "checkAnswer": "Reba igisubizo",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Gushyiraho",
     "cancel": "Guhagarika",
     "suggestTitle": "Bishingiye ku bintu by'ingenzi wagezeho",
-    "suggestHelp": "Ibitekerezo gusa  ⁇  nta kintu na kimwe cyasohotse kugeza igihe ubyongereyeho."
+    "suggestHelp": "Ibitekerezo gusa — nta kintu na kimwe cyasohotse kugeza igihe ubyongereyeho."
   },
   "crisisReply": {
     "onlyYou": "Ni wowe wenyine ushobora kubona ubu butumwa.",

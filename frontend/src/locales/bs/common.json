@@ -108,12 +108,12 @@
     "tipPlaceholder": "Šta ti je pomoglo u tome?",
     "sendTip": "Pošalji napojnicu",
     "noTips": "Još nema napojnica.",
-    "celebrationFirst": "Prvi korak je urađen  ⁇  dobrodošao kući.",
+    "celebrationFirst": "Prvi korak je urađen — dobrodošao kući.",
     "celebrationSection": "Odjel je završen",
     "celebrationAll": "Svih 33 koraka je urađeno.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Samo pokazivač resursa  ⁇  Groundwork ne pruža ovo ili partner sa pružaocima.",
+    "resourceOnly": "Samo pokazivač resursa — Groundwork ne pruža ovo ili partner sa pružaocima.",
     "sections": {
       "before_release": "Pre puštanja",
       "first_48_hours": "Prvih 48 sati",
@@ -210,7 +210,7 @@
     "gigTitle": "Naslov koncerta",
     "postGig": "Poslije koncerta",
     "coursesTitle": "Kursevi",
-    "coursesDraft": "Nacrt  ⁇  za reviziju",
+    "coursesDraft": "Nacrt — za reviziju",
     "quiz": "Kviz",
     "checkAnswer": "Proveri odgovor",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Sačuvaj",
     "cancel": "Otkaži",
     "suggestTitle": "Predložen od strane svojih prekretnica",
-    "suggestHelp": "Samo prijedlozi  ⁇  ništa se ne objavljuje dok ga ne dodate."
+    "suggestHelp": "Samo prijedlozi — ništa se ne objavljuje dok ga ne dodate."
   },
   "crisisReply": {
     "onlyYou": "Samo ti možeš da vidiš ovu poruku.",

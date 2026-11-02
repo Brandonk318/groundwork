@@ -108,12 +108,12 @@
     "tipPlaceholder": "Cosa vi ha aiutato a fare questo passo?",
     "sendTip": "Invia suggerimenti",
     "noTips": "Ancora nessuna mancia.",
-    "celebrationFirst": "Primo passo fatto  ⁇  benvenuto a casa.",
+    "celebrationFirst": "Primo passo fatto — benvenuto a casa.",
     "celebrationSection": "Sezione completata",
     "celebrationAll": "Tutti i 33 passi fatti, festeggia i tuoi progressi.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Il puntatore di risorsa solo  ⁇  Groundwork non fornisce questo o collabora con i fornitori.",
+    "resourceOnly": "Il puntatore di risorsa solo — Groundwork non fornisce questo o collabora con i fornitori.",
     "sections": {
       "before_release": "Prima del rilascio",
       "first_48_hours": "Le prime 48 ore",
@@ -210,7 +210,7 @@
     "gigTitle": "Titolo del concerto",
     "postGig": "Post gig",
     "coursesTitle": "Corsi",
-    "coursesDraft": "PROGETTO  ⁇  per revisione",
+    "coursesDraft": "PROGETTO — per revisione",
     "quiz": "Quiz",
     "checkAnswer": "Controlla la risposta",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Tipo",
     "groupsTime": "Orario delle riunioni",
     "rideFallbackTitle": "Ha bisogno di un passaggio",
-    "rideFallbackHelp": "Pubblica una richiesta moderata all'interno dell'app  ⁇  solo a livello di città, nessun numero di telefono.",
+    "rideFallbackHelp": "Pubblica una richiesta moderata all'interno dell'app — solo a livello di città, nessun numero di telefono.",
     "noCarpoolMatch": "Nessuna corrispondenza per questo incontro, quindi Needs a Ride viene mostrato come backup.",
     "familyRideTitle": "Contatti per il viaggio in famiglia",
     "familyRideHelp": "I ping vanno uno alla volta con un timeout di 2 minuti; si conferma prima che il prossimo contatto venga pingato.",
@@ -348,7 +348,7 @@
     "save": "Salvare",
     "cancel": "Annullare",
     "suggestTitle": "Suggerito dai tuoi traguardi",
-    "suggestHelp": "Solo suggerimenti  ⁇  nulla viene pubblicato finché non lo aggiungi."
+    "suggestHelp": "Solo suggerimenti — nulla viene pubblicato finché non lo aggiungi."
   },
   "crisisReply": {
     "onlyYou": "Solo tu puoi vedere questo messaggio.",

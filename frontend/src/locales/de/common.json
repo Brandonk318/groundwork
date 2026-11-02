@@ -113,7 +113,7 @@
     "celebrationAll": "Alle 33 Schritte fertig, feiern Sie Ihren Fortschritt.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Ressourcenzeiger nur  ⁇  Groundwork stellt dies nicht zur Verfügung oder arbeitet mit Anbietern zusammen.",
+    "resourceOnly": "Ressourcenzeiger nur — Groundwork stellt dies nicht zur Verfügung oder arbeitet mit Anbietern zusammen.",
     "sections": {
       "before_release": "Vor der Freisetzung",
       "first_48_hours": "Erste 48 Stunden",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Sie können nur teilen, wenn Sie möchten."
   },
   "venue": {
-    "placeholder": "Platzhalter  ⁇  Grau-Box-Raum. Echte Veranstaltungsortfotos wurden nicht bereitgestellt; dies ist nicht der echte Raum."
+    "placeholder": "Platzhalter — Grau-Box-Raum. Echte Veranstaltungsortfotos wurden nicht bereitgestellt; dies ist nicht der echte Raum."
   },
   "family": {
     "help": "Die Familienmitglieder sehen nur, was du mit ihnen teilen willst.",
@@ -210,7 +210,7 @@
     "gigTitle": "Titel des Auftritts",
     "postGig": "Post-Gig",
     "coursesTitle": "Kurse",
-    "coursesDraft": "Entwurf  ⁇  zur Überprüfung",
+    "coursesDraft": "Entwurf — zur Überprüfung",
     "quiz": "Quiz",
     "checkAnswer": "Antwort überprüfen",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Typ",
     "groupsTime": "Sitzungszeit",
     "rideFallbackTitle": "Er braucht eine Mitfahrgelegenheit",
-    "rideFallbackHelp": "Veröffentlicht eine moderierte Anfrage in der App  ⁇  nur auf Stadtebene, keine Telefonnummern",
+    "rideFallbackHelp": "Veröffentlicht eine moderierte Anfrage in der App — nur auf Stadtebene, keine Telefonnummern",
     "noCarpoolMatch": "Kein Carpool-Match für dieses Meeting, also wird Needs a Ride als Backup gezeigt.",
     "familyRideTitle": "Familienfahrkontakte",
     "familyRideHelp": "Nur zugelassene Fahrer. Pings gehen nacheinander mit einer 2-minütigen Timeout; Sie bestätigen, bevor der nächste Kontakt pingt wird.",
@@ -348,7 +348,7 @@
     "save": "Speichern",
     "cancel": "Absagen",
     "suggestTitle": "Von Ihren Meilensteinen vorgeschlagen",
-    "suggestHelp": "Nur Vorschläge  ⁇  nichts wird veröffentlicht, bis Sie es hinzufügen."
+    "suggestHelp": "Nur Vorschläge — nichts wird veröffentlicht, bis Sie es hinzufügen."
   },
   "crisisReply": {
     "onlyYou": "Nur Sie können diese Nachricht sehen.",

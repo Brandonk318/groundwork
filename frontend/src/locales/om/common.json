@@ -113,7 +113,7 @@
     "celebrationAll": "Tarkaanfiiwwan 33n hundi raawwatamaniiru.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Resource pointer only  ⁇  Groundwork kana hin dhiyeessu ykn dhiyeessitoota waliin hin hojjetu.",
+    "resourceOnly": "Resource pointer only — Groundwork kana hin dhiyeessu ykn dhiyeessitoota waliin hin hojjetu.",
     "sections": {
       "before_release": "Dhalachuusaa dura",
       "first_48_hours": "Sa'aatii 48 dura",
@@ -210,7 +210,7 @@
     "gigTitle": "Maqaa tapha",
     "postGig": "Post gig",
     "coursesTitle": "Barnoota",
-    "coursesDraft": "DHAGGAABA  ⁇  irra deebi'anii ilaaluuf",
+    "coursesDraft": "DHAGGAABA — irra deebi'anii ilaaluuf",
     "quiz": "Qorannoo",
     "checkAnswer": "Deebii sakatta'i",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Gosa",
     "groupsTime": "Sa'aatii walga'ii",
     "rideFallbackTitle": "Konkolaachisaa (gargaarsaa) barbaada",
-    "rideFallbackHelp": "Yeroo namni bilbilaan si waliin deemu hin jirretti qofa kan mul'atu. Gaafii appilikeeshinii keessatti to'atame ergu  ⁇  sadarkaa magaalaa qofa, lakkoofsa bilbilaa hin qabu.",
+    "rideFallbackHelp": "Yeroo namni bilbilaan si waliin deemu hin jirretti qofa kan mul'atu. Gaafii appilikeeshinii keessatti to'atame ergu — sadarkaa magaalaa qofa, lakkoofsa bilbilaa hin qabu.",
     "noCarpoolMatch": "Walga'ii kanaaf konkolaataan walfakkaatu waan hin jirreef, 'Needs a Ride' bakka bu'aa ta'ee agarsiifameera.",
     "familyRideTitle": "Maatii waliin imaluu",
     "familyRideHelp": "Konkolaachistoota hayyamamaniif qofa. Pingiin daqiiqaa 2'f yeroodhaan tokko tokkoon ni deema; qunnamtiin itti aanu osoo hin beeksifamin dura ni mirkaneessita.",
@@ -348,7 +348,7 @@
     "save": "Fayyadamuu",
     "cancel": "Haquu",
     "suggestTitle": "Wantoota gurguddaa raawwattaniin kan ibsame",
-    "suggestHelp": "Gorsa qofa  ⁇  hanga itti hin dabalinitti wanti maxxanfamu hin jiru."
+    "suggestHelp": "Gorsa qofa — hanga itti hin dabalinitti wanti maxxanfamu hin jiru."
   },
   "crisisReply": {
     "onlyYou": "Ergaa kana si qofatu arguu dandaʼa.",

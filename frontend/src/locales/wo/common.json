@@ -108,12 +108,12 @@
     "tipPlaceholder": "Lan moo la dimbali ci loolu?",
     "sendTip": "Bindal ay wàll",
     "noTips": "Amuloo lu ñu koy joxe.",
-    "celebrationFirst": "1st step done  ⁇  welcome home.",
+    "celebrationFirst": "1st step done — welcome home.",
     "celebrationSection": "Jëfandikoo",
     "celebrationAll": "33 jëfekaay yépp mat nañu, màggal seen jëfekaay.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Jëfandikukat bi rekk  ⁇  Groundwork du ko jox mbaa dafay ànd ak jawriñ yi.",
+    "resourceOnly": "Jëfandikukat bi rekk — Groundwork du ko jox mbaa dafay ànd ak jawriñ yi.",
     "sections": {
       "before_release": "Bala ñu ko bàyyi",
       "first_48_hours": "48i waxtu yu jëkk yi",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Bësal-bësal. Bësal-bësal-bësal-bësal-bësal-bësal-bësal."
   },
   "venue": {
-    "placeholder": "Xët yi lëkkalook wii  ⁇  néeg bu xonq."
+    "placeholder": "Xët yi lëkkalook wii — néeg bu xonq."
   },
   "family": {
     "help": "Ñi bokk ci njaboot gi dañuy gis li nga séddoo rekk.",
@@ -210,7 +210,7 @@
     "gigTitle": "Jëfandikukat",
     "postGig": "Jëfandikukat",
     "coursesTitle": "Jëfandikukat",
-    "coursesDraft": "Jëfandikukat  ⁇  ngir gëstu",
+    "coursesDraft": "Jëfandikukat — ngir gëstu",
     "quiz": "Jëfandikukat",
     "checkAnswer": "Xoolal tontu",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Sàmm",
     "cancel": "Bàyyi",
     "suggestTitle": "Sëriñ bi nee na:",
-    "suggestHelp": "Yëfandikoo rekk  ⁇  dara du siiwal ba kera nga koy yokk."
+    "suggestHelp": "Yëfandikoo rekk — dara du siiwal ba kera nga koy yokk."
   },
   "crisisReply": {
     "onlyYou": "Yaw rekk nga man a gis xët wii.",

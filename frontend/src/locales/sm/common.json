@@ -108,12 +108,12 @@
     "tipPlaceholder": "O le ā na fesoasoani iā te oe i lenei laasaga?",
     "sendTip": "Auina atu se fautuaga",
     "noTips": "E leai se fesoasoani.",
-    "celebrationFirst": "Ua faia le laasaga muamua  ⁇  faafeiloaʻi i le fale.",
+    "celebrationFirst": "Ua faia le laasaga muamua — faafeiloaʻi i le fale.",
     "celebrationSection": "Faaiʻuina le vaega",
     "celebrationAll": "Faamanatu lou agaʻigaʻi i luma.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "E naʻo le punaoa faʻasino  ⁇  Groundwork e le maua lenei mea pe paʻaga ma kamupani e tuʻuina atu.",
+    "resourceOnly": "E naʻo le punaoa faʻasino — Groundwork e le maua lenei mea pe paʻaga ma kamupani e tuʻuina atu.",
     "sections": {
       "before_release": "A o leʻi faasaʻolotoina",
       "first_48_hours": "Uluaʻi 48 itula",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Faalilolilo e ala i le faaletonu."
   },
   "venue": {
-    "placeholder": "Nofoaga  ⁇  potu o le pusa efuefu. E leʻi tuuina mai ni ata moni o le nofoaga; e lē o le nofoaga moni lenei."
+    "placeholder": "Nofoaga — potu o le pusa efuefu. E leʻi tuuina mai ni ata moni o le nofoaga; e lē o le nofoaga moni lenei."
   },
   "family": {
     "help": "E na o mea e te filifili e faailoa atu i isi e iloa e tagata o lou aiga.",
@@ -210,7 +210,7 @@
     "gigTitle": "Igoa o galuega",
     "postGig": "Galuega mulimuli ane",
     "coursesTitle": "Vasega",
-    "coursesDraft": "⁇  mo le toe iloiloina",
+    "coursesDraft": "— mo le toe iloiloina",
     "quiz": "Suʻesuʻega",
     "checkAnswer": "Siaki le tali",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Ituaiga",
     "groupsTime": "Taimi o fonotaga",
     "rideFallbackTitle": "E Manaʻomia se Taʻavale",
-    "rideFallbackHelp": "E na ona faaalia pe a lē o iai se isi o loo agaʻi atu i lau fonotaga. E lafoina se talosaga faatonutonu i totonu o le app  ⁇  na o le tulaga o le aai, e leai ni numera o telefoni.",
+    "rideFallbackHelp": "E na ona faaalia pe a lē o iai se isi o loo agaʻi atu i lau fonotaga. E lafoina se talosaga faatonutonu i totonu o le app — na o le tulaga o le aai, e leai ni numera o telefoni.",
     "noCarpoolMatch": "E leai se taavale e fetaui lelei mo lenei fonotaga, o lea ua faaali mai ai \"Needs a Ride\" e avea o se vaega faaleoleo.",
     "familyRideTitle": "Fesootaʻiga mo femalagaaʻiga a le aiga",
     "familyRideHelp": "E na o avetaavale ua faamaonia. E tasi le ping i le taimi e tasi ma e lua minute e alu ai; e te faamautinoa ai a o leʻi maua le isi fesootaʻiga.",
@@ -348,7 +348,7 @@
     "save": "Faasaoina",
     "cancel": "Faateʻa",
     "suggestTitle": "Faataʻitaʻi e ala i mea na e faia",
-    "suggestHelp": "Naʻo fautuaga  ⁇  e leai se mea e lolomiina seʻia e faaopoopoina."
+    "suggestHelp": "Naʻo fautuaga — e leai se mea e lolomiina seʻia e faaopoopoina."
   },
   "crisisReply": {
     "onlyYou": "E na o oe lava e mafai ona vaai i lenei feʻau.",

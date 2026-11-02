@@ -113,7 +113,7 @@
     "celebrationAll": "Всички 33 стъпки са изпълнени.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Ресурсен указател само  ⁇  Groundwork не осигурява това или си партнира с доставчици.",
+    "resourceOnly": "Ресурсен указател само — Groundwork не осигурява това или си партнира с доставчици.",
     "sections": {
       "before_release": "Преди освобождаване",
       "first_48_hours": "Първите 48 часа",
@@ -210,7 +210,7 @@
     "gigTitle": "Заглавие на концерта",
     "postGig": "Следваща работа",
     "coursesTitle": "Курсове",
-    "coursesDraft": "ДОКЛАД  ⁇  за преразглеждане",
+    "coursesDraft": "ДОКЛАД — за преразглеждане",
     "quiz": "Квиз",
     "checkAnswer": "Проверете отговора",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Запази",
     "cancel": "Отмени",
     "suggestTitle": "Предложени от Вашите етапи",
-    "suggestHelp": "Само предложения  ⁇  нищо не се публикува, докато не го добавите."
+    "suggestHelp": "Само предложения — нищо не се публикува, докато не го добавите."
   },
   "crisisReply": {
     "onlyYou": "Само ти можеш да видиш това съобщение.",

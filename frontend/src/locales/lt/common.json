@@ -113,7 +113,7 @@
     "celebrationAll": "Visi 33 žingsniai baigti.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Paslaugų rodiklis tik  ⁇  Groundwork to neduoda arba bendradarbiauja su tiekėjais.",
+    "resourceOnly": "Paslaugų rodiklis tik — Groundwork to neduoda arba bendradarbiauja su tiekėjais.",
     "sections": {
       "before_release": "Prieš išleidimą",
       "first_48_hours": "Pirmos 48 valandos",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Asmeninis pagal numatytuosius nustatymus. Pasidalinkite tik tada, kai norite."
   },
   "venue": {
-    "placeholder": "Reikšminga vieta  ⁇  pilkosios dėžutės kambarys."
+    "placeholder": "Reikšminga vieta — pilkosios dėžutės kambarys."
   },
   "family": {
     "help": "Šeimos nariai mato tik tai, ką pasirinkai pasidalinti.",
@@ -210,7 +210,7 @@
     "gigTitle": "Darbo pavadinimas",
     "postGig": "Paskutinis pasirodymas",
     "coursesTitle": "Kursai",
-    "coursesDraft": "PRANEŠIMAS  ⁇  persvarstyti",
+    "coursesDraft": "PRANEŠIMAS — persvarstyti",
     "quiz": "Kvizas",
     "checkAnswer": "Patikrinkite atsakymą",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Išsaugoti",
     "cancel": "Atšaukti",
     "suggestTitle": "Rekomenduojama pagal tavo pasiekimus",
-    "suggestHelp": "Tik pasiūlymai  ⁇  nieko nepaskelbiama, kol nepateiksite."
+    "suggestHelp": "Tik pasiūlymai — nieko nepaskelbiama, kol nepateiksite."
   },
   "crisisReply": {
     "onlyYou": "Tik tu gali matyti šią žinutę.",

@@ -108,12 +108,12 @@
     "tipPlaceholder": "Gịnị nyeere gị aka ime otú ahụ?",
     "sendTip": "Ziga ndụmọdụ",
     "noTips": "Enweghị ndụmọdụ.",
-    "celebrationFirst": "Nzọụkwụ mbụ e mere  ⁇  welcome home.",
+    "celebrationFirst": "Nzọụkwụ mbụ e mere — welcome home.",
     "celebrationSection": "E mechaa ngalaba ahụ",
     "celebrationAll": "Nzọụkwụ 33 ahụ nile emezuwo. Mee ememe ọganihu gị.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Resource pointer only  ⁇  Groundwork adịghị enye nke a maọbụ na-akpakọrịta na ndị na-enye ya.",
+    "resourceOnly": "Resource pointer only — Groundwork adịghị enye nke a maọbụ na-akpakọrịta na ndị na-enye ya.",
     "sections": {
       "before_release": "Tupu a tọhapụ ya",
       "first_48_hours": "Oge 48 Mbụ",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Nkeonwe site na ndabara. Kekọrịta naanị mgbe ị họọrọ."
   },
   "venue": {
-    "placeholder": "Ebe a na-edebe ihe nkiri  ⁇  ebe a na-edebe ihe nkiri. E nyeghị foto ebe a na-eme ihe nkiri ahụ; ebe a abụghị ebe ahụ."
+    "placeholder": "Ebe a na-edebe ihe nkiri — ebe a na-edebe ihe nkiri. E nyeghị foto ebe a na-eme ihe nkiri ahụ; ebe a abụghị ebe ahụ."
   },
   "family": {
     "help": "Ọ bụ nanị ihe i kpebiri ịkọrọ ndị ezinụlọ gị ka ha na-ahụ.",
@@ -210,7 +210,7 @@
     "gigTitle": "Aha ọrụ",
     "postGig": "Mgbe a rụchara ọrụ",
     "coursesTitle": "Ihe ọmụmụ",
-    "coursesDraft": "NDỤMỌDỤ  ⁇  maka nyocha",
+    "coursesDraft": "NDỤMỌDỤ — maka nyocha",
     "quiz": "Ajụjụ",
     "checkAnswer": "Lelee azịza",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Ụdị",
     "groupsTime": "Oge nzukọ",
     "rideFallbackTitle": "Achọrọ njem (nkwado)",
-    "rideFallbackHelp": "E gosipụtara naanị mgbe ọ dịghị onye nọ na bọọdụ ụgbọ ala na-aga nzukọ gị. Na-eziga arịrịọ n'ime ngwa  ⁇  naanị n'obodo, enweghị nọmba ekwentị.",
+    "rideFallbackHelp": "E gosipụtara naanị mgbe ọ dịghị onye nọ na bọọdụ ụgbọ ala na-aga nzukọ gị. Na-eziga arịrịọ n'ime ngwa — naanị n'obodo, enweghị nọmba ekwentị.",
     "noCarpoolMatch": "Enweghị ụgbọ ala na-arụkọ ọrụ maka nzukọ a, n'ihi ya, a na-egosi Need a Ride dị ka nkwado.",
     "familyRideTitle": "Ndị ezinụlọ ha na ha na-akparịta ụka",
     "familyRideHelp": "Naanị ndị ọkwọ ụgbọala akwadoro. Pings na-aga otu n'otu oge na oge 2 nkeji; ị kwadoro tupu kọntaktị ọzọ pinged.",
@@ -348,7 +348,7 @@
     "save": "Zọpụta",
     "cancel": "Kwụsị",
     "suggestTitle": "Ihe ndị ị rụzuru na-atụ aro ya",
-    "suggestHelp": "Naanị aro  ⁇  ọ dịghị ihe a na-ebipụta ruo mgbe ị gbakwunyere ya."
+    "suggestHelp": "Naanị aro — ọ dịghị ihe a na-ebipụta ruo mgbe ị gbakwunyere ya."
   },
   "crisisReply": {
     "onlyYou": "Ọ bụ naanị gị nwere ike ịhụ ozi a.",

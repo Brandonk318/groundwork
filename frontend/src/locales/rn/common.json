@@ -108,12 +108,12 @@
     "tipPlaceholder": "Ni igiki cakufashije gutera iyo ntambwe?",
     "sendTip": "Kurungika amakuru",
     "noTips": "Nta nsiguro.",
-    "celebrationFirst": "Intambwe ya mbere yabaye  ⁇  ikaze i muhira.",
+    "celebrationFirst": "Intambwe ya mbere yabaye — ikaze i muhira.",
     "celebrationSection": "Igice caranguwe",
     "celebrationAll": "Intambwe zose 33 zirarangiye.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Urutonde rw'ibikoresho gusa  ⁇  Groundwork ntirutanga ivyo canke rukorana n'abatanga.",
+    "resourceOnly": "Urutonde rw'ibikoresho gusa — Groundwork ntirutanga ivyo canke rukorana n'abatanga.",
     "sections": {
       "before_release": "Imbere yo kurekurwa",
       "first_48_hours": "Amasaha 48 ya mbere",
@@ -210,7 +210,7 @@
     "gigTitle": "Izina ry'igiteramo",
     "postGig": "Inyuma y'igikorwa",
     "coursesTitle": "Amashure",
-    "coursesDraft": "UMUSANGANO  ⁇  wo gusubiramwo",
+    "coursesDraft": "UMUSANGANO — wo gusubiramwo",
     "quiz": "Ibibazo",
     "checkAnswer": "Raba inyishu",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Ubwoko",
     "groupsTime": "Umwanya w'ikoraniro",
     "rideFallbackTitle": "Arakeneye uwomwunguruza",
-    "rideFallbackHelp": "Bwerekanwa gusa igihe ata muntu n'umwe ari ku rutonde rw'abaja mu nama yawe. Bwerekana ubusabe bwo muri porogaramu  ⁇  ku rwego rw'igisagara gusa, nta nomero za telefone.",
+    "rideFallbackHelp": "Bwerekanwa gusa igihe ata muntu n'umwe ari ku rutonde rw'abaja mu nama yawe. Bwerekana ubusabe bwo muri porogaramu — ku rwego rw'igisagara gusa, nta nomero za telefone.",
     "noCarpoolMatch": "Nta muntu n'umwe azoja muri iryo koraniro, akaba ari co gituma Urakeneye uwumwunguruza yerekanwa nk'uwumufasha.",
     "familyRideTitle": "Imigenderanire n'umuryango",
     "familyRideHelp": "Abashoferi bemerewe gusa. Pings zigenda imwe ku yindi n'umwanya w'iminota 2; uremeza imbere y'uko ikiganiro gikurikira gitangazwa.",
@@ -348,7 +348,7 @@
     "save": "Gushiraho",
     "cancel": "Guhagarika",
     "suggestTitle": "Nk'uko vyerekanwa n'ibintu vy'intibagirwa wakoze",
-    "suggestHelp": "Impanuro gusa  ⁇  nta kintu na kimwe gisohoka utarinze kugishiramwo."
+    "suggestHelp": "Impanuro gusa — nta kintu na kimwe gisohoka utarinze kugishiramwo."
   },
   "crisisReply": {
     "onlyYou": "Ni wewe wenyene ushobora kubona ubwo butumwa.",

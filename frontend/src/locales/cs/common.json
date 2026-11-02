@@ -113,7 +113,7 @@
     "celebrationAll": "Všech 33 kroků hotovo.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Pouze ukazatel zdroje  ⁇  Groundwork to neposkytuje nebo spolupracuje s poskytovateli.",
+    "resourceOnly": "Pouze ukazatel zdroje — Groundwork to neposkytuje nebo spolupracuje s poskytovateli.",
     "sections": {
       "before_release": "Před uvolněním",
       "first_48_hours": "Prvních 48 hodin",
@@ -210,7 +210,7 @@
     "gigTitle": "Hrací titul",
     "postGig": "Po vystoupení",
     "coursesTitle": "Kurzy",
-    "coursesDraft": "Návrh  ⁇  pro přezkum",
+    "coursesDraft": "Návrh — pro přezkum",
     "quiz": "Kvíz",
     "checkAnswer": "Zkontrolujte odpověď",
     "parole": "Parole navigation",
@@ -348,7 +348,7 @@
     "save": "Uložit",
     "cancel": "Zrušit",
     "suggestTitle": "Navrhuji podle vašich milníků",
-    "suggestHelp": "Pouze návrhy  ⁇  nic nebude zveřejněno, dokud ji nepřidáte."
+    "suggestHelp": "Pouze návrhy — nic nebude zveřejněno, dokud ji nepřidáte."
   },
   "crisisReply": {
     "onlyYou": "Pouze vy můžete vidět tuto zprávu.",

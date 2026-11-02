@@ -108,12 +108,12 @@
     "tipPlaceholder": "Bu qadamni qoʻyishda sizga nima yordam berdi?",
     "sendTip": "Ogohlantirish yuborish",
     "noTips": "Hali hech qanday maslahat yoʻq.",
-    "celebrationFirst": "Birinchi qadam  ⁇  uyga xush kelibsiz.",
+    "celebrationFirst": "Birinchi qadam — uyga xush kelibsiz.",
     "celebrationSection": "Boʻlim tugadi",
     "celebrationAll": "Barcha 33 qadam bajarildi.",
     "crisisStep": "Save these numbers now. You can also tap Need help now at the top of any screen.",
     "call211": "Call 211 for local resources",
-    "resourceOnly": "Faqat resurs koʻrsatgichi  ⁇  Groundwork buni taqdim etmaydi yoki provayderlar bilan hamkorlik qilmaydi.",
+    "resourceOnly": "Faqat resurs koʻrsatgichi — Groundwork buni taqdim etmaydi yoki provayderlar bilan hamkorlik qilmaydi.",
     "sections": {
       "before_release": "Chiqarilishidan oldin",
       "first_48_hours": "Birinchi 48 soat",
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Andoza tarzda maxfiy. Faqat siz xohlaganingizda baham ko'ring."
   },
   "venue": {
-    "placeholder": "Joy belgisi  ⁇  kulrang quti xonasi. Haqiqiy joy fotosuratlari taqdim etilmagan; bu haqiqiy joy emas."
+    "placeholder": "Joy belgisi — kulrang quti xonasi. Haqiqiy joy fotosuratlari taqdim etilmagan; bu haqiqiy joy emas."
   },
   "family": {
     "help": "Oila a'zolari faqat siz o'rtoqlashmoqchi bo'lgan narsalarni ko'rishadi.",
@@ -210,7 +210,7 @@
     "gigTitle": "Ijodiy vazifa",
     "postGig": "Ishdan keyin",
     "coursesTitle": "Kurslar",
-    "coursesDraft": "Loyiha  ⁇  qayta ko ' rib chiqish uchun",
+    "coursesDraft": "Loyiha — qayta ko ' rib chiqish uchun",
     "quiz": "Viktoriya",
     "checkAnswer": "Javobni tekshiring",
     "parole": "Parole navigation",
@@ -288,7 +288,7 @@
     "groupsKind": "Turlari",
     "groupsTime": "Yig'ilish vaqti",
     "rideFallbackTitle": "Oʻtkazib yuborish kerak",
-    "rideFallbackHelp": "Faqat o'tirgan joyingizda hech kim yig'ilishingizga bormayotganda ko'rsatiladi  ⁇  faqat shahar darajasida, telefon raqamlari yo'q",
+    "rideFallbackHelp": "Faqat o'tirgan joyingizda hech kim yig'ilishingizga bormayotganda ko'rsatiladi — faqat shahar darajasida, telefon raqamlari yo'q",
     "noCarpoolMatch": "Ushbu uchrashuv uchun hech qanday avtoulov mos kelmaydi, shuning uchun Need a Ride ehtiyot qism sifatida ko'rsatilgan.",
     "familyRideTitle": "Oilaviy sayohat aloqalari",
     "familyRideHelp": "Faqat tasdiqlangan haydovchilarga. 2 daqiqalik vaqt o'tishi bilan pinglar birma-bir yuboriladi; keyingi aloqa xabar qilinishidan oldin tasdiqlashingiz kerak.",
@@ -348,7 +348,7 @@
     "save": "Saqlash",
     "cancel": "Bekor qilish",
     "suggestTitle": "Oʻzgarishlaringizga koʻra",
-    "suggestHelp": "Faqat tavsiyalar  ⁇  siz qo'shmaguningizcha hech narsa nashr etilmaydi."
+    "suggestHelp": "Faqat tavsiyalar — siz qo'shmaguningizcha hech narsa nashr etilmaydi."
   },
   "crisisReply": {
     "onlyYou": "Bu xabarni faqat siz ko'rishingiz mumkin.",
