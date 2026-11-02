@@ -10,61 +10,57 @@
       "en": "Need help now",
       "draft": "දැන්ම උදව් ඕනේ"
     },
-    "crisis.call911": {
-      "en": "Emergency: call 911",
-      "draft": "හදිසි: ඇමතුම 911"
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "ඔයා තනියම නෙවෙයි"
     },
     "crisis.call988": {
       "en": "Call 988",
       "draft": "ඇමතුම 988"
     },
-    "crisis.close": {
-      "en": "Close",
-      "draft": "සමීපව"
-    },
     "crisis.text988": {
       "en": "Text 988",
       "draft": "පණිවිඩය 988"
     },
-    "crisis.title": {
-      "en": "You are not alone",
-      "draft": "ඔයා තනියම නෙවෙයි"
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "හදිසි: ඇමතුම 911"
     },
-    "phase3.call211": {
-      "en": "Call 211",
-      "draft": "ඇමතුම 211"
+    "crisis.close": {
+      "en": "Close",
+      "draft": "සමීපව"
     },
-    "phase3.gigsHelp": {
-      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
-      "draft": "කෙටි දේශීය රැකියා, කොන්දේසි පරීක්ෂා කරන්න ඔයාගේ නිලධාරියා එක්ක, දුරකථන අංක කවදාවත් පෙන්වන්නේ නැහැ."
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "ඔබ තනිවම නොවේ. ඉහත අර්බුද බොත්තම සෑම විටම මෙහි ඇත  —  ඇමතුමක් හෝ කෙටි පණිවුඩයක් 988, හෝ 911 හදිසි අවස්ථාවකදී."
     },
-    "phase3.housingHelp": {
-      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
-      "draft": "ඉතුරුම් ඉලක්ක සහ නිවාස සූදානම් කිරීමේ සැලැස්මක්. Groundwork නිවාස සපයන්නේ නැත සහ සැපයුම්කරුවන් සමඟ සහයෝගයෙන් කටයුතු නොකරයි. ප් රාදේශීය උපකාර සඳහා 211 අමතන්න."
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "නීති උපකාර, ප් රතිකාර සහ සංක් රමණ."
     },
-    "phase3.paidNote": {
-      "en": "Paid plan. No price has been set yet.",
-      "draft": "ගෙවුම් සැලැස්මක්."
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "කෙටුම්පත — සමාලෝචනය සඳහා. ලිස්සා යාමකින් පසු පළමු පැය 24 සඳහා සන්සුන් පළමු පියවර සමාලෝචනය කළ පසු මෙහි පළ වේ. ඔබ තනිවම නොවේ."
     },
-    "phase3.parole": {
-      "en": "Parole navigation",
-      "draft": "මුදාහැරීමේ නාවික"
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "ඔයාගේ ලියකියවිලි සංකේතාත්මකයි. ගෙවුම් සැලැස්මේ විශේෂාංගය; තවමත් මිලක් නියම කරලා නැහැ."
     },
-    "phase3.tokensHelp": {
-      "en": "Tokens have no cash value.",
-      "draft": "ටෝකන් වලට මුදල් වටිනාකමක් නෑ."
-    },
-    "phase3.video": {
-      "en": "Video post (paid)",
-      "draft": "වීඩියෝ පෝස්ට් (ගෙවුම්)"
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "මේ අංක දැන්ම සුරකින්න. ඔබට ඕනෑම තිරයක ඉහළින් දැන් උදව් අවශ් යද යන්න තට්ටු කළ හැකිය."
     },
     "reentry.call211": {
       "en": "Call 211 for local resources",
       "draft": "දේශීය සම්පත් සඳහා 211 අමතන්න"
     },
-    "reentry.crisisStep": {
-      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
-      "draft": "මේ අංක දැන්ම සුරකින්න. ඔබට ඕනෑම තිරයක ඉහළින් දැන් උදව් අවශ් යද යන්න තට්ටු කළ හැකිය."
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "රැඳී සිටීමට ආරක්ෂිත ස්ථානයක් සොයා ගන්න (211 හෝ ප් රාදේශීය නිවාස සම්පත් අමතන්න)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "මෙම සතිය සඳහා ආහාර සොයා ගන්න (211 අමතන්න හෝ ප් රාදේශීය ආහාර ගබඩාවක්)"
     },
     "reentry.steps.step11": {
       "en": "Save 988 and 911 in your phone",
@@ -82,33 +78,37 @@
       "en": "Enroll in Medicaid, and SNAP if you need it",
       "draft": "මෙඩිකේඩ් එකට ලියාපදිංචි වෙන්න, ඒවගේම අවශ් ය වුනොත් SNAP"
     },
-    "reentry.steps.step7": {
-      "en": "Find a safe place to stay (call 211 or local housing resources)",
-      "draft": "රැඳී සිටීමට ආරක්ෂිත ස්ථානයක් සොයා ගන්න (211 හෝ ප් රාදේශීය නිවාස සම්පත් අමතන්න)"
-    },
-    "reentry.steps.step8": {
-      "en": "Find food for this week (call 211 or a local food pantry)",
-      "draft": "මෙම සතිය සඳහා ආහාර සොයා ගන්න (211 අමතන්න හෝ ප් රාදේශීය ආහාර ගබඩාවක්)"
-    },
-    "safety.relapseDraft": {
-      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
-      "draft": ""
-    },
-    "safety.vaultHelp": {
-      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
-      "draft": "ඔයාගේ ලියකියවිලි සංකේතාත්මකයි. ගෙවුම් සැලැස්මේ විශේෂාංගය; තවමත් මිලක් නියම කරලා නැහැ."
-    },
-    "support.resourcesNote": {
-      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
-      "draft": "නීති උපකාර, ප් රතිකාර සහ සංක් රමණ."
-    },
-    "wellbeing.roughHelp": {
-      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
-      "draft": "ඔබ තනිවම නොවේ. ඉහත අර්බුද බොත්තම සෑම විටම මෙහි ඇත  ⁇  ඇමතුමක් හෝ කෙටි පණිවුඩයක් 988, හෝ 911 හදිසි අවස්ථාවකදී."
-    },
     "work.paroleNote": {
       "en": "Check your parole or probation conditions with your officer before applying.",
       "draft": "ඔයාගේ කොන්දේසි පරීක්ෂා කරන්න ඔයාගේ නිලධාරියා එක්ක ඉල්ලුම් කරන්න කලින්."
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "කෙටි දේශීය රැකියා, කොන්දේසි පරීක්ෂා කරන්න ඔයාගේ නිලධාරියා එක්ක, දුරකථන අංක කවදාවත් පෙන්වන්නේ නැහැ."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "මුදාහැරීමේ නාවික"
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "ගෙවුම් සැලැස්මක්."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "වීඩියෝ පෝස්ට් (ගෙවුම්)"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "ටෝකන් වලට මුදල් වටිනාකමක් නෑ."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "ඉතුරුම් ඉලක්ක සහ නිවාස සූදානම් කිරීමේ සැලැස්මක්. Groundwork නිවාස සපයන්නේ නැත සහ සැපයුම්කරුවන් සමඟ සහයෝගයෙන් කටයුතු නොකරයි. ප් රාදේශීය උපකාර සඳහා 211 අමතන්න."
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "ඇමතුම 211"
     }
   }
 }
