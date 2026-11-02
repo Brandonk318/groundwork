@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "zu",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/zu/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Ngidinga usizo manje"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Isimo esiphuthumayo: shayela 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "Ukushaya 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Vala"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Umbhalo 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Awuwedwa"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Ukushaya 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Imisebenzi emfushane yasendaweni, hlola izimo ze-parole nesikhulu sakho, izinombolo zocingo aziboniswa."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Imigomo yokonga kanye nohlelo lokulungela izindlu. Groundwork ayinikezi izindlu futhi ayihlanganyeli nabahlinzeki. Ukuze uthole usizo lwasendaweni, shayela 211."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Uhlelo olukhokhelwayo. Akukho ntengo ebekiwe okwamanje."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Ukuzulazula ngeParole"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Amathokheni awananani lemali."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "I-video post (ekhokhelwayo)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "Ucingo 211 lwezinsiza zasendaweni"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Gcina lezi zinombolo manje. Ungaphinde uthinte Udinga usizo manje phezulu kunoma isiphi isikrini."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "Gcina u-988 no-911 ocingweni lwakho"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Bhala zonke izinsuku zokuqulwa kwecala nekhalenda"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Hlola izinhlawulo zakho, izimali kanye nokubuyiselwa kwemali"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Bhalisa ku-Medicaid, futhi u-SNAP uma uyidinga"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Thola indawo ephephile ongahlala kuyo (shayela 211 noma izinsiza zokuhlala zendawo)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Thola ukudla kwaleli sonto (shayela u-211 noma usebenzise i-food pantry yasendaweni)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Umklamo  ⁇  wokubuyekezwa. Izinyathelo zokuqala ezizohlala isikhathi esingangamahora angu-24 ngemva kokwehla kuzovela lapha uma usubuyekeziwe. Awuwedwa."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Imibhalo yakho ibethelwe. Isici sepulani elikhokhelwayo; ayikho intengo ebekiwe okwamanje."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Lolu hlu aluhlanganisi ukudla noma indawo yokuhlala."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Akuwena wedwa. Inkinobho yezimo ezibucayi engenhla ihlale ilapha  ⁇  shayela noma uthumele umyalezo u-988, noma u-911 esimweni esiphuthumayo."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Qiniseka ukuthi uhlola izimo zakho ze-parole noma ze-probation nesikhulu sakho ngaphambi kokufaka isicelo."
+    }
+  }
+}
