@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "yo",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/yo/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Mo nílò ìrànlọ́wọ́ nísinsìnyí"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Ìrànjú pàjáwìrì: pe 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "Ìró 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Tẹlé"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Àkọlé 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Kì í ṣe ìwọ nìkan lo wà"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Ìró 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Àwọn òṣìṣẹ́ àdúgbò máa ń ṣàyẹ̀wò ohun tó ń ṣẹlẹ̀ nígbà tí wọ́n bá dá wọn láre, wọn kì í sì í fi nọ́ńbà fóònù wọn hàn."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Àfojúsùn ìpamọ́ àti ètò ìmúratán ilé. Groundwork kò pèsè ilé, kò sì ṣe àjọṣepọ̀ pẹ̀lú àwọn olùpèsè ilé. fún ìrànlọ́wọ́ ládùúgbò, pe 211."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "A ò tíì pinnu iye tí wọ́n máa san fún wa."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Ìtòlẹ́sẹẹsẹ ìtòlẹ́sẹẹsẹ ìfòfindè"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Àwọn àmì náà kò ní iye owó kankan."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Àkọlé fídíò (ìsanwó)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "Ìkésíni 211 fún àwọn ohun èlò àdúgbò"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "O tún lè tẹ Ìrànlọ́wọ́ nísinsìnyí ní orí iboju èyíkéyìí."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "Fi 988 àti 911 sínú fóònù rẹ"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Fi gbogbo ọjọ́ tí wọ́n máa ṣe ẹjọ́ àti àkókò tí wọ́n máa gbà wọlé sínú kàlẹ́ńdà kan"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Ṣàkíyèsí owó ìtanràn, owó ìtanràn àti owó ìtanràn rẹ"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Ṣe ìforúkọsílẹ̀ fún ètò ìṣègùn, kó o sì gba ìtọ́jú tó o nílò"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Wá ibi ààbò kan láti dúró sí (pe 211 tàbí ibi ìtìlẹ́yìn ilé ládùúgbò)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Wá oúnjẹ fún ọ̀sẹ̀ yìí (pe 211 tàbí ilé oúnjẹ àdúgbò)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Àkọlé ìwé  ⁇  fún àtúnyẹ̀wò. Àwọn ìgbésẹ̀ àkọ́kọ́ tó yẹ kó o gbé fún wákàtí mẹ́rìnlélógún àkọ́kọ́ lẹ́yìn tó o bá ti ṣe àtúnyẹ̀wò."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Àwọn àkọsílẹ̀ rẹ ti wà ní ìkọ̀kọ̀. Ohun èlò ìforúkọsílẹ̀ tí a sanwó fún; a kò tíì gbé iye kan kalẹ̀."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Ìrànlọ́wọ́ òfin, ìtọ́jú àti ìrìnàjò."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Ìwọ nìkan kọ́ ni o wà nídìí ọ̀rọ̀ náà. Ojú-ìwòsàn tó wà lókè yìí máa ń wà nídìí ọ̀rọ̀ náà  ⁇  pe 988 tàbí kí o fi ọ̀rọ̀ ránṣẹ́ sí 911 nígbà pàjáwìrì."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Wá àyẹ̀wò àwọn ohun tó o lè ṣe kó o tó ṣe bẹ́ẹ̀ lọ́dọ̀ òṣìṣẹ́ rẹ."
+    }
+  }
+}

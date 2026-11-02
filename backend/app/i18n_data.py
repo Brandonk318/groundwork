@@ -36,4 +36,5 @@ LANGS_DATA = [
  {"code":"th","label":"ไทย","dir":"ltr"},
  {"code":"he","label":"עברית","dir":"rtl"},
  {"code":"hy","label":"Հայերեն","dir":"ltr"},
+ {"code":"yo","label":"Yorùbá","dir":"ltr"},
 ]
