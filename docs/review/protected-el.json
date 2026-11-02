@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "el",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/el/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Χρειάζομαι βοήθεια τώρα"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Έκτακτη ανάγκη: κλήση 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "Καλέστε 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Κλείσε"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Γράμμα 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Δεν είσαι μόνος"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Καλέστε 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Ελέγξτε τους όρους αναστολής με τον αστυνομικό σας."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": ""
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Δεν έχει καθοριστεί ακόμα τιμή."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Ναυσιπλοΐα αναστολής"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Οι μάρκες δεν έχουν χρηματική αξία."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Βίντεο (πληρωμένο)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "Κλήση 211 για τοπικούς πόρους"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Μπορείτε επίσης να πατήσετε Χρειάζομαι βοήθεια τώρα στην κορυφή οποιασδήποτε οθόνης."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "Αποθηκεύστε το 988 και το 911 στο τηλέφωνό σας"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Βάλτε κάθε ημερομηνία δικαστηρίου και check-in σε ένα ημερολόγιο"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Ελέγξτε τα πρόστιμα, τα τέλη και την επιστροφή"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Εγγραφείτε στο Medicaid, και SNAP αν το χρειάζεστε"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Βρείτε ένα ασφαλές μέρος για να μείνετε (καλέστε 211 ή τοπικούς πόρους στέγασης)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Βρείτε τρόφιμα για αυτή την εβδομάδα (καλέστε 211 ή μια τοπική αποθήκη τροφίμων)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Ηρεμήστε τα πρώτα βήματα για τις πρώτες 24 ώρες μετά από μια διατριβή θα εμφανιστεί εδώ μόλις αναθεωρηθεί."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Τα έγγραφά σας είναι κρυπτογραφημένα."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Ο κατάλογος αυτός δεν περιλαμβάνει τρόφιμα ή στέγαση."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Το κουμπί κρίσης παραπάνω είναι πάντα εδώ  ⁇  καλέστε ή στείλτε μήνυμα 988, ή 911 σε περίπτωση έκτακτης ανάγκης."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Ελέγξτε τους όρους της αναστολής ή της αναστολής σας με τον αξιωματικό σας πριν υποβάλετε αίτηση."
+    }
+  }
+}
