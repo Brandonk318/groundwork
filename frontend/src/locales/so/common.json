@@ -80,7 +80,7 @@
     "wipeHelp": "Tani waxay si dhab ah u tirtirtaa xogtaada lamana noqon karo.",
     "wipeConfirm": "Waan fahmay tani inay si dhab ah u tirtirto xogtayda.",
     "wipeButton": "Tirtir xogtayda",
-    "wiped": "Xogtaada waa la tiray."
+    "wiped": "Xogtaada waa la tirtirtay."
   },
   "reentry": {
     "checklistTitle": "Liiska dib-u-noqoshada",
@@ -202,7 +202,7 @@
     "skills": "Xirfado (koma la kala saar)",
     "buildResume": "Samee resume",
     "interviewTitle": "Tababaraha waraysiga",
-    "interviewHelp": "Ku celceli jawaabaha. Tababaruhu wuxuu ku siin dhibco iyo talo.",
+    "interviewHelp": "Ku celceli jawaabaha. Tababaruhu wuxuu ku siiyaa dhibco iyo talo.",
     "answer": "Jawaabtaada",
     "score": "Qiimee jawaabtayda",
     "gigsTitle": "Shaqooyin yaryar",
@@ -251,7 +251,7 @@
     "qaHelp": "Weydii qarsoodi. Xubnaha hore u socday ayaa ka jawaaba.",
     "ask": "Weydii qarsoodi",
     "answerBtn": "Ka jawaab",
-    "tokensTitle": "Calamadaha",
+    "tokensTitle": "Calaamadaha",
     "tokensHelp": "Tokens have no cash value.",
     "earn": "Hel 10 calaamadood",
     "balance": "Haraaga",
@@ -288,7 +288,7 @@
     "groupsKind": "Nooca",
     "groupsTime": "Waqtiga kulanka",
     "rideFallbackTitle": "Baabuur u baahanahay (keyd)",
-    "rideFallbackHelp": "Waxa la tusa oo keliya marka cidna boodhka carpool-ka aan kulankaaga aadeyn. Waxay dhejisaa codsi la dhexdhexaadiyay oo app-ka ah — heer magaalada oo keliya, telefoon ma jiro.",
+    "rideFallbackHelp": "Waxa la tusaa oo keliya marka cidna boodhka carpool-ka aan kulankaaga aadeyn. Waxay dhejisaa codsi la dhexdhexaadiyay oo app-ka ah — heer magaalada oo keliya, telefoon ma jiro.",
     "noCarpoolMatch": "Kulankan carpool ma leh, sidaa darteed Baabuur u baahanahay ayaa keyd ahaan u muuqata.",
     "familyRideTitle": "Xiriirada baabuurta qoyska",
     "familyRideHelp": "Darawallada la oggolaaday oo keliya. Ogeysiisyadu waxay u socdaan mid mid 2-daqiiqo sugitaan ah; waad xaqiijinaysaa intaadan tan xigta ogeysiin.",
@@ -358,6 +358,6 @@
     "markRead": "Calaamadee la akhriyay"
   },
   "translationCheck": {
-    "notice": "Fadlan dib u hubi turjumaadda si aad u xaqiijiso inay la mid tahay nuqulka Ingiriisiga."
+    "notice": "Fadlan hubi tarjumaadu inay waafaqsan tahay nooca Ingiriisiga."
   }
 }

@@ -76,10 +76,10 @@
     "safeContactsHelp": "Weka mdhamini wako au mawasiliano salama umbali wa mguso mmoja.",
     "vaultTitle": "Sanduku la hati",
     "vaultHelp": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
-    "wipeTitle": "Futa data zangu",
+    "wipeTitle": "Futa data yangu",
     "wipeHelp": "Hii inafuta data yako kweli wala hairudishwi.",
     "wipeConfirm": "Naelewa hii inafuta data yangu kweli.",
-    "wipeButton": "Futa data zangu",
+    "wipeButton": "Futa data yangu",
     "wiped": "Data yako imefutwa."
   },
   "reentry": {
@@ -174,7 +174,7 @@
     "portfolioPrivate": "Ya faragha kwa chaguo-msingi. Shiriki unapoamua tu."
   },
   "venue": {
-    "placeholder": "Sehemu ya muda — chumba kijivu. Hakuna picha halisi za ukumbi zilizotolewa; huu si ukumbi halisi."
+    "placeholder": "Sehemu ya muda — chumba kijivu. Hakuna picha halisi za ukumbi; huu si ukumbi halisi."
   },
   "family": {
     "help": "Familia inaona tu unachochagua kushiriki.",
@@ -281,7 +281,7 @@
     "carpoolNote": "Ujumbe (hiari)",
     "carpoolJoin": "Niingize kwenye bodi",
     "carpoolLeave": "Niondoe",
-    "carpoolMatches": "watu wanaelekea huko",
+    "carpoolMatches": "Watu wanaelekea huko",
     "groupsTitle2": "Saraka ya vikundi vya jumuiya",
     "groupsHelp": "Vikundi vya uponaji, kurejea, imani na jumuiya kwa jiji na wakati wa mkutano. Data ya sampuli tu — si orodha halisi.",
     "sampleBadge": "Sampuli",
@@ -358,6 +358,6 @@
     "markRead": "Weka alama imesomwa"
   },
   "translationCheck": {
-    "notice": "Tafadhali hakiki tafsiri ili kuhakikisha inalingana na toleo la Kiingereza."
+    "notice": "Angalia tafsiri tena uhakikishe inalingana na Kiingereza."
   }
 }
