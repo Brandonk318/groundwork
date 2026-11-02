@@ -11,9 +11,9 @@ describe("translation safeguard", () => {
     await act(() => i18n.changeLanguage("en"));
   });
 
-  it("every locale has the notice; ru keeps the English string for Brann", () => {
+  it("every locale has the notice; ru is translated (Brann approved Nov 1)", () => {
     for (const lng of LANGS) expect(i18n.getResource(lng, "common", "translationCheck.notice"), lng).toBeTruthy();
-    expect(ru.translationCheck.notice).toBe(en.translationCheck.notice);
+    expect(ru.translationCheck.notice).not.toBe(en.translationCheck.notice);
   });
 
   it("is hidden in English", () => {

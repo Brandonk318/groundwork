@@ -1,0 +1,110 @@
+{
+  "_meta": {
+    "lang": "ru",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/ru/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Нужна помощь сейчас же ."
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Вы не одиноки"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": ""
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Текст 988"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": ""
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Закрой ."
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "В течение первых 24 часов после просмотра вы увидите, что вы не одиноки."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": ""
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "Сохранить 988 и 911 в телефоне"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": ""
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": ""
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": ""
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": ""
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Зарегистрируйтесь на Medicaid, и SNAP, если вам это нужно"
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Юридическая помощь, лечение и транзит."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Ваши документы зашифрованы. Платный план; цена еще не установлена."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Платный план, цена пока не установлена."
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Токены не имеют денежной стоимости."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Видеопост (платный)"
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Проверьте условия вашего условно-досрочного или условно-досрочного освобождения с вашим офицером перед подачей заявления."
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Проверьте условия досрочного освобождения с вашим офицером."
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Положите все даты суда и регистрации в календаре"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Проверьте штрафы, сборы и возмещение"
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Навигация по условно-досрочному освобождению"
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": ""
+    }
+  }
+}
