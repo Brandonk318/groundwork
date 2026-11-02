@@ -10,61 +10,57 @@
       "en": "Need help now",
       "draft": "Vajag palīdzību"
     },
-    "crisis.call911": {
-      "en": "Emergency: call 911",
-      "draft": "Steidzamība: zvanīt 911"
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Jūs neesat vieni"
     },
     "crisis.call988": {
       "en": "Call 988",
       "draft": "Zvanīt 988"
     },
-    "crisis.close": {
-      "en": "Close",
-      "draft": "Aizveriet"
-    },
     "crisis.text988": {
       "en": "Text 988",
       "draft": "Teksts 988"
     },
-    "crisis.title": {
-      "en": "You are not alone",
-      "draft": "Jūs neesat vieni"
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Steidzamība: zvanīt 911"
     },
-    "phase3.call211": {
-      "en": "Call 211",
-      "draft": "Zvanīt 211"
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Aizveriet"
     },
-    "phase3.gigsHelp": {
-      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
-      "draft": "Pārbaudiet nosacījumus ar savu virsnieku."
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Jūs neesat vieni. Krizes atslēga augšā vienmēr ir šeit  —  zvanīt vai sms 988, vai 911 ārkārtas gadījumā."
     },
-    "phase3.housingHelp": {
-      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
-      "draft": ""
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Juridiskā palīdzība, ārstēšana un tranzīts."
     },
-    "phase3.paidNote": {
-      "en": "Paid plan. No price has been set yet.",
-      "draft": "Maksāts plāns, cena vēl nav noteikta."
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Šķīrējtiesas priekšlikums  —  pārskatīšanai."
     },
-    "phase3.parole": {
-      "en": "Parole navigation",
-      "draft": "Atbalsta navigācija"
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Jūsu dokumenti ir šifrēti. Maksāts plāns; cena vēl nav noteikta."
     },
-    "phase3.tokensHelp": {
-      "en": "Tokens have no cash value.",
-      "draft": "Tokeniem nav naudas vērtības."
-    },
-    "phase3.video": {
-      "en": "Video post (paid)",
-      "draft": "Video ieraksts (maksāts)"
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Tagad saglabājiet šos numurus. Jūs varat arī piespiest Vajag palīdzību tagad jebkura ekrāna augšpusē."
     },
     "reentry.call211": {
       "en": "Call 211 for local resources",
       "draft": "Zvanīt 211 vietējiem resursiem"
     },
-    "reentry.crisisStep": {
-      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
-      "draft": "Tagad saglabājiet šos numurus. Jūs varat arī piespiest Vajag palīdzību tagad jebkura ekrāna augšpusē."
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Ievērojot drošu atrašanās vietu (sauc 211 vai vietējos mājokļu resursus)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Ievērojot šīs nedēļas pārtiku (saucot 211 vai vietējo pārtikas noliktavu)"
     },
     "reentry.steps.step11": {
       "en": "Save 988 and 911 in your phone",
@@ -82,33 +78,37 @@
       "en": "Enroll in Medicaid, and SNAP if you need it",
       "draft": "Pieteikties Medicaid, un SNAP, ja jums to vajag"
     },
-    "reentry.steps.step7": {
-      "en": "Find a safe place to stay (call 211 or local housing resources)",
-      "draft": "Ievērojot drošu atrašanās vietu (sauc 211 vai vietējos mājokļu resursus)"
-    },
-    "reentry.steps.step8": {
-      "en": "Find food for this week (call 211 or a local food pantry)",
-      "draft": "Ievērojot šīs nedēļas pārtiku (saucot 211 vai vietējo pārtikas noliktavu)"
-    },
-    "safety.relapseDraft": {
-      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
-      "draft": "Šķīrējtiesas priekšlikums  ⁇  pārskatīšanai."
-    },
-    "safety.vaultHelp": {
-      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
-      "draft": "Jūsu dokumenti ir šifrēti. Maksāts plāns; cena vēl nav noteikta."
-    },
-    "support.resourcesNote": {
-      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
-      "draft": "Juridiskā palīdzība, ārstēšana un tranzīts."
-    },
-    "wellbeing.roughHelp": {
-      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
-      "draft": "Jūs neesat vieni. Krizes atslēga augšā vienmēr ir šeit  ⁇  zvanīt vai sms 988, vai 911 ārkārtas gadījumā."
-    },
     "work.paroleNote": {
       "en": "Check your parole or probation conditions with your officer before applying.",
       "draft": "Pirms pieteikšanās pārbaudiet nosacījumus."
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Pārbaudiet nosacījumus ar savu virsnieku."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Atbalsta navigācija"
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Maksāts plāns, cena vēl nav noteikta."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Video ieraksts (maksāts)"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Tokeniem nav naudas vērtības."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Uzkrājumu mērķi un gatavības mājoklim plāns. Groundwork nenodrošina mājokli un nesadarbojas ar pakalpojumu sniedzējiem. Pēc vietējās palīdzības zvani 211."
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Zvanīt 211"
     }
   }
 }
