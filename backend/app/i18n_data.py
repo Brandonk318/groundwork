@@ -48,4 +48,5 @@ LANGS_DATA = [
  {"code":"hr","label":"Hrvatski","dir":"ltr"},
  {"code":"bs","label":"Bosanski","dir":"ltr"},
  {"code":"ti","label":"ትግርኛ","dir":"ltr"},
+ {"code":"om","label":"Afaan Oromoo","dir":"ltr"},
 ]
