@@ -55,4 +55,5 @@ LANGS_DATA = [
  {"code":"ilo","label":"Ilokano","dir":"ltr"},
  {"code":"ceb","label":"Cebuano","dir":"ltr"},
  {"code":"sm","label":"Gagana Sāmoa","dir":"ltr"},
+ {"code":"jv","label":"Basa Jawa","dir":"ltr"},
 ]
