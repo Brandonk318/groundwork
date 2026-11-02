@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "lo",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/lo/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "ຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃນທັນທີນີ້"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "ສຸກເສີນ: ໂທ 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "ໂທ 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "ປິດ"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "ຂໍ້ຄວາມ 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "ທ່ານບໍ່ຢູ່ຄົນດຽວ"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "ໂທ 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "ວຽກງານທ້ອງຖິ່ນສັ້ນໆ ກວດສອບເງື່ອນໄຂການຄວບຄຸມກັບເຈົ້າຫນ້າທີ່ຂອງທ່ານ ເລກໂທລະສັບບໍ່ເຄີຍສະແດງ"
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "ເປົ້າ ຫມາຍ ການປະຢັດບວກກັບແຜນການກຽມພ້ອມ ສໍາ ລັບເຮືອນ. Groundwork ບໍ່ສະ ຫນອງ ເຮືອນແລະບໍ່ຮ່ວມມືກັບຜູ້ໃຫ້ບໍລິການ. ສໍາ ລັບຄວາມຊ່ວຍເຫຼືອໃນທ້ອງຖິ່ນ, ໂທຫາ 211."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "ແຜນການຈ່າຍເງິນ ບໍ່ມີລາຄາທີ່ກໍານົດໄວ້ເທື່ອ"
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "ການ ນໍາ ທາງການປ່ອຍຕົວ"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "token ບໍ່ມີມູນຄ່າເງິນສົດ"
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "ວີດີໂອໂພສ (ຈ່າຍ)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "ການຮຽກຮ້ອງ 211 ສໍາລັບຊັບພະຍາກອນທ້ອງຖິ່ນ"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "ບັນທຶກຕົວເລກນີ້ໃນປັດຈຸບັນ. ທ່ານຍັງສາມາດກົດປຸ່ມ ຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃນປັດຈຸບັນຢູ່ເທິງສຸດຂອງ ຫນ້າ ຈໍໃດໆ."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "ຮັກສາ 988 ແລະ 911 ໃນໂທລະສັບຂອງທ່ານ"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "ວາງແຕ່ລະວັນການດໍາເນີນຄະດີ ແລະ ກວດສອບໃນປະຕິທິນ"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "ກວດເບິ່ງຄ່າປັບໃຫມ, ຄ່າທໍານຽມ ແລະ ຄ່າຊົດເຊີຍຂອງທ່ານ"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "ຈົດທະບຽນເຂົ້າໃນ Medicaid ແລະ SNAP ຖ້າເຈົ້າຕ້ອງການ"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "ຊອກຫາບ່ອນທີ່ປອດໄພທີ່ຈະພັກເຊົາ (ໂທ 211 ຫຼືຊັບພະຍາກອນທີ່ຢູ່ອາໄສໃນທ້ອງຖິ່ນ)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "ຊອກຫາອາຫານສໍາລັບອາທິດນີ້ (ໂທຫາ 211 ຫຼືຮ້ານອາຫານໃນທ້ອງຖິ່ນ)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "ຮ່າງ  ⁇  ສໍາ ລັບການທົບທວນ. ກ້າວ ທໍາ ອິດທີ່ສະຫງົບ ສໍາ ລັບ 24 ຊົ່ວໂມງ ທໍາ ອິດຫຼັງຈາກການລົ້ມເຫຼວຈະປາກົດຢູ່ບ່ອນນີ້ເມື່ອມີການທົບທວນຄືນ. ທ່ານບໍ່ແມ່ນຄົນດຽວ."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "ເອກະສານຂອງທ່ານຖືກເຂົ້າລະຫັດ. ຄຸນສົມບັດແຜນທີ່ຈ່າຍ; ບໍ່ມີລາຄາທີ່ກໍານົດໄວ້ເທື່ອ."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "ການຊ່ວຍເຫຼືອທາງດ້ານກົດຫມາຍ, ການປິ່ນປົວ ແລະ ການຜ່ານແດນ."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "ທ່ານບໍ່ຢູ່ຄົນດຽວ. ປຸ່ມວິກິດການຂ້າງເທິງແມ່ນຢູ່ສະ ເຫມີ  ⁇  ໂທຫາຫຼືຂໍ້ຄວາມ 988, ຫຼື 911 ໃນກໍລະນີສຸກເສີນ."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "ກວດສອບເງື່ອນໄຂການຄວບຄຸມຕົວ ຫຼື ການຄວບຄຸມຕົວຂອງທ່ານ ກັບເຈົ້າຫນ້າທີ່ຂອງທ່ານ ກ່ອນທີ່ຈະສະຫມັກ."
+    }
+  }
+}

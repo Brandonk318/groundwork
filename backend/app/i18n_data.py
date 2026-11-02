@@ -51,4 +51,5 @@ LANGS_DATA = [
  {"code":"om","label":"Afaan Oromoo","dir":"ltr"},
  {"code":"ha","label":"Hausa","dir":"ltr"},
  {"code":"zu","label":"isiZulu","dir":"ltr"},
+ {"code":"lo","label":"ລາວ","dir":"ltr"},
 ]
