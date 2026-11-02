@@ -58,4 +58,5 @@ LANGS_DATA = [
  {"code":"jv","label":"Basa Jawa","dir":"ltr"},
  {"code":"tw","label":"Twi","dir":"ltr"},
  {"code":"rw","label":"Kinyarwanda","dir":"ltr"},
+ {"code":"ps","label":"پښتو","dir":"rtl"},
 ]

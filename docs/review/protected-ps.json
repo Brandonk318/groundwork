@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "ps",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/ps/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "همدا اوس مرستې ته اړتیا لرم"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "بیړنی حالت: 911 ته زنګ ووهئ"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "988 ته زنګ ووهئ"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "نږدې"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "متن 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "تاسو یوازې نه یاست"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "211 ته زنګ ووهئ"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "لنډې سیمه ییزې دندې. د خپل افسر سره د مشروط شرایط وڅیړئ. د تلیفون شمیرې هیڅکله نه ښودل کیږي."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "د سپما موخې او د استوګنې چمتو کولو پلان. Groundwork د استوګنې چمتو کول نه کوي او د چمتو کونکو سره همکاري نه کوي. د ځایی مرستې لپاره ، 211 ته زنګ ووهئ."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "تادیه شوی پلان. تراوسه قیمت نه دی ټاکل شوی."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "د مشروطیت نیویګیشن"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "ټوکن د پیسو ارزښت نه لري."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "د ویډیو پوسټ (پاره)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "د محلي سرچینو لپاره 211 زنګ ووهئ"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "دا شمېرې اوس خوندي کړئ. تاسو کولی شئ د هرې سکرین په پورتنۍ برخه کې هم مرستې ته اړتیا وټاکئ."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "خپل تلیفون کې 988 او 911 خوندي کړئ"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "په تقویم کې د محاکمې هره نېټه او چیک ان ولیکئ"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "خپل جریمې، فیسونه او تاوانونه وګورئ"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "په میډیکایډ کې نوم لیکنه وکړئ، او SNAP که تاسو ورته اړتیا لرئ"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "د استوګنې لپاره خوندي ځای ومومئ (211 یا د استوګنې ځایی سرچینو ته زنګ ووهئ)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "د دې اونۍ لپاره خواړه ومومئ (211 ته زنګ ووهئ یا د ځایی خواړو پانتري)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "مسوده  ⁇  د بیاکتنې لپاره. د لومړي 24 ساعتونو لپاره آرام لومړني ګامونه وروسته له هغه چې یو سلیپ به دلته د بیاکتنې وروسته راشي. تاسو یوازې نه یاست."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "ستاسو اسناد کوډ شوي دي. د تادیه شوي پلان ب featureه؛ لاهم نرخ نه دی ټاکل شوی."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "حقوقي مرسته، درملنه او ترانزیټ. دا لارښود خواړه یا استوګنه نه پوښي."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "تاسو یوازې نه یاست. د بحران ت buttonۍ پورته تل دلته ده  ⁇  په اضطراري حالت کې 988 ته زنګ ووهئ یا پیغام ورکړئ ، یا 911."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "مخکې له دې چې غوښتنلیک ورکړئ، خپل افسر سره د خپل مشروط یا محاکمې شرایط وڅیړئ."
+    }
+  }
+}
