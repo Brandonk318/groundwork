@@ -70,4 +70,5 @@ LANGS_DATA = [
  {"code":"no","label":"Norsk","dir":"ltr"},
  {"code":"lt","label":"Lietuvių","dir":"ltr"},
  {"code":"lv","label":"Latviešu","dir":"ltr"},
+ {"code":"et","label":"Eesti","dir":"ltr"},
 ]
