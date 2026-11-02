@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "ku",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/ku/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Niha alîkarî lazim e"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Rewşa awarte: banga 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "Telefon 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Girtî"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Text 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Tu bi tenê nîne"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Telefon 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Xebatên herêmî yên kurt, şert û mercên serbestberdanê bi polîsê xwe re kontrol bikin, hejmara telefonê tu caran nayê nîşandan."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Armancên lêborînê û planeke amadebûna xanî. Groundwork xanî peyda nake û bi dabînkeran re hevkarî nake. Ji bo alîkariya herêmî, bi telefonê 211."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Plana pereyî. Hîn nirx nehatiye diyarkirin."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Navîgasyona Parolê"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Token bê nirxa diravî ne."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Video post (bi pere)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "Ji bo çavkaniyên herêmî banga 211"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Hûn dikarin li jorê her ekranê pêdivî bi alîkariyê jî bitikînin."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "988 û 911 di telefona xwe de biparêzin"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Her roja dadgehê û serlêdanê li ser rojnameyekê binivîse"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Cezayê te, mûçeyên te û lêborînê kontrol bike"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Di Medicaidê de binivîse, û eger hewceyî wê be, SNAP"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Ciheke ewle ji bo dimînin bibînin (bi telefonê 211 an çavkaniyên xanî yên herêmî)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Xwarin ji bo vê hefteyê bibînin (bi telefonê 211 an xwarina xwarinê ya herêmî)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Pêşniyar  ⁇  ji bo nirxandinê. gavên pêşî yên aram ji bo 24 saetên pêşî piştî ku ji ber ku ji bo nirxandinê dê li vir xuya bibe."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Belgeyên te şîfrkirî ne. Plana pereyî heye; hêj nirx nehatiye diyarkirin."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Alîkariya hiqûqî, dermankirin û veguhastin."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Tu bi tenê nîne. Bişkoka krîzê li jor her dem li vir e  ⁇  di rewşeke awarte de telefon an text 988, an 911."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Berî ku hûn serlêdanê bikin, şert û mercên şert û mercên şert û mercê xwe bi efserê xwe re binirxînin."
+    }
+  }
+}
