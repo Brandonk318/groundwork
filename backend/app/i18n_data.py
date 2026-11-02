@@ -20,4 +20,5 @@ LANGS_DATA = [
  {"code":"my","label":"မြန်မာ","dir":"ltr"},
  {"code":"ne","label":"नेपाली","dir":"ltr"},
  {"code":"sw","label":"Kiswahili","dir":"ltr"},
+ {"code":"te","label":"తెలుగు","dir":"ltr"},
 ]
