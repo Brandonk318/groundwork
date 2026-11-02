@@ -1,0 +1,115 @@
+{
+  "_meta": {
+    "lang": "prs",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/prs/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed.",
+    "market_flag": "Afghanistan; not Iran"
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "حالا به کمک نیاز دارم"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "اضطراری: تماس با 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "تماس با 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "نزدیک کردن"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "متن 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "شما تنها نیستید"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "تماس با 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "شغل های محلی کوتاه مدت. شرایط مشروطیت را با افسر خود بررسی کنید. شماره های تلفن هرگز نشان داده نمی شوند."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "اهداف صرفه جویی به علاوه یک برنامه آماده سازی مسکن. Groundwork مسکن ارائه نمی دهد و با ارائه دهندگان همکاری نمی کند. برای کمک محلی، به 211 تماس بگیرید."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "نقشه پرداخت شده هنوز هیچ قیمت مشخص نشده"
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "نیویگیشن مشروطیت"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "توکن ها ارزش نقدی ندارند."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "پست های ویدیویی (پرداخت شده)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "تماس با 211 برای منابع محلی"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "حالا این شماره ها را ذخیره کنید. شما همچنین می توانید در بالای هر صفحه به کمک نیاز داشته باشید را بزنید."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "988 و 911 را در گوشی خود ذخیره کنید"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "تمام تاریخ های دادگاه و ثبت نام ها را در تقویم قرار دهید"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "جریمه ها، هزینه ها و بازپرداخت های خود را بررسی کنید"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "ثبت نام در Medicaid، و SNAP اگر به آن نیاز دارید"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "یک مکان امن برای اقامت پیدا کنید (به 211 یا منابع مسکن محلی تماس بگیرید)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "غذا برای این هفته را پیدا کنید (به 211 یا یک انبار غذا محلی تماس بگیرید)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "پیش نویس  ⁇  برای بررسی. اولین گام های آرام برای ۲۴ ساعت اول پس از یک لغزش یک بار بررسی شده در اینجا ظاهر می شود. شما تنها نیستید."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "اسناد شما رمزگذاری شده است. ویژگی برنامه پرداخت شده؛ قیمت هنوز تعیین نشده است."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "کمک های حقوقی، درمان و ترانزیت. این دایرکتوری شامل غذا و مسکن نمی شود."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "شما تنها نیستید. دکمه بحران بالا همیشه اینجاست  ⁇  تماس یا پیام 988، یا 911 در شرایط اضطراری."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "قبل از درخواست شرایط مشروطیت یا مشروطیت خود را با افسر خود بررسی کنید."
+    }
+  }
+}
