@@ -36,8 +36,8 @@ describe("shell", () => {
 });
 
 describe("i18n", () => {
-  it("has the 21 locales", () => {
-    expect(LANGS).toEqual(["en", "es", "fr", "hi", "vi", "ar", "tl", "ht", "zh", "ko", "pt", "ru", "so", "ur", "bn", "pa", "fa", "am", "my", "ne", "sw"]);
+  it("keeps the original 21 locales first", () => {
+    expect(LANGS.slice(0, 21)).toEqual(["en", "es", "fr", "hi", "vi", "ar", "tl", "ht", "zh", "ko", "pt", "ru", "so", "ur", "bn", "pa", "fa", "am", "my", "ne", "sw"]);
   });
 
   it("Arabic is RTL and stubbed locales fall back to English", async () => {

@@ -129,7 +129,7 @@ def test_safe_contacts_and_wipe_lock_exempt(client):
 def test_platform_and_venue(client):
     assert client.get("/api/platform/read_aloud").json()["enabled"] is True
     langs = client.get("/api/platform/multi_language").json()
-    assert langs["count"] == 21 and set(langs["rtl"]) == {"ar", "ur", "fa"}
+    assert langs["count"] == 90 and set(langs["rtl"]) == {"ar", "ur", "fa", "he", "ps", "prs", "yi"}
     v = client.get("/api/venue/virtual_venue").json()["venue"]
     assert v["placeholder"] is True and "not the real space" in v["label"]
 

@@ -22,7 +22,7 @@ import my from "../locales/my/common.json";
 import ne from "../locales/ne/common.json";
 import sw from "../locales/sw/common.json";
 
-const ALL = { es, fr, hi, vi, ar, tl, ht, zh, ko, pt, ru, so, ur, bn, pa, fa, am, my, ne, sw };
+const ALL = Object.fromEntries(Object.entries(import.meta.glob("../locales/*/common.json", { eager: true, import: "default" })).map(([p, m]) => [p.split("/")[2], m]).filter(([k]) => k !== "en"));
 
 function keysOf(obj, prefix = "") {
   return Object.entries(obj).flatMap(([k, v]) => (v && typeof v === "object" ? keysOf(v, `${prefix}${k}.`) : [`${prefix}${k}`]));
@@ -30,7 +30,7 @@ function keysOf(obj, prefix = "") {
 
 describe("21-language parity", () => {
   it("registers 21 languages with labels for the picker", () => {
-    expect(LANGS).toHaveLength(21);
+    expect(LANGS).toHaveLength(Object.keys(ALL).length + 1);
     expect(Object.keys(LANGUAGE_LABELS).sort()).toEqual([...LANGS].sort());
   });
   it("every non-English locale has full key parity with en", () => {
@@ -41,9 +41,9 @@ describe("21-language parity", () => {
     }
   });
   it("RTL only for ar, ur and fa", () => {
-    expect([...RTL_LANGS].sort()).toEqual(["ar", "fa", "ur"]);
+    expect([...RTL_LANGS].sort()).toEqual(["ar", "fa", "he", "prs", "ps", "ur", "yi"]);
     for (const lng of LANGS) {
-      expect(dirFor(lng), lng).toBe(["ar", "ur", "fa"].includes(lng) ? "rtl" : "ltr");
+      expect(dirFor(lng), lng).toBe(["ar", "ur", "fa", "he", "ps", "prs", "yi"].includes(lng) ? "rtl" : "ltr");
     }
   });
   it("crisis and safety copy stays untranslated until a human reviews it (open-questions #9)", () => {
