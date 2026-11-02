@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "kn",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/kn/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "ಈಗ ಸಹಾಯ ಬೇಕು"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "ತುರ್ತು: ಕರೆ 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "ಕರೆ 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "ಮುಚ್ಚಿ"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "ಪಠ್ಯ 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "ನೀವು ಒಬ್ಬಂಟಿಯಾಗಿಲ್ಲ"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "ಕರೆ 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "ಅಲ್ಪಾವಧಿಯ ಸ್ಥಳೀಯ ಉದ್ಯೋಗಗಳು. ನಿಮ್ಮ ಅಧಿಕಾರಿಯೊಂದಿಗೆ ಪೆರೋಲ್ ನಿಯಮಗಳನ್ನು ಪರಿಶೀಲಿಸಿ. ಫೋನ್ ಸಂಖ್ಯೆಗಳನ್ನು ತೋರಿಸಲಾಗುವುದಿಲ್ಲ."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "ಉಳಿತಾಯ ಗುರಿಗಳು ಮತ್ತು ವಸತಿ ಸಿದ್ಧತೆ ಯೋಜನೆ. Groundwork ವಸತಿ ಒದಗಿಸುವುದಿಲ್ಲ ಮತ್ತು ಪೂರೈಕೆದಾರರೊಂದಿಗೆ ಪಾಲುದಾರಿಕೆ ಹೊಂದಿಲ್ಲ. ಸ್ಥಳೀಯ ಸಹಾಯಕ್ಕಾಗಿ, 211 ಗೆ ಕರೆ ಮಾಡಿ."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "ಪೇಯ್ಡ್ ಪ್ಲಾನ್. ಇನ್ನೂ ಬೆಲೆ ನಿಗದಿಪಡಿಸಲಾಗಿಲ್ಲ."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "ಪೆರೋಲ್ ನ್ಯಾವಿಗೇಷನ್"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "ಟೋಕನ್ಗಳು ಹಣದ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "ವಿಡಿಯೋ ಪೋಸ್ಟ್ (ಪಾವತಿ)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "ಸ್ಥಳೀಯ ಸಂಪನ್ಮೂಲಗಳಿಗಾಗಿ ಕರೆ 211"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "ಈ ಸಂಖ್ಯೆಗಳನ್ನು ಈಗ ಉಳಿಸಿ. ನೀವು ಯಾವುದೇ ಪರದೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಈಗ ಸಹಾಯ ಬೇಕೇ ಎಂದು ಟ್ಯಾಪ್ ಮಾಡಬಹುದು."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "ನಿಮ್ಮ ಫೋನ್ನಲ್ಲಿ 988 ಮತ್ತು 911 ಅನ್ನು ಉಳಿಸಿ"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "ಪ್ರತಿ ನ್ಯಾಯಾಲಯದ ದಿನಾಂಕ ಮತ್ತು ಚೆಕ್-ಇನ್ ಅನ್ನು ಕ್ಯಾಲೆಂಡರ್ನಲ್ಲಿ ಇರಿಸಿ"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "ನಿಮ್ಮ ದಂಡ, ಶುಲ್ಕ ಮತ್ತು ಮರುಪಾವತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "ಮೆಡಿಕೈಡ್ ನಲ್ಲಿ ನೋಂದಾಯಿಸಿಕೊಳ್ಳಿ, ಮತ್ತು ನಿಮಗೆ ಅಗತ್ಯವಿದ್ದರೆ SNAP"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "ಉಳಿಯಲು ಸುರಕ್ಷಿತ ಸ್ಥಳವನ್ನು ಹುಡುಕಿ (ಕರೆ 211 ಅಥವಾ ಸ್ಥಳೀಯ ವಸತಿ ಸಂಪನ್ಮೂಲಗಳು)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "ಈ ವಾರದ ಆಹಾರವನ್ನು ಹುಡುಕಿ (ಕರೆ 211 ಅಥವಾ ಸ್ಥಳೀಯ ಆಹಾರ ಪ್ಯಾಂಟ್ರಿ)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "ಡ್ರಾಫ್ಟ್  ⁇  ಪರಿಶೀಲನೆಗಾಗಿ. ಸ್ಲಿಪ್ ನಂತರ ಮೊದಲ 24 ಗಂಟೆಗಳ ಕಾಲ ಶಾಂತ ಮೊದಲ ಹಂತಗಳು ಪರಿಶೀಲಿಸಿದ ನಂತರ ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತದೆ. ನೀವು ಒಬ್ಬಂಟಿಯಾಗಿಲ್ಲ."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "ನಿಮ್ಮ ಡಾಕ್ಯುಮೆಂಟ್ಗಳನ್ನು ಎನ್ಕ್ರಿಪ್ಟ್ ಮಾಡಲಾಗಿದೆ. ಪಾವತಿಸಿದ ಯೋಜನೆ ವೈಶಿಷ್ಟ್ಯ; ಇನ್ನೂ ಬೆಲೆ ನಿಗದಿಪಡಿಸಲಾಗಿಲ್ಲ."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "ಕಾನೂನು ನೆರವು, ಚಿಕಿತ್ಸೆ ಮತ್ತು ಸಾಗಣೆ. ಈ ಪಟ್ಟಿಯಲ್ಲಿ ಆಹಾರ ಮತ್ತು ವಸತಿ ಸೇರಿಲ್ಲ."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "ನೀವು ಒಬ್ಬರೇ ಅಲ್ಲ. ಮೇಲಿನ ಬಿಕ್ಕಟ್ಟಿನ ಬಟನ್ ಯಾವಾಗಲೂ ಇಲ್ಲಿದೆ  ⁇  ಕರೆ ಮಾಡಿ ಅಥವಾ ತುರ್ತುಸ್ಥಿತಿಯಲ್ಲಿ 988 ಅಥವಾ 911 ಅನ್ನು ಸಂದೇಶ ಮಾಡಿ."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "ಅರ್ಜಿ ಸಲ್ಲಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಪ್ರಾಯೋಗಿಕ ಅಥವಾ ಪ್ರಾಯೋಗಿಕ ಷರತ್ತುಗಳನ್ನು ನಿಮ್ಮ ಅಧಿಕಾರಿಗಳೊಂದಿಗೆ ಪರಿಶೀಲಿಸಿ."
+    }
+  }
+}
