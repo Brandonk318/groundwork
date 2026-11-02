@@ -24,4 +24,5 @@ LANGS_DATA = [
  {"code":"ja","label":"日本語","dir":"ltr"},
  {"code":"de","label":"Deutsch","dir":"ltr"},
  {"code":"gu","label":"ગુજરાતી","dir":"ltr"},
+ {"code":"ta","label":"தமிழ்","dir":"ltr"},
 ]

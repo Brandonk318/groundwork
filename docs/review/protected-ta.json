@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "ta",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/ta/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "உதவி தேவை இப்போது"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "அவசரநிலை: அழைப்பு 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "அழைப்பு 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "மூடு"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "உரை 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "நீங்கள் தனியாக இல்லை"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "அழைப்பு 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "குறுகிய உள்ளூர் வேலைகள். உங்கள் அதிகாரியுடன் நிபந்தனை விதிமுறைகளை சரிபார்க்கவும். தொலைபேசி எண்கள் காட்டப்படவில்லை."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "சேமிப்பு இலக்குகள் மற்றும் குடியிருப்பு தயார்நிலை திட்டம். Groundwork வீடுகளை வழங்காது மற்றும் வழங்குநர்களுடன் கூட்டாண்மை இல்லை. உள்ளூர் உதவிக்கு, 211-ஐ அழைக்கவும்."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "கட்டண திட்டம். விலை இன்னும் நிர்ணயிக்கப்படவில்லை."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "பரோல் வழிசெலுத்தல்"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "டோக்கன்களுக்கு பண மதிப்பு இல்லை."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "வீடியோ போஸ்ட் (பணம்)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "உள்ளூர் வளங்களுக்கான அழைப்பு 211"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "இந்த எண்களை இப்போது சேமிக்கவும். எந்தவொரு திரையின் மேலேயும் உதவி தேவை என்பதைத் தட்டவும்."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "988 மற்றும் 911 ஐ உங்கள் தொலைபேசியில் சேமிக்கவும்"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "ஒவ்வொரு நீதிமன்றத் தேதியையும் பதிவுசெய்யவும்"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "உங்கள் அபராதம், கட்டணம் மற்றும் திருப்பிச் செலுத்துதல் ஆகியவற்றை சரிபார்க்கவும்"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "மெடிக்கேட் பதிவு, மற்றும் நீங்கள் அதை தேவைப்பட்டால் SNAP"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "தங்குவதற்கு ஒரு பாதுகாப்பான இடத்தைக் கண்டறியவும் (அழைப்பு 211 அல்லது உள்ளூர் வீட்டு வளங்கள்)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "இந்த வாரத்திற்கான உணவைக் கண்டறியவும் (211 அல்லது உள்ளூர் உணவுப் பெண்டரியை அழைக்கவும்)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "பரிசீலனைக்கு  ⁇  வரைவு. ஒரு ஸ்லிப்பைப் பார்த்த பிறகு முதல் 24 மணிநேரங்களுக்கு அமைதியான முதல் படிகள் இங்கே தோன்றும். நீங்கள் தனியாக இல்லை."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "உங்கள் ஆவணங்கள் குறியாக்கம் செய்யப்பட்டுள்ளன. கட்டண திட்ட அம்சம்; விலை இன்னும் நிர்ணயிக்கப்படவில்லை."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "சட்ட உதவி, சிகிச்சை மற்றும் போக்குவரத்து. இந்த பட்டியலில் உணவு அல்லது தங்குமிடம் இல்லை."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "நீங்கள் தனியாக இல்லை. மேலே உள்ள நெருக்கடி பொத்தான் எப்போதும் இங்கே உள்ளது  ⁇  அவசரநிலைகளில் 988 அல்லது 911 ஐ அழைக்கவும் அல்லது உரை அனுப்பவும்."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "விண்ணப்பிப்பதற்கு முன் உங்கள் நிபந்தனை அல்லது நிபந்தனை கால விதிமுறைகளை உங்கள் அதிகாரியுடன் சரிபார்க்கவும்."
+    }
+  }
+}
