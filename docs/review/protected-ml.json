@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "ml",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/ml/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "സഹായം വേണം"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "അടിയന്തരാവസ്ഥ: 911 വിളിക്കുക."
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "കോൾ 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "അടയ്ക്കുക"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "വാചകം 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "നിങ്ങള് ഒറ്റയ്ക്കല്ല"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "കോൾ 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "ചെറിയ പ്രാദേശിക ജോലികൾ. നിങ്ങളുടെ ഓഫീസറുമായി പരോൾ വ്യവസ്ഥകൾ പരിശോധിക്കുക. ഫോൺ നമ്പറുകൾ കാണിക്കില്ല."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "സമ്പാദ്യ ലക്ഷ്യങ്ങളും ഒരു ഭവന സന്നദ്ധത പദ്ധതിയും. Groundwork വീട് നൽകുന്നില്ല, സേവനദാതാക്കളുമായി സഹകരിക്കുന്നില്ല. പ്രാദേശിക സഹായത്തിനായി 211 എന്ന നമ്പറിൽ വിളിക്കുക."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "പണമടച്ചുള്ള പ്ലാൻ. ഇതുവരെ വില നിശ്ചയിച്ചിട്ടില്ല."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "പരോൾ നാവിഗേഷൻ"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "ടോക്കണുകള് ക്ക് പണ മൂല്യം ഇല്ല."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "വീഡിയോ പോസ്റ്റ് (പെയ്ഡ്)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "പ്രാദേശിക വിഭവങ്ങൾക്കായി 211 വിളിക്കുക"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "ഈ നമ്പറുകൾ ഇപ്പോൾ സേവ് ചെയ്യുക. നിങ്ങൾക്ക് ഏതെങ്കിലും സ്ക്രീനിന്റെ മുകളിലുള്ള സഹായം ആവശ്യമുണ്ടോ എന്ന് ടാപ്പുചെയ്യാനും കഴിയും."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "നിങ്ങളുടെ ഫോണിൽ 988 ഉം 911 ഉം സംരക്ഷിക്കുക"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "എല്ലാ കോടതി തീയതികളും ചെക്ക്-ഇന്നുകളും ഒരു കലണ്ടറിൽ ഇടുക"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "നിങ്ങളുടെ പിഴ, ഫീസ്, നഷ്ടപരിഹാരം എന്നിവ പരിശോധിക്കുക"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "മെഡികെയ്ഡിൽ ചേരുക, ആവശ്യമെങ്കിൽ സ്നാപ്പ് ചെയ്യുക"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "താമസിക്കാൻ സുരക്ഷിതമായ ഒരു സ്ഥലം കണ്ടെത്തുക (കോൾ 211 അല്ലെങ്കിൽ പ്രാദേശിക ഭവന വിഭവങ്ങൾ)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "ഈ ആഴ്ചയ്ക്കുള്ള ഭക്ഷണം കണ്ടെത്തുക (കോൾ 211 അല്ലെങ്കിൽ പ്രാദേശിക ഭക്ഷണശാല)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "ഒരു ഡ്രാഫ്റ്റ്  ⁇  അവലോകനത്തിനായി. ഒരു സ്ലിപ്പ് ശേഷം ആദ്യ 24 മണിക്കൂർ ശാന്തമായ ആദ്യ നടപടികൾ ഇവിടെ കാണും ഒരിക്കൽ അവലോകനം. നിങ്ങൾ ഒറ്റയ്ക്കല്ല."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "നിങ്ങളുടെ ഡോക്യുമെന്റുകൾ എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു. പണമടച്ചുള്ള പ്ലാൻ സവിശേഷത; ഇതുവരെ വില നിശ്ചയിച്ചിട്ടില്ല."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "നിയമസഹായം, ചികിത്സ, ഗതാഗതം എന്നിവയൊന്നും ഈ പട്ടികയിൽ ഉൾപ്പെടുത്തിയിട്ടില്ല."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "നിങ്ങൾ ഒറ്റയ്ക്കല്ല. മുകളിലുള്ള പ്രതിസന്ധി ബട്ടൺ എല്ലായ്പ്പോഴും ഇവിടെയുണ്ട്  ⁇  ഒരു അടിയന്തിര സാഹചര്യത്തിൽ 988 അല്ലെങ്കിൽ 911 വിളിക്കുകയോ ടെക്സ്റ്റ് ചെയ്യുകയോ ചെയ്യുക."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "അപേക്ഷിക്കുന്നതിനുമുമ്പ് നിങ്ങളുടെ പരോൾ അല്ലെങ്കിൽ പ്രൊബേഷൻ വ്യവസ്ഥകൾ നിങ്ങളുടെ ഓഫീസറുമായി പരിശോധിക്കുക."
+    }
+  }
+}
