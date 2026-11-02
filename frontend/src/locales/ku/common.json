@@ -12,7 +12,7 @@
     "matching": "Lihevhatî",
     "venue": "Cih",
     "family": "Malbat",
-    "platform": "Settings"
+    "platform": "Mîheng"
   },
   "home": {
     "title": "Bi xêr hatina {{app}}",
@@ -39,7 +39,7 @@
     "loginNeeded": "Ji bo tomarkirinê bikevin.",
     "roughHelp": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
     "suggestFilters": "Filterên pêşniyarkirî ji bo îro",
-    "locksTitle": "Locks",
+    "locksTitle": "Qefil",
     "locksHelp": "Ji bo hefteyekê, du hefteyan, mehekê, an jî bi awayekî mayînde taybetmendiyekê qedexe bikin.",
     "lockTarget": "Taybetmendî",
     "addLock": "Qedexeya hefteyê zêde bike",
@@ -97,7 +97,7 @@
     "priorityNormal": "Asayî",
     "priorityHigh": "Bilind",
     "notes": "Têbînî",
-    "save": "Save",
+    "save": "Tomar bike",
     "mySteps": "Gavanên min",
     "addStep": "Gava xwe lê zêde bike",
     "addStepPlaceholder": "Gava xwe lê zêde bike",
@@ -167,7 +167,7 @@
     "milestonesTitle": "Pêngavên girîng",
     "milestoneDays": "Rojên merheleyê",
     "startDate": "Roja destpêkirinê",
-    "save": "Save",
+    "save": "Tomar bike",
     "days": "Rojan",
     "reached": "Destkeftî",
     "portfolioTitle": "Portfoliyoya rêwîtiyê",
@@ -345,7 +345,7 @@
     "portfolioDelete": "Bişkînin",
     "moveUp": "Bilêv bike",
     "moveDown": "Li jêr vegerin",
-    "save": "Save",
+    "save": "Tomar bike",
     "cancel": "betal bike",
     "suggestTitle": "Li gor pîvanên te",
     "suggestHelp": "Tenê pêşniyar — heta ku hûn lê zêde nekin tiştek nayê weşandin."

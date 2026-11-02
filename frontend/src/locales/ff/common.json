@@ -15,7 +15,7 @@
     "platform": "Daartolji"
   },
   "home": {
-    "title": "Welcome to {{app}}",
+    "title": "Jabbama e {{app}}",
     "tagline": "Go'o ummaatoore ngam hootugo saare e jooɗugo boɗɗum."
   },
   "crisis": {
@@ -58,7 +58,7 @@
     "anonymous": "Wurtinol ko anndaaka",
     "post": "Postol",
     "dmTitle": "Habaruji hakkunde yimɓe",
-    "noPhone": "Phone numbers are never shown in peer messaging.",
+    "noPhone": "Tonngal telefoŋaaji meeɗaa hollirtaa e nder mesaasuuji.",
     "recipient": "Wurtinol limgal",
     "message": "Habaru",
     "send": "Wurtinol",
@@ -304,14 +304,14 @@
     "pingStart": "Ping fijirde arandejum",
     "pingNext": "Ping mooɓtorɗo ɓaawo",
     "pingConfirm": "Tabitin hiddeko a wurtina",
-    "pingAwaiting": "Waiting for reply (2-minute timeout)",
+    "pingAwaiting": "Miɗo faadii jaabaaki (2 minit)",
     "pingTimeout": "Saaki wakkati",
     "pingDone": "Walaa mooɓotooɓe feere",
     "housingTitle": "Joonde e ceede",
     "housingHelp": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
     "goalName": "Innde fijirde",
     "goalTarget": "Fooyre ($)",
-    "goalSaved": "Saved so far ($)",
+    "goalSaved": "Ko mooftaa haa jooni ($)",
     "addGoal": "Ɓeyditugo fijirde",
     "updateSaved": "wurtini Update",
     "delete": "Wurtinol",

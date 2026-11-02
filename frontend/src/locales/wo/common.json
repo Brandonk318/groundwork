@@ -42,7 +42,7 @@
     "locksTitle": "Jëfandikoo",
     "locksHelp": "Bësal benn jumtukaay ci benn ayu-bés, ñaari ayu-bés, benn weer, walla ba fàww.",
     "lockTarget": "Njariñ",
-    "addLock": "Add week lock",
+    "addLock": "Yokk cëf ayu-bis",
     "lockSaved": "Gël-gël la.",
     "mood": {
       "good": "Lu baax",
@@ -358,6 +358,6 @@
     "markRead": "jàng Marek"
   },
   "translationCheck": {
-    "notice": "Please double-check the translation to make sure it matches the English version."
+    "notice": "Seytutaan sa tekki ngir saytukaay bi ngir dëggël ne mu mëngoo ak nasaraan biy Ingle."
   }
 }

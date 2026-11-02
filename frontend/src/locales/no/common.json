@@ -41,7 +41,7 @@
     "suggestFilters": "Anbefalt filter for i dag",
     "locksTitle": "Låser",
     "locksHelp": "Lås en funksjon for en uke, to uker, en måned, eller permanent.",
-    "lockTarget": "Feature",
+    "lockTarget": "Funksjon",
     "addLock": "Legg til ukeslås",
     "lockSaved": "Lås lagret.",
     "mood": {
@@ -61,7 +61,7 @@
     "noPhone": "Telefonnumre vises aldri i peer-messaging.",
     "recipient": "Medlem håndtak",
     "message": "Melding",
-    "send": "Send",
+    "send": "Send inn",
     "dmSent": "Melding sendt."
   },
   "support": {

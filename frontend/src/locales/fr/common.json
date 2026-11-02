@@ -60,7 +60,7 @@
     "dmTitle": "Messages entre pairs",
     "noPhone": "Les numéros de téléphone ne sont jamais affichés dans la messagerie entre pairs.",
     "recipient": "Pseudo du membre",
-    "message": "Message",
+    "message": "Texte",
     "send": "Envoyer",
     "dmSent": "Message envoyé."
   },
@@ -96,7 +96,7 @@
     "priorityLow": "Basse",
     "priorityNormal": "Normale",
     "priorityHigh": "Haute",
-    "notes": "Notes",
+    "notes": "Remarques",
     "save": "Enregistrer",
     "mySteps": "Mes propres étapes",
     "addStep": "Ajouter ta propre étape",

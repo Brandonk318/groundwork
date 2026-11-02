@@ -61,7 +61,7 @@
     "noPhone": "Telefonnumre vises aldrig i peer-messaging.",
     "recipient": "Medlemshåndtag",
     "message": "Meddelelse",
-    "send": "Send",
+    "send": "Afsend",
     "dmSent": "Meddelelse sendt."
   },
   "support": {
@@ -106,7 +106,7 @@
     "tipsAnonymous": "Tips er anonyme, telefonnumre er aldrig vist.",
     "addTip": "Del et tip anonymt",
     "tipPlaceholder": "Hvad hjalp dig med dette skridt?",
-    "sendTip": "Send tip",
+    "sendTip": "Send tippet",
     "noTips": "Ingen drikkepenge endnu.",
     "celebrationFirst": "Det første skridt er taget. Velkommen hjem.",
     "celebrationSection": "Afsnit færdig",

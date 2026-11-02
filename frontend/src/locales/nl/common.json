@@ -9,7 +9,7 @@
     "wellbeing": "Welzijn",
     "safety": "Veiligheid",
     "learning": "Leer",
-    "matching": "Match",
+    "matching": "Vriendschap",
     "venue": "De locatie",
     "family": "Gezin",
     "platform": "Instellingen"
@@ -65,7 +65,7 @@
     "dmSent": "Boodschap verzonden."
   },
   "support": {
-    "resourcesTitle": "Resource directory",
+    "resourcesTitle": "Hulpgids",
     "resourcesNote": "Legal aid, treatment and transit. This directory does not cover food or housing.",
     "meetingsTitle": "Vergaderingen in twaalf stappen en herstel"
   },

@@ -194,7 +194,7 @@
     "help": "Wokenkan no den no, wode wo afiri no nne kenkan asɛm no den."
   },
   "phase3": {
-    "resumeTitle": "Resume builder",
+    "resumeTitle": "Yɛ wo resume",
     "resumeHelp": "Fa nsɛm a emu da hɔ bɔ wo bra.",
     "fullName": "Ne din ne baabi a ofi",
     "headline": "Asɛmti Titiriw",
@@ -311,7 +311,7 @@
     "housingHelp": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
     "goalName": "Botae no din",
     "goalTarget": "Botae ($)",
-    "goalSaved": "Saved so far ($)",
+    "goalSaved": "Nea wɔakora bɛsi nnɛ ($)",
     "addGoal": "Fa botae ka ho",
     "updateSaved": "wɔakora so Update",
     "delete": "Sɛe no",
