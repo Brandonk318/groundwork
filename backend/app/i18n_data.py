@@ -61,4 +61,5 @@ LANGS_DATA = [
  {"code":"ps","label":"پښتو","dir":"rtl"},
  {"code":"prs","label":"دری","dir":"rtl"},
  {"code":"sv","label":"Svenska","dir":"ltr"},
+ {"code":"hu","label":"Magyar","dir":"ltr"},
 ]
