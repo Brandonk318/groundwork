@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "yi",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/yi/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "דאַרפֿן הילף איצט"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "נויטפאַל: רופן 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "רופן 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "נאָענט"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "טעקסט 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "דו ביסט נישט אַליין"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "רופן 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "קורץ היגע דזשאָבס. קאָנטראָלירן פּאַראָל באַדינגונגען מיט דיין אָפיציר. טעלעפאָן נומערן זענען קיינמאָל געוויזן."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "שפּאָרן צילן פּלוס אַ האָוסינג-גרייטנאַס פּלאַן. Groundwork טוט נישט צושטעלן האָוסינג און טוט נישט שוטעף מיט פּראַוויידערז. פֿאַר היגע הילף, רופן 211."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "באַצאָלטן פּלאַן. קיין פּרייַז איז נישט באַשטימט נאָך."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "פּאַראָל נאַוויגאַציע"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "טאָקענס האָבן קיין געלט ווערט."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "ווידעאָ פּאָסטן (באַצאָלט)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "רוף 211 פֿאַר היגע רעסורסן"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "ראַטעווען די נומערן איצט. איר קענען אויך גיט דאַרפֿן הילף איצט אין שפּיץ פון קיין פאַרשטעלן."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "ראַטעווען 988 און 911 אין דיין טעלעפאָן"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "לייג אַלע געריכט־דאַטע און באַשטעטיקונג אין אַ קאַלענדאַר"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "קאָנטראָלירן דיין פיינז, פיז און רעסטאַטושאַן"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "רעגיסטרירן זיך אין מעדיקעיד, און סנאַפּ אויב איר דאַרפֿן עס"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "געפֿינען אַ זיכער אָרט צו בלייַבן (רופן 211 אָדער היגע האָוסינג רעסורסן)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "געפֿינען עסנוואַרג פֿאַר דעם וואָך (רופן 211 אָדער אַ היגע עסנוואַרג קאַנטרי)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "דראַפט  ⁇  פֿאַר דורכקוק. רויק ערשטער טריט פֿאַר די ערשטער 24 שעה נאָך אַ סליפּ וועט דערשייַנען דאָ אַמאָל ריוויוד. איר זענט נישט אַליין."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "דיינע דאָקומענטן זענען ענקריפּטיד. באַצאָלט פּלאַן פֿעיִקייט; קיין פּרייַז איז נאָך נישט באַשטימט."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "לעגאַל הילף, באַהאַנדלונג און טראַזיט."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "איר זענט נישט אַליין. די קריזיס קנעפּל אויבן איז שטענדיק דאָ  ⁇  רופן אָדער טעקסט 988 אָדער 911 אין אַ נויטפאַל."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "קאָנטראָלירן דיין פּאַראָל אָדער פּראָובאַטיאָן באדינגונגען מיט דיין אָפיציר איידער אַפּלייינג."
+    }
+  }
+}
