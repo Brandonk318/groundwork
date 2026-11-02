@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "hy",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/hy/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Այժմ օգնության կարիք ունեմ:"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Շտապ օգնություն. զանգ 911"
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "Զանգ 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Մոտենալ"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Նամակ 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Դուք մենակ չեք:"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Զանգ 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Շտապ տեղական աշխատանքներ, ստուգեք ձեր ծառայողի հետ պայմանական ազատազրկման պայմանները։"
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Տնտեսական նպատակներ եւ բնակարանային պատրաստվածության ծրագիր: Groundwork-ը չի տրամադրում բնակարան եւ չի համագործակցում մատակարարների հետ: Տեղական օգնության համար զանգահարեք 211-ին:"
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Վճարովի պլան։ Գինը դեռ չի որոշվել։"
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Ենթադրյալ ազատազրկման նավարկություն"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Տոկենները դրամական արժեք չունեն:"
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Տեսահոլովակ (վճարով)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "Կոչ 211 տեղական ռեսուրսների համար"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Այժմ պահեք այս համարները: Դուք կարող եք նաեւ սեղմել \"Հիմա օգնության կարիք\" կոճակը ցանկացած էկրանի վերեւում:"
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "Պահպանեք 988 եւ 911-ը ձեր հեռախոսում"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Ամեն դատական ամսաթիվը եւ գրանցումը գրիր օրացույցում:"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Ստուգեք ձեր տուգանքները, վճարները եւ փոխհատուցումը"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Գրանցվել Medicaid, եւ SNAP, եթե դուք պետք է այն"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Գտեք բնակվելու անվտանգ վայր (հեռախոսազանգ 211 կամ տեղական բնակարանային ռեսուրսներ)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Գտեք սնունդ այս շաբաթվա համար (հեռախոսազանգ 211 կամ տեղական սննդի խանութ)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "Նախագիծ  ⁇  վերանայելու համար: Հանգիստ առաջին քայլերը առաջին 24 ժամվա ընթացքում, երբ սլիպը վերանայվի: Դուք մենակ չեք:"
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Ձեր փաստաթղթերը կոդավորված են: Վճարովի պլանի առանձնահատկություն, գինը դեռ չի սահմանվել:"
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Իրավաբանական օգնություն, բուժում եւ տարանցում: Այս ցուցակը չի ներառում սնունդ կամ բնակարան:"
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Դուք մենակ չեք, վերը նշված ճգնաժամային կոճակը միշտ այստեղ է  ⁇  զանգահարեք կամ հաղորդագրություն ուղարկեք 988-ին կամ 911-ին շտապ օգնության դեպքում:"
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Նախքան դիմում ներկայացնելը ստուգեք ձեր ազատազրկման կամ փորձարկման պայմանները ձեր ծառայողի հետ:"
+    }
+  }
+}
