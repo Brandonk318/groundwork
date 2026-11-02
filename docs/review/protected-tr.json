@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "lang": "tr",
+    "status": "DRAFT — for human review only. Do NOT copy into frontend/src/locales/tr/common.json until a qualified reviewer approves each string.",
+    "source": "frontend/src/locales/en/common.json (open-questions #9 protected set)",
+    "warning": "Crisis/safety copy: machine draft only, never ship unreviewed."
+  },
+  "strings": {
+    "crisis.button": {
+      "en": "Need help now",
+      "draft": "Hemen yardıma ihtiyacım var"
+    },
+    "crisis.call911": {
+      "en": "Emergency: call 911",
+      "draft": "Acil durum: 911 arayın ."
+    },
+    "crisis.call988": {
+      "en": "Call 988",
+      "draft": "Çağrı 988"
+    },
+    "crisis.close": {
+      "en": "Close",
+      "draft": "Yakın"
+    },
+    "crisis.text988": {
+      "en": "Text 988",
+      "draft": "Metin 988"
+    },
+    "crisis.title": {
+      "en": "You are not alone",
+      "draft": "Yalnız değilsin"
+    },
+    "phase3.call211": {
+      "en": "Call 211",
+      "draft": "Çağrı 211"
+    },
+    "phase3.gigsHelp": {
+      "en": "Short local jobs. Check parole conditions with your officer. Phone numbers are never shown.",
+      "draft": "Kısa süreli yerel işler, şartlı tahliye şartlarını memurunla kontrol et."
+    },
+    "phase3.housingHelp": {
+      "en": "Savings goals plus a housing-readiness plan. Groundwork does not provide housing and does not partner with providers. For local help, call 211.",
+      "draft": "Tasarruf hedefleri artı konut hazırlık planı. Groundwork konut sağlamaz ve sağlayıcılarla ortaklık kurmaz. Yerel yardım için 211'i arayın."
+    },
+    "phase3.paidNote": {
+      "en": "Paid plan. No price has been set yet.",
+      "draft": "Ücretli plan, henüz fiyat belirlenmedi."
+    },
+    "phase3.parole": {
+      "en": "Parole navigation",
+      "draft": "Şartlı tahliye navigasyonu"
+    },
+    "phase3.tokensHelp": {
+      "en": "Tokens have no cash value.",
+      "draft": "Tokenlerin nakit değeri yoktur."
+    },
+    "phase3.video": {
+      "en": "Video post (paid)",
+      "draft": "Video gönderisi (ücretli)"
+    },
+    "reentry.call211": {
+      "en": "Call 211 for local resources",
+      "draft": "Yerel kaynaklar için 211 çağrısı"
+    },
+    "reentry.crisisStep": {
+      "en": "Save these numbers now. You can also tap Need help now at the top of any screen.",
+      "draft": "Bu numaraları şimdi kaydedebilirsiniz. Ayrıca herhangi bir ekranın üst kısmında şimdi yardıma ihtiyacınız var'a dokunabilirsiniz."
+    },
+    "reentry.steps.step11": {
+      "en": "Save 988 and 911 in your phone",
+      "draft": "988 ve 911'i telefonunuzda kaydedin"
+    },
+    "reentry.steps.step14": {
+      "en": "Put every court date and check-in on a calendar",
+      "draft": "Her mahkeme tarihini ve check-in'i takvime koy"
+    },
+    "reentry.steps.step17": {
+      "en": "Check your fines, fees and restitution",
+      "draft": "Cezalarınızı, ücretlerinizi ve geri ödemelerinizi kontrol edin"
+    },
+    "reentry.steps.step19": {
+      "en": "Enroll in Medicaid, and SNAP if you need it",
+      "draft": "Medicaid'e kaydolun ve ihtiyacınız olursa SNAP'a başvurun"
+    },
+    "reentry.steps.step7": {
+      "en": "Find a safe place to stay (call 211 or local housing resources)",
+      "draft": "Kalmak için güvenli bir yer bulun (211 veya yerel konut kaynaklarını arayın)"
+    },
+    "reentry.steps.step8": {
+      "en": "Find food for this week (call 211 or a local food pantry)",
+      "draft": "Bu hafta için yiyecek bul (211'yi ya da yerel bir yiyecek defterini ara)"
+    },
+    "safety.relapseDraft": {
+      "en": "Draft — for review. Calm first steps for the first 24 hours after a slip will appear here once reviewed. You are not alone.",
+      "draft": "İnceleme için  ⁇  taslağı. bir kayıp sonra ilk 24 saat için sakin ilk adımlar burada bir kez gözden geçirilmiş olacak. yalnız değilsin."
+    },
+    "safety.vaultHelp": {
+      "en": "Your documents are encrypted. Paid plan feature; no price has been set yet.",
+      "draft": "Belgeleriniz şifrelenmiş. Ücretli plan özelliği; henüz fiyat belirlenmedi."
+    },
+    "support.resourcesNote": {
+      "en": "Legal aid, treatment and transit. This directory does not cover food or housing.",
+      "draft": "Hukuk yardımı, tedavi ve transit."
+    },
+    "wellbeing.roughHelp": {
+      "en": "You are not alone. The crisis button above is always here — call or text 988, or 911 in an emergency.",
+      "draft": "Yukarıdaki kriz düğmesi her zaman burada  ⁇  acil bir durumda 988 veya 911'yi ara veya mesaj at."
+    },
+    "work.paroleNote": {
+      "en": "Check your parole or probation conditions with your officer before applying.",
+      "draft": "Başvurmadan önce şartlı tahliye veya şartlı tahliye şartlarını memurunla kontrol et."
+    }
+  }
+}
