@@ -48,7 +48,7 @@ nitpicks), then redo batches 1-29:
 - `d27a732` batch 27: te ti tw
 - `b4ccc94` batch 28: uz wo yi
 - `9fefc93` batch 29: yo yue zu
-- `<ru-commit>` batch 30 (Nov 3): ru (fresh native Russian from en + es,
+- `c0ca5d0` batch 30 (Nov 3): ru (fresh native Russian from en + es,
   same standard; old file was NLLB output, not Brann's translation)
 
 ## English-leftover counts (strings still equal to English, 317 keys each)
