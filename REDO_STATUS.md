@@ -1,8 +1,9 @@
 # Groundwork locale REDO status
 
 Fresh from-scratch redo of all 88 non-baseline locales (everything except `en`).
-`es` is the untouched Spanish baseline. `ru` is Brann-owned (translated by Brann
-himself; never touched by this redo). No Hmong locale exists in this repo.
+`es` is the untouched Spanish baseline. `ru` was redone fresh Nov 3 (Brann
+clarified it is NOT his own translation; the old file was NLLB-200 output).
+No Hmong locale exists in this repo.
 
 Method per locale: translated fresh from the English source (+ Spanish reference),
 never reusing old locale files or NLLB/template output. Placeholders (`{{app}}`,
@@ -47,17 +48,19 @@ nitpicks), then redo batches 1-29:
 - `d27a732` batch 27: te ti tw
 - `b4ccc94` batch 28: uz wo yi
 - `9fefc93` batch 29: yo yue zu
+- `<ru-commit>` batch 30 (Nov 3): ru (fresh native Russian from en + es,
+  same standard; old file was NLLB output, not Brann's translation)
 
 ## English-leftover counts (strings still equal to English, 317 keys each)
 
 Every locale passes: 317-key parity with `en`, no `⁇`, all `{{...}}`
 placeholders preserved. Counts below = protected 25 + documented extras:
 
-- 25 (protected only): am ar bn es fa hi ht ko my ne pa ru so sw ur vi zh
+- 25 (protected only): am ar bn es fa hi ht ko my ne pa so sw ur vi zh
   (+ `en` 317 = source itself)
 - 26 (protected + `Quiz`): az bg bho el ff gu ha he hr hu hy id ig jv ka kk
-  km kn ku ln lo lt lv mg mk ml mr ms om pl prs ps qu rn ro rw si sk sl sm
-  ta te ti tr uk uz wo yi yo yue zu
+  km kn ku ln lo lt lv mg mk ml mr ms om pl prs ps qu rn ro ru rw si sk sl
+  sm ta te ti tr uk uz wo yi yo yue zu
 - 27 (protected + `Quiz` + one legitimate loanword): ceb (`Normal`), ilo
   (`Normal`), sq (`Normal`), jv (`Normal`), sv (`Normal`); tl = 27 as
   protected 25 + `Account` + `Password` (tl Quiz is natively translated,
@@ -88,6 +91,18 @@ strings remain in any locale.
   no `Test`/`Teste` quiz values, `it` password = `Password`,
   `fr` message = `Message`, `ja` polite form confirmed.
 
+## ru redo verification (Nov 3)
+
+- Fresh native Russian from en + es (`/tmp/redo_ru.py`): 317-key parity,
+  no `⁇`, `{{app}}` intact, `reentry.crisisStep` quotes the exact
+  `"Need help now"` button name, `phase3.quiz` = `Quiz`, every
+  non-protected string contains Cyrillic (Latin only in `{{app}}`,
+  `Groundwork`, quoted button name).
+- English-equal: **26** (protected-25 + `Quiz`).
+- Same gates re-run after the ru redo: backend **140 passed**, frontend
+  **63 passed (8 files)**, `npm run build` passes. Committed locally,
+  never pushed.
+
 ## Typos caught and fixed before commit (batches 18-29)
 
 - Fulfulde step1 French fragment → pure Fulfulde; familyRideHelp stray `h`.
@@ -109,12 +124,12 @@ strings remain in any locale.
 
 ## For Brann to review
 
-- 18 early-batch locales translate `Quiz` natively (am ar bn es fa hi ht
-  ko my ne pa so sw tl ur vi zh + ru-owner): am `ጥያቄዎች`, ar `اختبار`,
+- 17 early-batch locales translate `Quiz` natively (am ar bn es fa hi ht
+  ko my ne pa so sw tl ur vi zh): am `ጥያቄዎች`, ar `اختبار`,
   bn `কুইজ`, es `Cuestionario`, fa `آزمونک`, hi `क्विज़`, ht `Tès`,
   ko `퀴즈`, my `ဉာဏ်စမ်း`, ne `प्रश्नोत्तरी`, pa `ਕੁਇਜ਼`, so `Su'aalo`,
   sw `Jaribio`, tl `Pagsusulit`, ur `کوئز`, vi `Câu đố`, zh `小测`.
-  None are `Test`/`Teste`; batches 18-29 use literal `Quiz` throughout.
+  None are `Test`/`Teste`; batches 18-30 (incl. ru) use literal `Quiz`.
 - `ja` crisisStep quotes the button name in 「」 rather than ASCII quotes.
 - `open-questions.md` #9 vs live files: doc says `crisisReply.*` English,
   live files have them translated — needs reviewer reconciliation
